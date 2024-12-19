@@ -1,1 +1,13 @@
+/* Set the map container's size */
+#map {
+    height: 100vh; /* Full-screen height */
+    width: 100%;   /* Full width of the viewport */
+    margin: 0;
+    padding: 0;
+    }
 
+  /* Optional: Style the body to remove default margins */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
