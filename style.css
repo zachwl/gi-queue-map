@@ -17,3 +17,64 @@ body {
   height: 300px;
   margin-top: 20px;
 }
+
+.symbologyButton {
+  background-color: #f8f9fa;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#totalGenButton {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+#solarButton {
+  position: fixed;
+  top: 50px;
+  right: 20px;
+  z-index: 1000;
+}
+#windButton {
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  z-index: 1000;
+}
+#ngButton {
+  position: fixed;
+  top: 110px;
+  right: 20px;
+  z-index: 1000;
+}
+#storageButton {
+  position: fixed;
+  top: 140px;
+  right: 20px;
+  z-index: 1000;
+}
+#hybridButton {
+  position: fixed;
+  top: 170px;
+  right: 20px;
+  z-index: 1000;
+}
+#otherButton {
+  position: fixed;
+  top: 200px;
+  right: 20px;
+  z-index: 1000;
+}
+#fuelButton {
+  position: fixed;
+  top: 230px;
+  right: 20px;
+  z-index: 1000;
+}

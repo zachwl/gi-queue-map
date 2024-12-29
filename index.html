@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Generator Interconnection Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div id="map"></div>
-
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="script.js"></script>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Generator Interconnection Map</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="map"></div>
+        <button class = "symbologyButton" id = 'totalGenButton'>All Generation</button>
+        <button class = "symbologyButton" id = 'solarButton'>Solar</button>
+        <button class = "symbologyButton" id = 'fuelButton'>Fuels</button>
+        <button class = "symbologyButton" id = 'windButton'>Wind</button>
+        <button class = "symbologyButton" id = 'ngButton'>Natural Gas</button>
+        <button class = "symbologyButton" id = 'storageButton'>Storage</button>
+        <button class = "symbologyButton" id = 'hybridButton'>Hybrid</button>
+        <button class = "symbologyButton" id = 'otherButton'>Other</button>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="script.js"></script>
+    </body>
 </html>
