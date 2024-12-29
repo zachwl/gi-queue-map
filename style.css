@@ -11,3 +11,9 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
+
+#chart-container {
+  width: 200px;
+  height: 300px;
+  margin-top: 20px;
+}
