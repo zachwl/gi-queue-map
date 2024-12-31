@@ -1,0 +1,428 @@
+id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owner,iso_utility,join_key
+1594,Woonsocket Substation – Tifft ST BESS,4.5,Storage,2024-11-15 00:00:00,2026-12-31 00:00:00,Providence,RI,,PJM,providence_ri
+1593,Point St Substation – Aldrich St BESS,3.0,Storage,2024-11-15 00:00:00,2026-12-31 00:00:00,Providence,RI,,PJM,providence_ri
+1592,SHELD BESS,3.0,Storage,2024-08-21 00:00:00,2025-09-01 00:00:00,Hampden,MA,,PJM,hampden_ma
+1591,Chase Hill Substation -  Western RI DER Study #3,2.375,Solar,2024-08-19 00:00:00,2026-12-31 00:00:00,Washington,RI,,PJM,washington_ri
+1590,Tower Hill Substation -  Western RI DER Study #3,3.059999942779541,Solar,2024-08-19 00:00:00,2026-12-31 00:00:00,Washington,RI,,PJM,washington_ri
+1589,Kent County Substation - Western RI DER Study #3,21.74799919128418,Solar,2024-08-19 00:00:00,2026-12-31 00:00:00,Kent,RI,,PJM,kent_ri
+1588,Wood River Substation - Western RI DER Study #3,49.0,Solar,2024-08-19 00:00:00,2026-12-31 00:00:00,Washington,RI,,PJM,washington_ri
+1587,Battery Storage,3.0,Storage,2024-08-15 00:00:00,2025-10-15 00:00:00,Worcester,MA,,PJM,worcester_ma
+1586,Battery Storage,16.0,Storage,2024-08-14 00:00:00,2026-04-01 00:00:00,Chittenden,VT,,PJM,chittenden_vt
+1585,HGE Group Study,12.979999542236328,Storage,2024-08-13 00:00:00,2026-01-01 00:00:00,Hampden,MA,,PJM,hampden_ma
+1584,HGE Group Study,4.0,Natural Gas,2024-08-13 00:00:00,2026-01-01 00:00:00,Hampden,MA,,PJM,hampden_ma
+1583,HGE Group Study,4.949999809265137,Storage,2024-08-13 00:00:00,2025-02-15 00:00:00,Hampden,MA,,PJM,hampden_ma
+1582,Paxton BESS,3.0,Storage,2024-07-29 00:00:00,2024-12-02 00:00:00,Worcester,MA,,PJM,worcester_ma
+1581,TMLP Landfill Solar,2.990000009536743,Solar,2024-07-29 00:00:00,2025-01-25 00:00:00,Bristol,MA,,PJM,bristol_ma
+1580,RMLD DER Group Study,9.979999542236328,Storage,2024-07-29 00:00:00,2025-06-16 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1579,RMLD DER Group Study,4.995999813079834,Storage,2024-07-29 00:00:00,2025-02-16 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1571,Battery Storage,19.729999542236328,Storage,2024-06-13 00:00:00,2027-06-30 00:00:00,Worcester,MA,,PJM,worcester_ma
+1568,Battery Storage,312.8399963378906,Storage,2024-06-12 00:00:00,2027-01-31 00:00:00,Washington,RI,,PJM,washington_ri
+1567,Battery Storage,514.7999877929688,Storage,2024-06-11 00:00:00,2027-01-31 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1566,Wind,197.39999389648438,Wind,2024-06-11 00:00:00,2028-10-01 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1564,Battery Storage,100.95500183105469,Storage,2024-06-06 00:00:00,2027-09-30 00:00:00,Windham,VT,,PJM,windham_vt
+1563,Solar,165.0,Solar,2024-06-06 00:00:00,2028-06-06 00:00:00,Somerset,ME,,PJM,somerset_me
+1561,Battery Storage,141.60000610351562,Storage,2024-06-06 00:00:00,2027-04-01 00:00:00,Litchfield,CT,,PJM,litchfield_ct
+1560,Battery Storage,133.79600524902344,Storage,2024-06-06 00:00:00,2027-04-01 00:00:00,Bristol,MA,,PJM,bristol_ma
+1559,Battery Storage,93.19999694824219,Storage,2024-06-06 00:00:00,2027-05-01 00:00:00,New London,CT,,PJM,new london_ct
+1558,Battery Storage,141.5,Storage,2024-06-06 00:00:00,2028-01-01 00:00:00,Bristol,MA,,PJM,bristol_ma
+1557,Battery Storage,240.15769958496094,Storage,2024-06-06 00:00:00,2028-01-01 00:00:00,Essex,MA,,PJM,essex_ma
+1556,Battery Storage,204.8179931640625,Storage,2024-06-06 00:00:00,2027-10-11 00:00:00,Worcester,MA,,PJM,worcester_ma
+1555,Battery Storage,214.15679931640625,Storage,2024-06-06 00:00:00,2028-01-01 00:00:00,Essex,MA,,PJM,essex_ma
+1553,Battery Storage,135.60000610351562,Storage,2024-06-04 00:00:00,2028-05-01 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1551,Battery Storage,190.0,Storage,2024-05-31 00:00:00,2027-01-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1547,Solar,19.600000381469727,Solar,2024-05-31 00:00:00,2027-12-01 00:00:00,Penobscot,ME,,PJM,penobscot_me
+1546,Battery Storage,202.07000732421875,Storage,2024-05-30 00:00:00,2030-06-06 00:00:00,Berkshire,MA,,PJM,berkshire_ma
+1545,Battery Storage,100.7520980834961,Storage,2024-05-30 00:00:00,2028-08-01 00:00:00,Franklin,MA,,PJM,franklin_ma
+1543,Battery Storage,588.2999877929688,Storage,2024-05-28 00:00:00,2028-12-01 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1542,Battery Storage,202.07000732421875,Storage,2024-05-28 00:00:00,2030-01-24 00:00:00,Hampden,MA,,PJM,hampden_ma
+1541,Battery Storage,101.0,Storage,2024-05-28 00:00:00,2028-05-31 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1540,EE CT DER Group Study,19.999000549316406,Storage,2024-05-15 00:00:00,2025-12-31 00:00:00,Hartford,CT,,PJM,hartford_ct
+1539,EE CT DER Group Study,20.0,Storage,2024-05-15 00:00:00,2027-04-05 00:00:00,Middlesex,CT,,PJM,middlesex_ct
+1538,EE CT DER Group Study,4.989999771118164,Storage,2024-05-15 00:00:00,2025-12-31 00:00:00,New London,CT,,PJM,new london_ct
+1537,EE CT DER Group Study,4.989999771118164,Storage,2024-05-15 00:00:00,2025-12-31 00:00:00,New London,CT,,PJM,new london_ct
+1535,EE 2024 SEMA/Cape ASO Group Study	,2.805000066757202,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1534,EE 2024 SEMA/Cape ASO Group Study	,4.980000019073486,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1533,EE 2024 SEMA/Cape ASO Group Study	,16.940000534057617,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1532,EE 2024 SEMA/Cape ASO Group Study	,4.999000072479248,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1531,EE 2024 SEMA/Cape ASO Group Study,4.980000019073486,Solar/Storage,2024-05-08 00:00:00,2024-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1530,EE 2024 SEMA/Cape ASO Group Study,4.999000072479248,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Bristol,MA,,PJM,bristol_ma
+1529,EE 2024 SEMA/Cape ASO Group Study,4.989999771118164,Storage,2024-05-08 00:00:00,2024-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1528,EE 2024 SEMA/Cape ASO Group Study,4.999199867248535,Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1527,EE 2024 SEMA/Cape ASO Group Study,2.5,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1526,EE 2024 SEMA/Cape ASO Group Study,4.980000019073486,Solar/Storage,2024-05-08 00:00:00,2026-12-31 00:00:00,Bristol,MA,,PJM,bristol_ma
+1524,Battery Storage,237.60000610351562,Storage,2024-05-06 00:00:00,2027-01-31 00:00:00,Hartford,CT,,PJM,hartford_ct
+1523,Battery Storage,253.8159942626953,Storage,2024-05-06 00:00:00,2029-06-01 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1521,Solar CNR only,0.0,Solar,2024-04-22 00:00:00,2026-05-31 00:00:00,Addison,VT,,PJM,addison_vt
+1520,Battery Storage,125.0,Storage,2024-04-16 00:00:00,2028-05-01 00:00:00,New Haven,CT,,PJM,new haven_ct
+1519,Offshore Wind,1200.0,Wind,2024-04-12 00:00:00,2031-04-10 00:00:00,,RI,,PJM,
+1518,Battery Storage,139.5,Storage,2024-04-09 00:00:00,2028-08-30 00:00:00,Berkshire,MA,,PJM,berkshire_ma
+1517,Battery Storage,365.79998779296875,Storage,2024-04-09 00:00:00,2028-08-30 00:00:00,Franklin,MA,,PJM,franklin_ma
+1516,Battery Storage,114.69999694824219,Storage,2024-04-09 00:00:00,2028-08-30 00:00:00,Windsor,VT,,PJM,windsor_vt
+1515,Battery Storage,508.3999938964844,Storage,2024-04-09 00:00:00,2028-08-30 00:00:00,Berkshire,MA,,PJM,berkshire_ma
+1514,Battery Storage,408.1000061035156,Storage,2024-04-08 00:00:00,2028-08-30 00:00:00,Worcester,MA,,PJM,worcester_ma
+1513,Battery Storage,408.1000061035156,Storage,2024-04-08 00:00:00,2028-08-30 00:00:00,Worcester,MA,,PJM,worcester_ma
+1510,Battery Storage,152.7552032470703,Storage,2024-04-03 00:00:00,2027-12-31 00:00:00,Wocester,MA,,PJM,wocester_ma
+1509,Battery Storage,152.7552032470703,Storage,2024-04-03 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1507,Solar Increase,25.0,Solar,2024-03-27 00:00:00,2028-12-15 00:00:00,Hartford,CT,,PJM,hartford_ct
+1505,Offshore Wind,1275.0,Wind,2024-03-14 00:00:00,2031-09-01 00:00:00,,CT,,PJM,
+1502,Battery Storage,19.299999237060547,Storage,2024-03-28 00:00:00,2026-07-01 00:00:00,Franklin,VT,,PJM,franklin_vt
+1500,Offshore Wind CNR only,0.0,Wind,2024-02-20 00:00:00,2033-11-04 00:00:00,,MA,,PJM,
+1499,Battery Storage,115.5999984741211,Storage,2024-02-13 00:00:00,2026-10-31 00:00:00,Hampden,MA,,PJM,hampden_ma
+1498,Battery Storage,109.5199966430664,Storage,2024-02-08 00:00:00,2027-12-31 00:00:00,Fairfield,CT,,PJM,fairfield_ct
+1496,Battery Storage addition(QP1192),101.11579895019531,Solar/Storage,2024-02-07 00:00:00,2027-12-15 00:00:00,Hartford,CT,,PJM,hartford_ct
+1495,Battery Storage,19.299999237060547,Storage,2024-02-22 00:00:00,2026-07-01 00:00:00,Windsor,VT,,PJM,windsor_vt
+1494,Walpole 146 110A - 2023 EE GB ASO,4.989999771118164,Solar/Storage,2024-01-26 00:00:00,2026-12-31 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1493,Medway 65 110B - 2023 EE GB ASO,3.9000000953674316,Solar/Storage,2024-01-26 00:00:00,2026-12-31 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1492,Medway 65 110A - 2023 EE GB ASO,4.947999954223633,Storage,2024-01-26 00:00:00,2026-12-31 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1491,Canton 470 110A - 2023 EE GB ASO,4.989999771118164,Storage,2024-01-26 00:00:00,2026-12-31 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1490,EE Mansfield Center DG Cluster,19.975000381469727,Solar,2024-01-17 00:00:00,2024-12-31 00:00:00,Tolland,CT,,PJM,tolland_ct
+1489,EE Mansfield Center DG Cluster,10.798999786376953,Solar/Storage,2024-01-17 00:00:00,2025-07-27 00:00:00,Tolland,CT,,PJM,tolland_ct
+1488,Offshore Wind,1275.0,Wind,2024-01-11 00:00:00,2031-09-01 00:00:00,,CT,,PJM,
+1487,EE CT DG Group Study,5.0,Solar,2024-01-09 00:00:00,2024-12-31 00:00:00,New Haven,CT,,PJM,new haven_ct
+1486,Battery Storage,300.0,Storage,2024-01-02 00:00:00,2027-06-30 00:00:00,New Haven,CT,,PJM,new haven_ct
+1484,CMP Moshers/Prides Corner 115 kV SS - Greater Portland Area DG Study,7.239999771118164,Other,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1483,CMP Elm St 115 kV SS - Greater Portland Area DG Study,4.96999979019165,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1482,CMP Spring St 115 kV SS - Greater Portland Area DG Study,4.980000019073486,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1481,CMP Vallee Lane 115 kV SS - Louden-Biddeford Area DG Study,1.9900000095367432,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1480,CMP Biddeford IP 115 kV SS - Louden-Biddeford Area DG Study,4.949999809265137,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,York,ME,CMP,PJM,york_me
+1479,CMP West Buxton 115 kV SS - Louden-Biddeford Area DG Study,4.5,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,York,ME,CMP,PJM,york_me
+1478,Battery Storage,50.0,Storage,2023-12-28 00:00:00,2028-05-25 00:00:00,Hampden,MA,,PJM,hampden_ma
+1477,NG DG @ Sykes Road,9.998000144958496,Storage,2023-12-19 00:00:00,2025-12-31 00:00:00,Bristol,MA,,PJM,bristol_ma
+1476,NG NEMA Group DER Study,5.0,Storage,2023-12-18 00:00:00,2025-12-31 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1475,NG NEMA Group DER Study,4.998000144958496,Solar/Storage,2023-12-18 00:00:00,2025-12-31 00:00:00,Essex,MA,,PJM,essex_ma
+1474,NG NEMA Group DER Study,9.982000350952148,Storage,2023-12-18 00:00:00,2025-12-31 00:00:00,Essex,MA,,PJM,essex_ma
+1467,Battery Storage,69.4000015258789,Storage,2023-12-12 00:00:00,2026-10-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1466,Winslow-County Rd Lakewood 115 kV SS - Winslow-County Rd-Lakewood 2 DG Study,22.959999084472656,Solar,2023-12-05 00:00:00,2024-12-31 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1465,Augusta E/Puddledock/Bowman St 115 kV SS - Midcoast Area DG Study,27.530000686645508,Solar/Storage,2023-12-05 00:00:00,2024-12-31 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1464,Wind Repower,0.0,Wind,2023-12-05 00:00:00,2026-12-31 00:00:00,Caledonia,VT,,PJM,caledonia_vt
+1463,EE Valley DG Group Study,8.0,Solar,2023-11-22 00:00:00,2026-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1461,Battery Addition ,1.4980000257492065,Other,2023-10-18 00:00:00,2025-09-01 00:00:00,Rockingham,NH,,PJM,rockingham_nh
+1460,Battery Storage,706.2999877929688,Storage,2023-10-12 00:00:00,2027-09-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1459,Bath 115 kV SS - Midcoast Area DG Study,3.430000066757202,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
+1458,Lincolnville 115 kV SS - Midcoast Area DG Study,4.949999809265137,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
+1457,Mason 115 kV SS - Midcoast Area DG Study,3.940000057220459,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
+1456,Topsham 115 kV SS - Midcoast Area DG Study,3.940000057220459,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Waldo,ME,CMP,PJM,waldo_me
+1455,Highland/Park St 115 kV SS - Midcoast Area DG Study,2.0,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Knox,ME,CMP,PJM,knox_me
+1454,Newcastle 115 kV SS - Midcoast Area DG Study,16.579999923706055,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1453,Coopers Mills 115 kV SS - Midcoast Area DG Study,2.880000114440918,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
+1450,Woodstock 115 kV SS - Roxbury-Rumford-Woodstock Area DG Study,1.6230000257492065,Solar,2023-09-29 00:00:00,2024-12-15 00:00:00,Oxford,ME,CMP,PJM,oxford_me
+1449,Sturtevant 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area Study,12.949000358581543,Solar,2023-09-29 00:00:00,2024-12-30 00:00:00,Franklin,ME,CMP,PJM,franklin_me
+1448,Ludden Lane 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area DG Study,1.9989999532699585,Solar,2023-09-29 00:00:00,2024-06-01 00:00:00,Oxford,ME,CMP,PJM,oxford_me
+1447,Leeds 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area DG Study,4.999000072479248,Solar,2023-09-29 00:00:00,2024-09-01 00:00:00,Androscoggin,ME,CMP,PJM,androscoggin_me
+1446,Raymond 115 kV SS - Raymond Area DG Study,25.06999969482422,Solar,2023-09-29 00:00:00,2025-06-20 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1440,Battery Storage,151.55599975585938,Storage,2023-09-18 00:00:00,2027-05-31 00:00:00,Hampden,MA,,PJM,hampden_ma
+1437,Battery Storage,103.31999969482422,Storage,2023-08-31 00:00:00,2029-02-01 00:00:00,New London,CT,,PJM,new london_ct
+1436,Battery Storage,300.0,Storage,2023-08-29 00:00:00,2028-06-01 00:00:00,New London,CT,,PJM,new london_ct
+1431,Battery Storage,7.0,Storage,2023-08-09 00:00:00,2024-12-29 00:00:00,Hartford,CT,,PJM,hartford_ct
+1430,Battery Storage,237.5449981689453,Storage,2023-08-09 00:00:00,2027-10-17 00:00:00,Bristol,MA,,PJM,bristol_ma
+1429,Wind,197.39999389648438,Wind,2023-08-08 00:00:00,2028-10-01 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1428,Solar,101.54900360107422,Solar,2023-07-25 00:00:00,2025-12-30 00:00:00,Rockingham,NH,,PJM,rockingham_nh
+1427,Solar,253.61000061035156,Solar,2023-07-21 00:00:00,2027-10-01 00:00:00,York,ME,,PJM,york_me
+1422,Battery Storage,326.0,Storage,2023-07-07 00:00:00,2029-02-02 00:00:00,Hartford,CT,,PJM,hartford_ct
+1420,Battery Storage,175.0970001220703,Storage,2023-06-29 00:00:00,2027-12-31 00:00:00,New London,CT,,PJM,new london_ct
+1414,Individual @ Piper,4.099999904632568,Other,2023-06-19 00:00:00,2026-12-31 00:00:00,Hampden,MA,,PJM,hampden_ma
+1413,Group @ Orchard,4.039999961853027,Solar/Storage,2023-06-19 00:00:00,2026-12-31 00:00:00,Hampden,MA,,PJM,hampden_ma
+1412,Battery Storage,179.47000122070312,Storage,2023-06-20 00:00:00,2027-09-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1410,Individual @ Amherst,2.0,Storage,2023-06-13 00:00:00,2024-12-31 00:00:00,Hampshire,MA,,PJM,hampshire_ma
+1409,Individual @ Montague,4.989999771118164,Storage,2023-06-13 00:00:00,2024-12-31 00:00:00,Franklin,MA,,PJM,franklin_ma
+1408,Individual @ Partridge,4.0,Solar/Storage,2023-06-13 00:00:00,2024-12-31 00:00:00,Berkshire,MA,,PJM,berkshire_ma
+1407,EE Group @ Blandford,28.93600082397461,Solar/Storage,2023-06-13 00:00:00,2024-12-31 00:00:00,Hampshire,MA,,PJM,hampshire_ma
+1406,EE Group @ Doreen,9.149999618530273,Solar/Storage,2023-06-13 00:00:00,2024-12-31 00:00:00,Berkshire,MA,,PJM,berkshire_ma
+1405,EE Group @ Southwick,7.0,Solar/Storage,2023-06-13 00:00:00,2024-12-31 00:00:00,Hampden,MA,,PJM,hampden_ma
+1404,Individual @ French King,2.200000047683716,Solar/Storage,2023-06-13 00:00:00,,Franklin,MA,,PJM,franklin_ma
+1403,Battery Storage,304.7200012207031,Storage,2023-06-09 00:00:00,2026-11-20 00:00:00,Middlesex,CT,,PJM,middlesex_ct
+1402,Battery Storage,171.60000610351562,Storage,2023-06-07 00:00:00,2027-06-01 00:00:00,Hampden,MA,,PJM,hampden_ma
+1400,Battery Storage,101.97000122070312,Storage,2023-05-18 00:00:00,2026-12-31 00:00:00,Hartford,CT,,PJM,hartford_ct
+1399,Battery Storage,92.43800354003906,Storage,2023-05-18 00:00:00,2027-05-31 00:00:00,Hampden,MA,,PJM,hampden_ma
+1397,Battery Storage,100.23999786376953,Storage,2023-05-05 00:00:00,2026-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1396,Battery Storage,101.97000122070312,Storage,2023-05-05 00:00:00,2026-12-31 00:00:00,Providence,RI,,PJM,providence_ri
+1394,Battery Storage Addition,0.0,Storage,2023-05-04 00:00:00,2026-07-01 00:00:00,Middlesex,CT,,PJM,middlesex_ct
+1392,Battery Storage,53.7400016784668,Storage,2023-05-03 00:00:00,2026-09-15 00:00:00,New Haven,CT,,PJM,new haven_ct
+1391,Wind CNR,0.0,Wind,2023-04-28 00:00:00,2023-11-01 00:00:00,Washington,ME,,PJM,washington_me
+1390,Wind CNR,0.0,Wind,2023-04-28 00:00:00,2023-11-01 00:00:00,Hancock,ME,,PJM,hancock_me
+1389,Wind CNR,0.0,Wind,2023-04-27 00:00:00,2023-11-01 00:00:00,Washington,ME,,PJM,washington_me
+1388,Wind CNR,0.0,Wind,2023-04-27 00:00:00,2023-11-01 00:00:00,Penobscot,ME,,PJM,penobscot_me
+1382,Vineyard Offshore Wind CNR,0.0,Wind,2023-04-11 00:00:00,2024-10-31 00:00:00,,MA,ISO-NE,PJM,
+1380,Fuel Cell CNR,0.0,Other,2023-04-06 00:00:00,2024-12-15 00:00:00,Hartford,CT,,PJM,hartford_ct
+1379,Solar,218.39999389648438,Solar,2023-04-03 00:00:00,2028-10-31 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1375,Wind,217.0,Wind,2023-03-29 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1374,Battery Storage,226.0,Storage,2023-03-28 00:00:00,2027-04-07 00:00:00,Merrimack,NH,,PJM,merrimack_nh
+1373,Battery Storage Increase (QP1362),140.47999572753906,Storage,2023-03-15 00:00:00,2027-11-12 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1369,Athens 115 kV SS - CMP Wyman Area Study,1.9919999837875366,Solar,2023-03-08 00:00:00,2024-12-31 00:00:00,Somerset,ME,CMP,PJM,somerset_me
+1365,Battery Storage,301.260009765625,Storage,2023-03-09 00:00:00,2026-11-20 00:00:00,Hampden,MA,,PJM,hampden_ma
+1364,Battery Storage,401.67999267578125,Storage,2023-03-01 00:00:00,2026-11-20 00:00:00,Rockingham,NH,,PJM,rockingham_nh
+1363,Battery Storage,301.260009765625,Storage,2023-03-01 00:00:00,2026-11-20 00:00:00,Hampden,MA,,PJM,hampden_ma
+1362,Battery Storage Increase (QP1238),301.260009765625,Storage,2023-02-24 00:00:00,2027-11-12 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1360,Battery Storage,10.0,Storage,2023-02-22 00:00:00,2024-06-15 00:00:00,Middlesex,CT,,PJM,middlesex_ct
+1359,Fuel Cell,1.840000033378601,Other,2023-02-22 00:00:00,2024-12-31 00:00:00,Hartford,CT,,PJM,hartford_ct
+1358,Battery Storage,100.0,Storage,2023-02-21 00:00:00,2026-07-31 00:00:00,Hartford,CT,,PJM,hartford_ct
+1357,Solar Increase,5.0,Solar,2023-02-16 00:00:00,2026-06-15 00:00:00,Hartford,CT,,PJM,hartford_ct
+1355,Battery Storage,136.32000732421875,Storage,2023-02-06 00:00:00,2024-10-01 00:00:00,New Haven,CT,,PJM,new haven_ct
+1353,Battery Storage,289.2900085449219,Storage,2023-02-06 00:00:00,2024-10-01 00:00:00,New London,CT,,PJM,new london_ct
+1352,Battery Storage,262.67999267578125,Storage,2023-02-06 00:00:00,2024-10-01 00:00:00,New Haven,CT,,PJM,new haven_ct
+1351,Battery Storage,156.24000549316406,Storage,2023-02-06 00:00:00,2027-10-01 00:00:00,Fairfield,CT,,PJM,fairfield_ct
+1349,Scitico DG Cluster,5.199999809265137,Solar/Storage,2023-01-26 00:00:00,2023-12-31 00:00:00,Hartford,CT,,PJM,hartford_ct
+1348,Battery Storage,5.057000160217285,Storage,2023-01-26 00:00:00,2025-07-27 00:00:00,Middlesex,CT,,PJM,middlesex_ct
+1347,Enfield DG Cluster,18.770000457763672,Solar/Storage,2023-01-26 00:00:00,2025-07-27 00:00:00,Hartford,CT,,PJM,hartford_ct
+1345,Battery Storage,75.0,Storage,2023-01-10 00:00:00,2025-06-01 00:00:00,New London,CT,,PJM,new london_ct
+1344,Offshore Wind CNR only,0.0,Wind,2022-12-28 00:00:00,2025-10-15 00:00:00,,MA,,PJM,
+1343,Offshore Wind,1200.0,Wind,2022-12-19 00:00:00,2029-12-15 00:00:00,,MA,,PJM,
+1342,Western Maine Wind CNR,0.0,Wind,2022-12-15 00:00:00,2024-12-20 00:00:00,Somerset,ME,,PJM,somerset_me
+1320,Battery Storage,203.9499969482422,Storage,2022-10-07 00:00:00,2027-11-16 00:00:00,Worcester,MA,,PJM,worcester_ma
+1319,Battery Storage,141.60000610351562,Storage,2022-10-07 00:00:00,2028-02-23 00:00:00,Litchfield,CT,,PJM,litchfield_ct
+1308,Uxbridge Substation – NG Hopedale West Group Study,6.99399995803833,Storage,2022-09-09 00:00:00,2025-12-31 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+1307,Whitins Pond Substation – NG Hopedale West Group Study,4.947999954223633,Storage,2022-09-09 00:00:00,2025-12-31 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+1306,Whitins Pond Substation – NG Hopedale West Group Study,4.947999954223633,Storage,2022-09-09 00:00:00,2025-12-31 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+1305,Depot Street Substation – NG Hopedale West Group Study,1.5,Solar/Storage,2022-09-09 00:00:00,2025-12-31 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+1304,Uxbridge Substation – NG Hopedale West Group Study,4.989999771118164,Storage,2022-09-09 00:00:00,2025-12-31 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+1299,Solar Increase (QP1145),54.099998474121094,Solar,2022-08-18 00:00:00,2026-09-25 00:00:00,Hancock,ME,ISO-NE,PJM,hancock_me
+1290,Group @ Wing Lane 624 - EMA ASO,14.979000091552734,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1289,Group @ West Pond 737 - EMA ASO,6.98199987411499,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+1288,Wellfleet 976 - EMA ASO,4.10699987411499,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1287,Valley 715 - EMA ASO,3.700000047683716,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1286,Tremont 713 - EMA ASO,4.995999813079834,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1285,Sandwich 916 - EMA ASO,4.599999904632568,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1284,Group @ Orleans 975 - EMA ASO,9.998000144958496,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1283,Mashpee 946 - EMA ASO,1.4900000095367432,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1282,Marshfield 739 - EMA ASO,4.599999904632568,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1281,Group @ Industrial Park 636 - EMA ASO,16.513999938964844,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1280,Hyannis 961 - EMA ASO,4.993000030517578,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1279,Group @ Hatchville 936 - EMA ASO,18.486000061035156,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1278,Harwich 968 - EMA ASO,3.997999906539917,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1277,Fisher Road 657 - EMA ASO,3.0,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1276,Falmouth 933 - EMA ASO,3.5,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1275,Group @ Duxbury 738 - EMA ASO,6.7820000648498535,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1274,Crystal Spring 646 - EMA ASO,1.7000000476837158,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1273,Canton 470 - EMA ASO,4.999000072479248,Solar/Storage,2022-06-08 00:00:00,2023-11-30 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1272,West Springfield 45 MW BESS,45.0,Storage,2022-06-08 00:00:00,2026-05-08 00:00:00,Hampden,MA,ISO-NE,PJM,hampden_ma
+1265,Revolution Offshore Wind CNR only,0.0,Wind,2022-05-23 00:00:00,2025-09-07 00:00:00,,RI,,PJM,
+1261,Battery Storage Addition (to QP1086),0.0,Solar/Storage,2022-05-17 00:00:00,2026-11-30 00:00:00,Knox,ME,ISO-NE,PJM,knox_me
+1259,Battery Storage,20.0,Storage,2022-06-15 00:00:00,2027-06-28 00:00:00,Berkshire,MA,ISO-NE,PJM,berkshire_ma
+1258,Battery Storage CNR Only,0.0,Storage,2022-05-03 00:00:00,2027-07-26 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1257,Solar,319.20001220703125,Solar,2022-05-03 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1256,Wind,905.0,Wind,2022-05-03 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1255,Detroit/Guilford/Belfast DG Area Study,103.7699966430664,Solar/Storage,2022-05-02 00:00:00,2027-12-31 00:00:00,Piscataquis,ME,CMP,PJM,piscataquis_me
+1254,Kimball DG Area Study,24.54599952697754,Solar/Storage,2022-05-02 00:00:00,2028-06-30 00:00:00,York,ME,CMP,PJM,york_me
+1252,Battery Storage,314.70001220703125,Storage,2022-04-21 00:00:00,2026-06-01 00:00:00,Essex,MA,,PJM,essex_ma
+1248,Battery Storage,154.656005859375,Storage,2022-04-06 00:00:00,2026-05-31 00:00:00,Bristol,MA,,PJM,bristol_ma
+1247,Solar,25.0,Solar,2022-04-05 00:00:00,2025-11-01 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+1245,Solar,150.0,Solar,2022-03-31 00:00:00,2028-11-01 00:00:00,Hartford,CT,,PJM,hartford_ct
+1243,Solar,300.0,Solar,2022-03-31 00:00:00,2026-11-01 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1242,Lewiston CMP Cluster 5,54.65660095214844,Solar/Storage,2022-03-28 00:00:00,2028-06-30 00:00:00,Oxford,ME,CMP,PJM,oxford_me
+1241,Sanford/Quaker Hill CMP Cluster 4,66.4020004272461,Solar/Storage,2022-03-28 00:00:00,2028-06-30 00:00:00,York,ME,CMP,PJM,york_me
+1239,Solar plus Battery,129.0,Solar/Storage,2022-03-25 00:00:00,2026-04-21 00:00:00,Oxford,ME,,PJM,oxford_me
+1238,Battery Storage,301.260009765625,Storage,2022-03-22 00:00:00,2026-11-23 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+1237,Battery Storage CNR only,0.0,Storage,2022-03-21 00:00:00,2026-06-01 00:00:00,Washinton,RI,,PJM,washinton_ri
+1226,Solar,4.989999771118164,Solar,2022-03-04 00:00:00,2025-05-15 00:00:00,Sullivan,NH,ISO-NE,PJM,sullivan_nh
+1225,Offshore Wind,1200.0,Wind,2022-02-03 00:00:00,2029-01-31 00:00:00,,MA,,PJM,
+1222,Group @ Berkshire 18C,7.650000095367432,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Hampden,MA,,PJM,hampden_ma
+1221,Cumberland 22B - WMA ASO,4.989999771118164,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Hampden,MA,,PJM,hampden_ma
+1220,Group @ Blandford 19J - WMA ASO,6.989999771118164,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Berkshire,MA,,PJM,berkshire_ma
+1219,Group @ French King  - WMA ASO,8.899999618530273,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Franklin,MA,,PJM,franklin_ma
+1218,Group @ Montigue - WMA ASO,9.859999656677246,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Franklin,MA,NU,PJM,franklin_ma
+1217,Oswald - WMA ASO,2.490000009536743,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Franklin,MA,,PJM,franklin_ma
+1216,Group @ Podick - WMA ASO,7.699999809265137,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Hampden,MA,,PJM,hampden_ma
+1215,Group @ Maynard 416 - EMA ASO,8.47599983215332,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Middlesex,MA,NU,PJM,middlesex_ma
+1214,Group @ Medway 65 - EMA ASO,17.496999740600586,Solar/Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Middlesex,MA,NU,PJM,middlesex_ma
+1213,Holliston 130 - EMA ASO,4.989999771118164,Storage,2022-01-14 00:00:00,2023-11-30 00:00:00,Middlesex,MA,NU,PJM,middlesex_ma
+1211,Wind,500.0,Wind,2022-01-10 00:00:00,2026-11-27 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1210,Wind,500.0,Wind,2022-01-07 00:00:00,2025-11-28 00:00:00,Aroostook,ME,,PJM,aroostook_me
+1205,Hamilton Sunstrand,2.0,Solar,2021-12-30 00:00:00,2023-04-01 00:00:00,Hartford,CT,NU,PJM,hartford_ct
+1204,LSE Scorpuis,1.8200000524520874,Solar,2021-12-28 00:00:00,2023-12-31 00:00:00,Putnam,CT,NU,PJM,putnam_ct
+1203,"CTEC Solar 186 Foster St, South Windsor",1.875,Solar,2021-12-28 00:00:00,2023-07-01 00:00:00,Hartford,CT,,PJM,hartford_ct
+1202,"Community Power Group, 24 Middle Road, Ellington, CT ",4.0,Solar,2021-12-28 00:00:00,2023-07-01 00:00:00,Tolland,CT,,PJM,tolland_ct
+1201,Verogy - Tripp  RD,2.0,Solar,2021-12-28 00:00:00,2023-07-01 00:00:00,Hartford,CT,,PJM,hartford_ct
+1200,"Verogy - Thrall Rd, East Windsor",4.0,Solar,2021-12-28 00:00:00,2023-07-01 00:00:00,Hartford,CT,,PJM,hartford_ct
+1199,"USS Vineyard Solar, Somers Rd",4.0,Solar,2021-12-28 00:00:00,2022-09-30 00:00:00,Tolland,CT,,PJM,tolland_ct
+1198,Storage,241.8000030517578,Storage,2021-12-30 00:00:00,2028-05-12 00:00:00,Bristol,MA,,PJM,bristol_ma
+1197,Battery Storage,150.0,Storage,2021-12-20 00:00:00,2027-12-31 00:00:00,Bristol,MA,,PJM,bristol_ma
+1193,Battery Storage,325.0,Storage,2021-11-09 00:00:00,2026-01-01 00:00:00,Windham,CT,,PJM,windham_ct
+1192,Solar,101.12799835205078,Solar,2021-11-04 00:00:00,2027-10-15 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+1190,Solar Knox ,33.5,Solar,2021-10-28 00:00:00,2027-03-31 00:00:00,Knox,ME,ISO-NE,PJM,knox_me
+1189,Wendall Depot Substation - NG WMA Group 3,27.981000900268555,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Franklin,MA,,PJM,franklin_ma
+1188,Ware Substation - NG WMA Group 3,11.0,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Hampshire,MA,,PJM,hampshire_ma
+1187,W. Charlton Substation - NG WMA Group 3,19.983999252319336,Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1186,Treasure Valley Substation - NG WMA Group 3,9.991999626159668,Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1185,Stafford St. Substation - NG WMA Group 3,22.447999954223633,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1184,Snow St. Substation - NG WMA Group 3,27.836000442504883,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1183,Royalston Substation - NG WMA Group 3,5.0,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1182,Pratts Junc. Substation - NG WMA Group 3,14.9399995803833,Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1181,N. Oxford Substation - NG WMA Group 3,20.395999908447266,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1180,Millbury Substation - NG WMA Group 3,11.741999626159668,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1179,Meadow Street 552 Substation - NG WMA Group 3,13.798999786376953,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1178,Little Rest Rd Substation - NG WMA Group 3,5.800000190734863,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1177,Lashaway Substation - NG WMA Group 3,14.9399995803833,Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1176,E. Winchendon Substation - NG WMA Group 3,34.974998474121094,Solar/Storage,2021-10-27 00:00:00,2026-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1175,E. Westminster Substation - NG WMA Group 3,4.989999771118164,Solar/Storage,2021-10-27 00:00:00,2026-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1174,Crystal Lake Substation - NG WMA Group 3,7.998000144958496,Storage,2021-10-27 00:00:00,2026-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1173,Barre Substation - NG WMA Group 3,12.39799976348877,Solar/Storage,2021-10-27 00:00:00,2027-12-31 00:00:00,Worcester,MA,,PJM,worcester_ma
+1171,Twin Energy Wind,18.299999237060547,Wind,2021-10-25 00:00:00,2025-10-17 00:00:00,Oxford,ME,ISO-NE,PJM,oxford_me
+1169,Roxbury Solar,1.9989999532699585,Solar,2021-10-22 00:00:00,2025-02-07 00:00:00,Oxford,ME,ISO-NE,PJM,oxford_me
+1168,Fuel Cell,8.699999809265137,Natural Gas,2021-10-04 00:00:00,2023-10-15 00:00:00,Hartford,CT,NU,PJM,hartford_ct
+1166,Battery Storage,20.0,Storage,2021-10-04 00:00:00,2024-09-01 00:00:00,New Haven,CT,,PJM,new haven_ct
+1165,Solar,1.9989999532699585,Solar,2021-10-22 00:00:00,2023-07-15 00:00:00,Hancock,ME,ISO-NE,PJM,hancock_me
+1163,Battery Storage,205.0,Storage,2021-09-22 00:00:00,2026-06-01 00:00:00,Washington,RI,,PJM,washington_ri
+1154,Offshore wind Inc (QP700),18.0,Wind,2021-08-13 00:00:00,2026-10-30 00:00:00,,MA,ISO-NE,PJM,
+1151,13665 Felt Road Solar,1.968000054359436,Solar/Storage,2021-08-04 00:00:00,2024-11-15 00:00:00,Oxford,ME,ISO-NE,PJM,oxford_me
+1149,Battery addition,0.0,Other,2021-08-06 00:00:00,2025-08-17 00:00:00,Franklin,MA,,PJM,franklin_ma
+1148,Lite Brite Battery Storage,305.6239929199219,Storage,2021-07-13 00:00:00,2028-05-26 00:00:00,Suffolk,MA,ISO-NE,PJM,suffolk_ma
+1147,Solar,20.0,Solar,2021-07-08 00:00:00,2022-12-30 00:00:00,Rensselaer,NY,,PJM,rensselaer_ny
+1145,Solar,20.700000762939453,Solar,2021-07-07 00:00:00,2024-07-08 00:00:00,Hancock,ME,ISO-NE,PJM,hancock_me
+1143,Battery Storage,508.24798583984375,Storage,2021-06-15 00:00:00,2028-05-31 00:00:00,Middlesex,MA,ISO-NE,PJM,middlesex_ma
+1139,Turner Meadow Solar,20.0,Solar,2021-06-04 00:00:00,2026-11-20 00:00:00,Androscoggin ,ME,ISO-NE,PJM,androscoggin _me
+1138,Husky Solar,50.159000396728516,Solar,2021-06-03 00:00:00,2028-05-10 00:00:00,Windham,CT,ISO-NE,PJM,windham_ct
+1137,Nasonville Substation – NG RI-Nasonville-21-Comp-1 Study,9.5,Solar,2021-05-25 00:00:00,2023-03-15 00:00:00,Providence,RI,,PJM,providence_ri
+1136,Solar,20.0,Solar,2021-05-20 00:00:00,2026-05-15 00:00:00,Strafford,NH,ISO-NE,PJM,strafford_nh
+1134,Noresco Navy,10.800000190734863,Natural Gas,2021-05-06 00:00:00,2023-04-15 00:00:00,New London,CT,,PJM,new london_ct
+1123,Naugatuck Avenue Battery Storage CNR Only (see QP1089),0.0,Storage,2021-04-21 00:00:00,2026-12-01 00:00:00,New Haven,CT,,PJM,new haven_ct
+1121,Offshore wind,1200.0,Wind,2021-04-16 00:00:00,2033-05-31 00:00:00,,MA,,PJM,
+1117,Streamfield,202.39999389648438,Storage,2021-04-15 00:00:00,2027-05-31 00:00:00,Hampden,MA,ISO-NE,PJM,hampden_ma
+1116,SouthCoast Wind 1,1200.0,Wind,2021-04-13 00:00:00,2031-12-31 00:00:00,,MA,ISO-NE,PJM,
+1115,Hecate Energy Eastern Ave Energy Center,250.0,Storage,2021-04-08 00:00:00,2026-11-09 00:00:00,Suffolk,MA,ISO-NE,PJM,suffolk_ma
+1110,Norman Street Battery Storage,204.0,Storage,2021-03-18 00:00:00,2028-03-18 00:00:00,Middlesex,MA,ISO-NE,PJM,middlesex_ma
+1109,Offshore Wind Inc. (Q806),487.0,Wind,2021-03-17 00:00:00,2026-12-31 00:00:00,,MA,ISO-NE,PJM,
+1107,Battery Storage,189.0,Storage,2021-03-16 00:00:00,2027-05-14 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1100,Solar,164.55999755859375,Solar,2021-02-19 00:00:00,2028-03-31 00:00:00,Somerset,ME,ISO-NE,PJM,somerset_me
+1097,Green Apple Solar,178.58999633789062,Solar,2021-02-15 00:00:00,2027-11-01 00:00:00,Androscoggin,ME,ISO-NE,PJM,androscoggin_me
+1096,CMP Winslow 115 kV SS - Winslow-Lakewood Areas Study,18.97800064086914,Solar/Storage,2021-02-04 00:00:00,2024-04-30 00:00:00,Somerset,ME,CMP,PJM,somerset_me
+1095,CMP Lakewood 115 kV SS - Winslow-Lakewood Areas Study,28.900999069213867,Solar,2021-02-04 00:00:00,2024-04-30 00:00:00,Somerset,ME,CMP,PJM,somerset_me
+1094,CMP County Road 115 kV SS - Winslow-Lakewood Areas Study,17.725000381469727,Solar/Storage,2021-02-04 00:00:00,2024-04-30 00:00:00,Kennebec,ME,,PJM,kennebec_me
+1092,Solar,26.0,Solar,2021-01-20 00:00:00,2024-09-01 00:00:00,Hartford,CT,,PJM,hartford_ct
+1090,Park City Offshore Wind CNR,0.0,Wind,2021-01-13 00:00:00,2029-12-31 00:00:00,,MA,,PJM,
+1089,Naugatuck Avenue Battery Storage,205.32000732421875,Storage,2021-01-08 00:00:00,2026-12-01 00:00:00,New Haven,CT,ISO-NE,PJM,new haven_ct
+1087,SolarFairfield ,18.139999389648438,Solar,2020-12-17 00:00:00,2027-06-30 00:00:00,Somerset,ME,ISO-NE,PJM,somerset_me
+1086,Warren Meadow Solar,74.5,Solar,2020-11-30 00:00:00,2026-11-30 00:00:00,Knox,ME,ISO-NE,PJM,knox_me
+1079,Puddledock Road 115 kV SS  - Augusta Area Study,2.5,Solar,2020-10-02 00:00:00,2023-05-23 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1078,Puddledock Road 115 kV SS  - Augusta Area Study,4.949999809265137,Solar,2020-10-02 00:00:00,2023-05-16 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1077,Puddledock Road 115 kV SS  - Augusta Area Study,4.875,Solar,2020-10-02 00:00:00,2024-01-04 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1076,Bowman Street 115 kV SS  - Augusta Area Study,4.974999904632568,Solar/Storage,2020-10-02 00:00:00,2023-06-27 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1075,Bowman Street 115 kV SS  - Augusta Area Study,1.75,Solar,2020-10-02 00:00:00,2023-09-12 00:00:00,Sagadahoc,ME,CMP,PJM,sagadahoc_me
+1072,Bowman Street 115 kV SS  - Augusta Area Study,1.7029999494552612,Solar,2020-10-02 00:00:00,2023-06-15 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1068,Augusta E. Side 115 kV SS  - Augusta Area Study,9.998000144958496,Solar,2020-10-02 00:00:00,2024-10-21 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1066,Augusta E. Side 115 kV SS  - Augusta Area Study,2.0,Solar,2020-10-02 00:00:00,2024-03-01 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1060,Offshore Wind Increase,0.0,Wind,2020-09-09 00:00:00,2027-11-30 00:00:00,,CT,ISO-NE,PJM,
+1058,Offshore Wind,1200.0,Wind,2020-09-09 00:00:00,2027-11-30 00:00:00,,CT,ISO-NE,PJM,
+1050,Putnam Pike - NG WRI DG Area Study #2 <5 MW,3.0,Solar,2020-08-19 00:00:00,2021-08-31 00:00:00,Providence,RI,,PJM,providence_ri
+1047,Kent County - NG WRI DG Area Study #2 <5 MW,13.524999618530273,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+1046,Johnston - NG WRI DG Area Study #2 <5 MW,4.875,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Povidence,RI,NGRID,PJM,povidence_ri
+1045,Hopkins Hill - NG WRI DG Area Study #2 <5 MW,3.5,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+1044,Drumrock - NG WRI DG Area Study #2 <5 MW,4.974999904632568,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+1041,Kent County - NG WRI DG Area Study #2 >5 MW,49.75,Solar,2020-08-19 00:00:00,2025-04-28 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+1040,Farnum Pike - NG WRI DG Area Study #2 >5 MW,8.0,Solar,2020-08-19 00:00:00,2022-12-29 00:00:00,Providence,RI,NGRID,PJM,providence_ri
+1039,Warren Substation – NG RI-Warren-20-Comp-1 Study,6.929999828338623,Solar,2020-08-19 00:00:00,2024-08-02 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+1038,Solar,76.25,Solar,2020-08-07 00:00:00,2025-10-31 00:00:00,Merrimack,NH,ISO-NE,PJM,merrimack_nh
+1033,Solar,6.0,Solar,2020-06-24 00:00:00,2024-09-01 00:00:00,Ellington,CT,NU,PJM,ellington_ct
+1032,Eversource Group @ Bell Rock #661,11.991999626159668,Solar/Storage,2020-06-23 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1030,Gravel Pit Solar Increase,45.0,Solar,2020-06-02 00:00:00,2024-11-07 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+1028,Western Maine Wind Project,58.79999923706055,Wind,2020-05-28 00:00:00,2025-01-29 00:00:00,Somerset,ME,ISO-NE,PJM,somerset_me
+1021,Emery Meadow Solar,16.424999237060547,Solar,2020-04-27 00:00:00,2026-09-30 00:00:00,York,ME,ISO-NE,PJM,york_me
+1017,Battery Storage,200.0,Storage,2020-04-24 00:00:00,2026-10-01 00:00:00,New Haven,CT,ISO-NE,PJM,new haven_ct
+1013,Solar,17.200000762939453,Solar,2020-04-22 00:00:00,2025-09-30 00:00:00,Sagadahoc,ME,ISO-NE,PJM,sagadahoc_me
+1009,Eversource Group  @ Wing Lane 624,18.98900032043457,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1008,Eversource Group  @ West Pond 737,44.119998931884766,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1007,Eversource Group  @ Wareham 714,48.01900100708008,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1006,Eversource Group  @ Valley 715,9.979999542236328,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1005,Eversource Group  @ Tremont Substation 713,33.73500061035156,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1004,Eversource Group  @ Sandwich 916,11.75,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+1003,Eversource Group  @ Rochester #745,24.618000030517578,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1002,Solar,2.759999990463257,Solar,2020-04-09 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+1001,Eversource Group  @ Industrial Park 636,29.110000610351562,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+1000,Solar + battery,3.1500000953674316,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+999,Eversource Group  @ Fisher Rd Substation 657,27.947999954223633,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+998,Eversource Group  @ Falmouth 993,7.989999771118164,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Barnstable,MA,,PJM,barnstable_ma
+997,Eversource Group  @ Crystal Spring 646,7.499000072479248,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+996,Eversource Group  @ Cross Rd 651,9.5,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+995,Solar + Battery,5.0,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+994,Solar + battery,5.5,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Middlesex,MA,,PJM,middlesex_ma
+993,Solar + Battery,2.0,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Plymouth,MA,,PJM,plymouth_ma
+992,Eversource Group  @ Arsene St 654,7.0,Solar/Storage,2020-04-09 00:00:00,2023-11-30 00:00:00,Bristol,MA,,PJM,bristol_ma
+991,Solar,2.5,Solar,2020-04-09 00:00:00,2023-11-30 00:00:00,Franklin,MA,NU,PJM,franklin_ma
+990,Solar,4.889999866485596,Solar,2020-04-09 00:00:00,2023-11-30 00:00:00,Berkshire,MA,NU,PJM,berkshire_ma
+989,Eversource Group Study @ Blandford,12.479999542236328,Solar,2020-04-09 00:00:00,2023-11-30 00:00:00,Hampden,MA,NU,PJM,hampden_ma
+987,Chariot Solar CNR only,0.0,Solar,2020-04-10 00:00:00,2024-12-15 00:00:00,Cheshire,NH,,PJM,cheshire_nh
+986,Solar,19.989999771118164,Solar,2020-04-07 00:00:00,2024-11-18 00:00:00,Penobscot,ME,ISO-NE,PJM,penobscot_me
+982,Wind,3.799999952316284,Wind,2020-03-30 00:00:00,2024-09-01 00:00:00,Litchfield,CT,,PJM,litchfield_ct
+978,Eversource Group Study @ Wing Lane,5.079999923706055,Solar,2020-03-25 00:00:00,2023-11-30 00:00:00,Bristol,MA,NSTAR,PJM,bristol_ma
+977,Eversource Group Study @ Wareham,55.13999938964844,Solar/Storage,2020-03-25 00:00:00,2023-11-30 00:00:00,Plymouth,MA,NSTAR,PJM,plymouth_ma
+976,Eversource Group Study @ Industrial Park,11.338000297546387,Solar/Storage,2020-03-25 00:00:00,2023-11-30 00:00:00,Bristol,MA,NSTAR,PJM,bristol_ma
+975,Eversource Group Study @ Crystal Spring,20.459999084472656,Solar/Storage,2020-03-25 00:00:00,2023-11-30 00:00:00,Plymouth,MA,NSTAR,PJM,plymouth_ma
+974,Solar plus Battery,4.999000072479248,Solar/Storage,2020-03-25 00:00:00,2023-11-30 00:00:00,Bristol,MA,NSTAR,PJM,bristol_ma
+973,Eversource Group Study @ Brook St,9.777999877929688,Solar/Storage,2020-03-25 00:00:00,2023-11-30 00:00:00,Plymouth,MA,NSTAR,PJM,plymouth_ma
+970,Wood River Substation - NG Western RI DG Area Study,7.840000152587891,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+969,Tower Hill Substation - NG Western RI DG Area Study,2.0,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+968,Putnam Pike Substation - NG Western RI DG Area Study,5.619999885559082,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Providence,RI,NGRID,PJM,providence_ri
+967,Old Baptist Road Substation - NG Western RI DG Area Study,4.421999931335449,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+966,New London Substation - NG Western RI DG Area Study,3.0,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Kent,RI,,PJM,kent_ri
+965,Kent County Substation - NG Western RI DG Area Study,10.368000030517578,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+964,Kenyon Substation - NG Western RI DG Area Study,3.5,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+963,Johnston Substation - NG Western RI DG Area Study,4.25,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Providence,RI,NGRID,PJM,providence_ri
+962,Drumrock - NG Western RI DG Area Study,3.8499999046325684,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+961,Wolf Hill substation - NG Western RI DG Area Study,2.200000047683716,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Providence,RI,NGRID,PJM,providence_ri
+960,Chase Hill Substation - NG Western RI DG Area Study,6.339000225067139,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+959,Chase Hill Substation - NG Western RI DG Area Study,6.75,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+958,Wood River - NG Western RI DG Area Study,6.473999977111816,Solar,2020-03-18 00:00:00,2022-01-24 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+957,Tower Hill - NG Western RI DG Area Study,6.75,Solar,2020-03-18 00:00:00,2023-01-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+955,Vineyard Offshore Wind CNR Only,0.0,Wind,2020-03-12 00:00:00,2024-10-31 00:00:00,,MA,,PJM,
+953,BD Solar Church Hill ,20.0,Solar,2020-02-19 00:00:00,2026-12-31 00:00:00,Androscoggin,ME,ISO-NE,PJM,androscoggin_me
+949,Fuel Cell,9.65999984741211,Natural Gas,2020-01-23 00:00:00,2024-12-01 00:00:00,Fairfield,CT,UI,PJM,fairfield_ct
+944,Bay State Wind 4 Offshore Wind,1200.0,Wind,2019-12-18 00:00:00,2033-11-04 00:00:00,,MA,ISO-NE,PJM,
+940,Gravel Pit Solar increase,25.0,Solar,2019-12-04 00:00:00,2024-11-07 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+939,NB Fuel Cell,20.0,Natural Gas,2019-11-25 00:00:00,2024-12-15 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+935,West Baldwin Solar,17.100000381469727,Solar,2019-10-30 00:00:00,2029-09-30 00:00:00,Cumberland,ME,ISO-NE,PJM,cumberland_me
+934,Pembroke Solar,17.5,Solar,2019-10-25 00:00:00,2024-09-01 00:00:00,Merrimack,NH,ISO-NE,PJM,merrimack_nh
+929,GDC Saco Solar ,20.0,Solar,2019-10-15 00:00:00,2025-04-30 00:00:00,York,ME,ISO-NE,PJM,york_me
+923,Solar,20.0,Solar,2019-09-03 00:00:00,2025-01-15 00:00:00,Androscoggin,ME,CMP,PJM,androscoggin_me
+910,Mousam River Solar,20.0,Solar,2019-08-15 00:00:00,2025-09-30 00:00:00,York,ME,ISO-NE,PJM,york_me
+905,Battery Storage,10.0,Storage,2019-08-01 00:00:00,2024-08-01 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+904,Battery Storage,14.0,Storage,2019-08-01 00:00:00,2024-01-25 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+896,Saco Solar,19.600000381469727,Solar,2019-07-17 00:00:00,2026-07-01 00:00:00,York,ME,ISO-NE,PJM,york_me
+892,Gravel Pit Solar,50.0,Solar,2019-06-05 00:00:00,2024-11-07 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+883,Kendall Combined Cycle increase,16.448999404907227,Other,2019-04-24 00:00:00,2025-06-01 00:00:00,Middlesex,MA,ISO-NE,PJM,middlesex_ma
+877,Energy Storage,170.0,Storage,2019-04-11 00:00:00,2027-07-26 00:00:00,Norfolk,MA,ISO-NE,PJM,norfolk_ma
+874,Cross Town Battery Storage,175.0,Storage,2019-04-08 00:00:00,2025-08-29 00:00:00,Cumberland,ME,ISO-NE,PJM,cumberland_me
+870,Solar,6.21999979019165,Solar,2019-03-26 00:00:00,2025-01-13 00:00:00,Providence,RI,NGRID,PJM,providence_ri
+869,Solar,6.21999979019165,Solar,2019-03-26 00:00:00,2025-02-13 00:00:00,Providence,RI,NGRID,PJM,providence_ri
+865,West Hampden 139 substation - NG Western MA Area Cluster Study,13.17300033569336,Solar,2019-03-21 00:00:00,2023-03-10 00:00:00,Hampden,MA,NGRID,PJM,hampden_ma
+864,W. Charlton substation - NG Western MA Area Cluster Study,17.031999588012695,Solar,2019-03-21 00:00:00,2022-10-10 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+861,Snow Street substation - NG Western MA Area Cluster Study,24.652000427246094,Solar,2019-03-21 00:00:00,2023-04-05 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+860,Shutesbury substation - NG Western MA Area Cluster Study,19.992000579833984,Solar,2019-03-21 00:00:00,2023-12-31 00:00:00,Hampshire,MA,NGRID,PJM,hampshire_ma
+855,Millbury substation - NG Western MA Area Cluster Study,14.4399995803833,Solar,2019-03-21 00:00:00,2023-11-01 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+853,East Longmeadow substation - NG Western MA Area Cluster Study,8.989999771118164,Solar,2019-03-21 00:00:00,2022-08-07 00:00:00,Hampden,MA,NGRID,PJM,hampden_ma
+852,E. Webster substation - NG Western MA Area Cluster Study,4.880000114440918,Solar,2019-03-21 00:00:00,2023-10-01 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+849,Ashburnham substation - NG Western MA Area Cluster Study,4.980000019073486,Solar,2019-03-21 00:00:00,2023-01-12 00:00:00,Worcester,MA,,PJM,worcester_ma
+848,Adams substation - NG Western MA Area Cluster Study,10.977999687194824,Solar,2019-03-21 00:00:00,2021-12-31 00:00:00,Berkshire,MA,NGRID,PJM,berkshire_ma
+844,Medway Grid Battery Storage,250.0,Storage,2019-03-13 00:00:00,2025-12-01 00:00:00,Norfolk,MA,ISO-NE,PJM,norfolk_ma
+838,Solar,9.800000190734863,Solar,2019-02-25 00:00:00,2021-09-30 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+836,Solar,6.25,Solar,2019-01-31 00:00:00,2023-03-01 00:00:00,Cranston,RI,NGRID,PJM,cranston_ri
+835,Solar,5.0,Solar,2019-01-22 00:00:00,2021-09-03 00:00:00,Norfolk,MA,,PJM,norfolk_ma
+833,Three Rivers Solar,100.0,Solar,2019-01-09 00:00:00,2026-12-31 00:00:00,Hancock,ME,ISO-NE,PJM,hancock_me
+824,Ware Substation - NG Western MA Area Cluster Study,13.272000312805176,Solar,2018-12-14 00:00:00,2023-12-31 00:00:00,Hampshire,MA,NGRID,PJM,hampshire_ma
+823,Thorndike Substation - NG Western MA Area Cluster Study,12.447999954223633,Solar,2018-12-14 00:00:00,2023-12-31 00:00:00,Hampden,MA,NGRID,PJM,hampden_ma
+821,Pondville - NG Western MA Area Cluster Study,4.875,Solar,2000-12-14 00:00:00,2022-05-22 00:00:00,Worcester,MA,,PJM,worcester_ma
+820,Palmer Substation - NG Western MA Area Cluster Study,18.094999313354492,Solar,2018-12-14 00:00:00,2022-01-20 00:00:00,Hampden,MA,NGRID,PJM,hampden_ma
+818,Meadow Street 552 Substation - NG Western MA Area Cluster Study,13.380000114440918,Solar,2018-12-14 00:00:00,2022-11-08 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+817,Little Rest Rd Substation - NG Western MA Area Cluster Study,6.0,Solar,2018-12-14 00:00:00,2022-08-20 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+815,Lashaway Substation - NG Western MA Area Cluster Study,13.675000190734863,Solar,2018-12-14 00:00:00,2022-04-15 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+813,E. Winchendon Substation - NG Western MA Area Cluster Study,3.9000000953674316,Solar,2018-12-14 00:00:00,2022-06-26 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+812,E. Westminster Substation - NG Western MA Area Cluster Study,7.980000019073486,Solar,2018-12-14 00:00:00,2022-08-01 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+808,Barre substation - NG Western MA Area Cluster Study,12.39799976348877,Solar,2018-12-14 00:00:00,2022-12-30 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+807,FPS Panton Solar,50.0,Solar,2018-12-13 00:00:00,2026-05-31 00:00:00,Addison,VT,ISO-NE,PJM,addison_vt
+806,Offshore Wind,827.0,Wind,2018-12-12 00:00:00,2025-10-15 00:00:00,,MA,ISO-NE,PJM,
+805,Solar,10.989999771118164,Solar,2018-12-10 00:00:00,2025-01-15 00:00:00,Middletown,RI,NGRID,PJM,middletown_ri
+797,Solar,8.125,Solar,2018-11-05 00:00:00,2020-12-30 00:00:00,Worcester,MA,NGRID,PJM,worcester_ma
+794,Solar (QF),10.0,Solar,2018-10-26 00:00:00,2025-02-01 00:00:00,North Kingstown,RI,NGRID,PJM,north kingstown_ri
+793,Solar (QF),40.0,Solar,2018-10-26 00:00:00,2025-01-30 00:00:00,North Kingstown,RI,NGRID,PJM,north kingstown_ri
+789,CHP,6.26800012588501,Natural Gas,2018-09-28 00:00:00,2021-06-30 00:00:00,Newport,RI,NGRID,PJM,newport_ri
+781,Revoultion Offshore wind,704.0,Wind,2018-09-13 00:00:00,2025-09-07 00:00:00,,RI,ISO-NE,PJM,
+780,"Combined Reciprocating, Solar and Battery modification",0.0,Other,2018-09-11 00:00:00,2022-05-31 00:00:00,Middlesex,MA,NGRID,PJM,middlesex_ma
+774,Solar,8.0,Solar,2018-08-13 00:00:00,2021-07-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+766,Solar,5.199999809265137,Solar,2018-05-22 00:00:00,2024-11-24 00:00:00,Washington,RI,NGRID,PJM,washington_ri
+760,Downeast Wind,126.0,Wind,2018-04-26 00:00:00,2024-12-18 00:00:00,Washington,ME,ISO-NE,PJM,washington_me
+758,Ocean State Power uprate,73.2040023803711,Other,2018-04-26 00:00:00,2025-11-30 00:00:00,Providence,RI,ISO-NE,PJM,providence_ri
+727,Chariot Solar,49.5,Solar,2018-03-28 00:00:00,2024-12-15 00:00:00,Cheshire,NH,ISO-NE,PJM,cheshire_nh
+726,Cranberry Point Energy Storage,150.0,Storage,2018-03-21 00:00:00,2025-05-30 00:00:00,Plymouth,MA,ISO-NE,PJM,plymouth_ma
+710,Solar,19.799999237060547,Solar,2018-02-21 00:00:00,2025-01-07 00:00:00,Litchfield,CT,NU,PJM,litchfield_ct
+700,Park City Offshore Wind,791.0,Wind,2017-12-15 00:00:00,2029-12-31 00:00:00,,MA,ISO-NE,PJM,
+680,Fair Haven Solar,20.0,Solar,2017-08-03 00:00:00,2026-01-01 00:00:00,Rutland,VT,ISO-NE,PJM,rutland_vt
+674,Shaftsbury Solar,20.0,Solar,2017-07-28 00:00:00,2026-01-01 00:00:00,Bennington,VT,ISO-NE,PJM,bennington_vt
+624,Vineyard Offshore Wind,800.0,Wind,2016-11-08 00:00:00,2024-10-31 00:00:00,,MA,ISO-NE,PJM,

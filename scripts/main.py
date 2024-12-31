@@ -1,22 +1,27 @@
-import requests
+import os
+
 
 import pandas as pd
 import geopandas as gpd
-import fiona
-
-from modules import miso
-from modules.tools import config
-import modules.tools.utils
+#import fiona
+import miso, pjm, isone
 
 def main():
 
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_dir)
+
     #Get the MISO Queue
     miso_queue = miso.getMISOQueue()
+    pjm_queue = pjm.getPJMQueue()
+    isone_queue = isone.getISONEQueue()
 
-    all_queued_projects = pd.concat([miso_queue])
+    all_queued_projects = pd.concat([miso_queue, pjm_queue, isone_queue])
+
+    all_queued_projects.reset_index().to_json(f'../data/all_queued_projects.json', index = None)
 
     all_queued_projects_by_county = (
-        all_queued_projects.groupby(["join_key", "Fuel"])["Nameplate Capacity"]
+        all_queued_projects.groupby(["join_key", "fuel"])["capacity"]
         .sum()
         .unstack(fill_value=0)  # Transform fuel_type into columns
         .rename(columns={
@@ -38,8 +43,25 @@ def main():
     # Merge additional metrics into the aggregated DataFrame
     all_queued_projects_by_county = all_queued_projects_by_county.merge(total_capacity, on="join_key").merge(rto_count, on="join_key").copy()
 
-    all_queued_projects_by_county.to_csv('countyAggTest.csv', index = None)
+    #all_queued_projects_by_county.to_csv(f'C:/Users/zleig/Downloads/countyAggtest.csv', index = None)
 
+    ###############################
+    ### Spatializing Queue Data ###
+    ###############################
+
+    counties = gpd.read_file(f'../data/usa_simplified_counties.geojson')
+
+    joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
+
+    spatialized_data = gpd.GeoDataFrame(joined_data, geometry=joined_data['geometry'])
+
+    spatialized_data.fillna(value = {'rto_count': 0}, inplace=True)
+    spatialized_data.sort_values('rto_count', ascending=True, inplace=True)
+
+    #joined_data_geo.to_file('sampleisoneData.gpkg', driver='GPKG')
+    spatialized_data.to_file(f'../data/spatial_data_test.geojson', driver = 'GeoJSON')
     print('AllDone')
+
+
 if __name__ == "__main__":
     main()
