@@ -1,6 +1,14 @@
 import pandas as pd
 
-standard_fields = ['id', 'name', 'capacity', 'fuel', 'submitted_date', 'service_date', 'county', 'state', 'transmission_owner']
+standard_fields = ['id',
+                    'name', 
+                    'capacity', 
+                    'fuel', 
+                    'submitted_date', 
+                    'service_date', 
+                    'county', 
+                    'state', 
+                    'transmission_owner']
 
 fuel_indicies = {'Solar': pd.Series(),
                 'Storage': pd.Series(),

@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import geopandas as gpd
 #import fiona
-import miso, pjm, isone
+import miso, pjm, isone, nyiso
 
 def main():
 
@@ -15,8 +15,9 @@ def main():
     miso_queue = miso.getMISOQueue()
     pjm_queue = pjm.getPJMQueue()
     isone_queue = isone.getISONEQueue()
+    nyiso_queue = nyiso.getNYISOQueue()
 
-    all_queued_projects = pd.concat([miso_queue, pjm_queue, isone_queue])
+    all_queued_projects = pd.concat([miso_queue, pjm_queue, isone_queue, nyiso_queue])
 
     all_queued_projects.reset_index().to_json(f'../data/all_queued_projects.json', index = None)
 
