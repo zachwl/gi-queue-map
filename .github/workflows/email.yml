@@ -24,4 +24,4 @@ jobs:
       env:
         EMAIL: ${{ secrets.EMAIL }}
         PASSWORD: ${{ secrets.PASSWORD }}
-      run: python scripts/email.py
+      run: python scripts/email_testing.py
