@@ -86,4 +86,4 @@ def findNewURL(utility):
         text_file.write("Needs attention - no valid URL found for: " + utility)
     return None
 
-findNewURL('TVA')
+#findNewURL('TVA')

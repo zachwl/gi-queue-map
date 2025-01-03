@@ -3,6 +3,8 @@ name: Main Testing
 on:
   workflow_dispatch: # Allows manual triggering of the workflow
   
+permissions:
+  contents: write
 
 jobs:
   testing123:
@@ -22,8 +24,20 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run email script
+    - name: Run testing script
       env:
         EMAIL: ${{ secrets.EMAIL }}
         PASSWORD: ${{ secrets.PASSWORD }}
       run: python scripts/main.py
+
+    -name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/individual_queues/*.csv  # Adds all CSV files in the directory
+        git add data.geojson
+        git add data/all_queued_projects.json
+        git diff --cached --exit-code || git commit -m "Update multiple files"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
