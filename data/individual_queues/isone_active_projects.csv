@@ -142,7 +142,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1390,Wind CNR,0.0,Wind,2023-04-28 00:00:00,2023-11-01 00:00:00,Hancock,ME,,PJM,hancock_me
 1389,Wind CNR,0.0,Wind,2023-04-27 00:00:00,2023-11-01 00:00:00,Washington,ME,,PJM,washington_me
 1388,Wind CNR,0.0,Wind,2023-04-27 00:00:00,2023-11-01 00:00:00,Penobscot,ME,,PJM,penobscot_me
-1382,Vineyard Offshore Wind CNR,0.0,Wind,2023-04-11 00:00:00,2024-10-31 00:00:00,,MA,ISO-NE,PJM,
+1382,Vineyard Offshore Wind CNR,0.0,Wind,2023-04-11 00:00:00,2025-05-26 00:00:00,,MA,ISO-NE,PJM,
 1380,Fuel Cell CNR,0.0,Other,2023-04-06 00:00:00,2024-12-15 00:00:00,Hartford,CT,,PJM,hartford_ct
 1379,Solar,218.39999389648438,Solar,2023-04-03 00:00:00,2028-10-31 00:00:00,Aroostook,ME,,PJM,aroostook_me
 1375,Wind,217.0,Wind,2023-03-29 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
@@ -264,7 +264,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1163,Battery Storage,205.0,Storage,2021-09-22 00:00:00,2026-06-01 00:00:00,Washington,RI,,PJM,washington_ri
 1154,Offshore wind Inc (QP700),18.0,Wind,2021-08-13 00:00:00,2026-10-30 00:00:00,,MA,ISO-NE,PJM,
 1151,13665 Felt Road Solar,1.968000054359436,Solar/Storage,2021-08-04 00:00:00,2024-11-15 00:00:00,Oxford,ME,ISO-NE,PJM,oxford_me
-1149,Battery addition,0.0,Other,2021-08-06 00:00:00,2025-08-17 00:00:00,Franklin,MA,,PJM,franklin_ma
+1149,Battery addition,6.699999809265137,Other,2021-08-06 00:00:00,2025-08-17 00:00:00,Franklin,MA,,PJM,franklin_ma
 1148,Lite Brite Battery Storage,305.6239929199219,Storage,2021-07-13 00:00:00,2028-05-26 00:00:00,Suffolk,MA,ISO-NE,PJM,suffolk_ma
 1147,Solar,20.0,Solar,2021-07-08 00:00:00,2022-12-30 00:00:00,Rensselaer,NY,,PJM,rensselaer_ny
 1145,Solar,20.700000762939453,Solar,2021-07-07 00:00:00,2024-07-08 00:00:00,Hancock,ME,ISO-NE,PJM,hancock_me
@@ -362,7 +362,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 959,Chase Hill Substation - NG Western RI DG Area Study,6.75,Solar,2020-03-18 00:00:00,2021-08-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
 958,Wood River - NG Western RI DG Area Study,6.473999977111816,Solar,2020-03-18 00:00:00,2022-01-24 00:00:00,Washington,RI,NGRID,PJM,washington_ri
 957,Tower Hill - NG Western RI DG Area Study,6.75,Solar,2020-03-18 00:00:00,2023-01-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
-955,Vineyard Offshore Wind CNR Only,0.0,Wind,2020-03-12 00:00:00,2024-10-31 00:00:00,,MA,,PJM,
+955,Vineyard Offshore Wind CNR Only,0.0,Wind,2020-03-12 00:00:00,2025-05-26 00:00:00,,MA,,PJM,
 953,BD Solar Church Hill ,20.0,Solar,2020-02-19 00:00:00,2026-12-31 00:00:00,Androscoggin,ME,ISO-NE,PJM,androscoggin_me
 949,Fuel Cell,9.65999984741211,Natural Gas,2020-01-23 00:00:00,2024-12-01 00:00:00,Fairfield,CT,UI,PJM,fairfield_ct
 944,Bay State Wind 4 Offshore Wind,1200.0,Wind,2019-12-18 00:00:00,2033-11-04 00:00:00,,MA,ISO-NE,PJM,
@@ -425,4 +425,4 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 700,Park City Offshore Wind,791.0,Wind,2017-12-15 00:00:00,2029-12-31 00:00:00,,MA,ISO-NE,PJM,
 680,Fair Haven Solar,20.0,Solar,2017-08-03 00:00:00,2026-01-01 00:00:00,Rutland,VT,ISO-NE,PJM,rutland_vt
 674,Shaftsbury Solar,20.0,Solar,2017-07-28 00:00:00,2026-01-01 00:00:00,Bennington,VT,ISO-NE,PJM,bennington_vt
-624,Vineyard Offshore Wind,800.0,Wind,2016-11-08 00:00:00,2024-10-31 00:00:00,,MA,ISO-NE,PJM,
+624,Vineyard Offshore Wind,800.0,Wind,2016-11-08 00:00:00,2025-05-26 00:00:00,,MA,ISO-NE,PJM,
