@@ -33,7 +33,7 @@ def getNYISOQueue():
     #nyiso_cols_to_keep = ['Queue Pos.', 'Project Name', 'Date of IR', 'SP (MW)', 'Type/ Fuel', 'County', 'State', 'Utility', 'Proposed COD']
     nyiso_relevant_fields = ['Queue Pos.', 'Project Name', 'SP (MW)', 'Type/ Fuel', 'Date of IR', 'Proposed COD', 'County', 'State', 'Utility']
 
-    nyiso_active_projects = standardizeFields(nyiso_active_projects, standard_fields, nyiso_relevant_fields)
+    nyiso_active_projects = standardizeFields(nyiso_active_projects, nyiso_relevant_fields)
 
     solar_indices = (nyiso_active_projects['fuel'] == 'S')
     storage_indices = (nyiso_active_projects['fuel'] == 'ES')
