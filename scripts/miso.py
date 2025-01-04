@@ -7,7 +7,7 @@ def getMISOQueue():
     try:    
         #script_dir = os.path.dirname(os.path.abspath(__file__))
         #os.chdir(script_dir)
-
+        x = 1/0
         #Request the data from the MISO API
         miso_url = 'https://www.misoenergy.org/api/giqueue/getprojects'
         response = requests.get(miso_url)
