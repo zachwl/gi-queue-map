@@ -271,24 +271,6 @@ totalGenButton.addEventListener('click', function() {
     clearMap(map);
     loadMap(cachedGeoJSON, totalGenSymbology);
 });
-testButton.addEventListener('click', function() {
-    clearMap(map);
-    fetch('data/spatial_data_test.geojson')
-        .then(response => response.json())
-        .then(data => {
-            L.geoJSON(data, {
-                style: function(feature) {
-                    return {
-                        fillColor: feature.properties.total_capacity > 0 ? 'pink' : 'gray', // Set fill color
-                        fillOpacity: 0.7, // Make sure the fill is visible
-                        color: 'black', // Border color
-                        weight: 1 // Border weight
-                    };
-                }
-            }).addTo(map); // Add the styled GeoJSON layer to the map
-        })
-        .catch(error => console.error('Error loading GeoJSON data:', error));
-});
 
 fetch('data/agg_county_data.geojson')
     .then(response => response.json())

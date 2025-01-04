@@ -78,9 +78,3 @@ body {
   right: 20px;
   z-index: 1000;
 }
-#testButton {
-  position: fixed;
-  top: 260px;
-  right: 20px;
-  z-index: 1000;
-}
