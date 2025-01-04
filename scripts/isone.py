@@ -44,7 +44,7 @@ def getISONEQueue():
     #isone_cols_to_keep = ['Position', 'Requested', 'Alternative Name', 'Fuel Type', 'Net MW', 'County', 'State', 'Op Date', 'TO Report']
     isone_relevant_columns = ['Position', 'Alternative Name', 'Net MW', 'Fuel Type', 'Requested', 'Op Date', 'County', 'State', 'TO Report']
 
-    isone_active_projects = standardizeFields(isone_active_projects, standard_fields, isone_relevant_columns)
+    isone_active_projects = standardizeFields(isone_active_projects, isone_relevant_columns)
 
 
     solar_indices = (isone_active_projects['fuel'] == 'SUN')

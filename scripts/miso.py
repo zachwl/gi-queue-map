@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 from config import standard_fields
-from utils import standardizeFuels, standardizeFields, createJoinKey
+from utils import standardizeFuels, standardizeFields, createJoinKey, sendEmail
 
 def getMISOQueue():
 
@@ -28,7 +28,7 @@ def getMISOQueue():
     miso_relevant_fields = ['projectNumber', 'poiName', 'summerNetMW', 'fuelType', 'queueDate', 'inService', 'county', 'state', 'transmissionOwner']
 
 
-    miso_active_projects = standardizeFields(miso_active_projects, standard_fields, miso_relevant_fields)
+    miso_active_projects = standardizeFields(miso_active_projects, miso_relevant_fields)
 
     #########
     # Standardize Fuel Types

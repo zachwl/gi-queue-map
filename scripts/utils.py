@@ -5,7 +5,7 @@ import pandas as pd
 import smtplib
 from email.mime.text import MIMEText
 
-from config import standard_fuels
+from config import standard_fuels, standard_fields
 
 def sendEmail(subject, message):
     SMTP_SERVER = "smtp.gmail.com"
@@ -32,15 +32,15 @@ def createJoinKey(df):
     df['join_key'] = (df['county'].str.replace(r'[ .-]', '', regex=True) + '_' + df['state']).str.lower()
     return df
 
-def standardizeFields(df, standard_columns, input_columns):
+def standardizeFields(df, input_fields):
     # Create a mapping from standard_columns to input_columns using zip
-    column_mapping = dict(zip(standard_columns, input_columns))
+    column_mapping = dict(zip(standard_fields, input_fields))
     
     # Subset the DataFrame to include only the input columns
     subset_columns = []
 
     # Loop through each standard column name
-    for col in standard_columns:
+    for col in standard_fields:
         # Use the mapping to find the corresponding column name in the input DataFrame
         mapped_column = column_mapping[col]
         # Add the mapped column name to the list
@@ -50,7 +50,7 @@ def standardizeFields(df, standard_columns, input_columns):
     df_subset = df[subset_columns]  
     
     # Rename the columns to the standard column names
-    df_subset.columns = standard_columns
+    df_subset.columns = standard_fields
     
     # Return the standardized DataFrame
     return df_subset

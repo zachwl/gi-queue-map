@@ -32,7 +32,7 @@ def getPJMQueue():
     ### Standardize Columns
     #pjm_cols_to_keep = ['ProjectNumber', 'Name', 'State', 'County', 'TransmissionOwner', 'MWEnergy', 'Fuel', 'SubmittedDate', 'ProjectedInServiceDate']
     pjm_relevant_fields = ['ProjectNumber', 'Name', 'MWEnergy', 'Fuel', 'SubmittedDate', 'ProjectedInServiceDate', 'County', 'State', 'TransmissionOwner']
-    pjm_active_projects = standardizeFields(pjm_active_projects, standard_fields, pjm_relevant_fields)
+    pjm_active_projects = standardizeFields(pjm_active_projects, pjm_relevant_fields)
 
     solar_indices = (pjm_active_projects['fuel'] == 'Solar')
     storage_indices = (pjm_active_projects['fuel'] == 'Storage')
