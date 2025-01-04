@@ -16,6 +16,8 @@ def getMISOQueue():
 
     #Clean the existing columns
     miso_active_projects = miso_df[miso_df['applicationStatus'] == 'Active'].copy()
+    miso_active_projects = miso_active_projects[miso_active_projects['fuelType'] != 'High Voltage DC'].copy()
+    
     miso_active_projects['county'] = miso_active_projects['county'].str.replace(r' (County|Parish)$', '', regex=True)
     miso_active_projects['county'] = miso_active_projects['county'].str.split(',').str[0]
 

@@ -23,7 +23,7 @@ def getNYISOQueue():
     ### Clean Data ###
 
     nyiso_active_projects = nyiso_active_projects[pd.to_numeric(nyiso_active_projects['Queue Pos.'], errors='coerce').notna()].copy()
-    nyiso_active_projects = nyiso_active_projects[~nyiso_active_projects['Type/ Fuel'].isin(['AC', 'DC','L'])].copy()
+    nyiso_active_projects = nyiso_active_projects[~nyiso_active_projects['Type/ Fuel'].isin(['AC', 'DC', 'L'])].copy()
     #Could be turned into a function in utils in the future
     nyiso_active_projects['County'] = nyiso_active_projects['County'].str.replace(r' (County|Parish)$', '', regex=True)
 
