@@ -23,7 +23,7 @@ def getPJMQueue():
     #pjm_df = pd.read_csv('tempPJMfromXML.csv')
 
     pjm_active_projects = pjm_df[pjm_df['Status'] == 'Active'].copy()
-    pjm_active_projects = pjm_df[pjm_df['ProjectType'] == 'Generator Interconnection'].copy()
+    pjm_active_projects = pjm_df[pjm_df['ProjectType'] == 'Generation Interconnection'].copy()
 
     pjm_active_projects['MWEnergy'] = pd.to_numeric(pjm_active_projects['MWEnergy'], errors='coerce')
     pjm_active_projects['County'] = pjm_active_projects['County'].str.replace(r' County', '', regex=True)
