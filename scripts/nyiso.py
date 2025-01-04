@@ -8,7 +8,6 @@ from utils import standardizeFuels, standardizeFields, createJoinKey, sendEmail
 def getNYISOQueue():
 
     try:
-        x=1/0
         url = 'https://www.nyiso.com/documents/20142/1407078/NYISO-Interconnection-Queue.xlsx'
 
         #Send a GET request to fetch the content
@@ -56,7 +55,7 @@ def getNYISOQueue():
         return nyiso_active_projects
     except Exception as e:
         error = traceback.format_exc()
-        sendEmail('Error raised in pjm.py', error)
+        sendEmail('Error raised in nyiso.py', error)
         nyiso_backup = pd.read_csv('data/individual_queues/nyiso_active_projects.csv')
         return nyiso_backup
 

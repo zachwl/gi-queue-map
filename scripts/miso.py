@@ -6,7 +6,6 @@ from utils import standardizeFuels, standardizeFields, createJoinKey, sendEmail
 
 def getMISOQueue():
     try:
-        x=1/0
         #Request the data from the MISO API
         miso_url = 'https://www.misoenergy.org/api/giqueue/getprojects'
         response = requests.get(miso_url)

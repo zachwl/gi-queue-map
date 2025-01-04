@@ -9,7 +9,6 @@ from utils import standardizeFuels, standardizeFields, createJoinKey, sendEmail
 def getISONEQueue():
 
     try:
-        x=1/0
         # Get the current date and set the time to midnight
         current_date = datetime.datetime.now().date()
         midnight = datetime.datetime.combine(current_date, datetime.time.min)

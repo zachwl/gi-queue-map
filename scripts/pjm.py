@@ -8,7 +8,6 @@ from utils import standardizeFuels, standardizeFields, createJoinKey, sendEmail
 def getPJMQueue():
 
     try:
-        x=1/0
         url = 'https://www.pjm.com/pub/planning/downloads/xml/PlanningQueues.xml'
         response = requests.get(url)
 
