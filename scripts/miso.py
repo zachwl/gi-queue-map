@@ -1,3 +1,4 @@
+import traceback
 import requests
 import pandas as pd
 
@@ -60,7 +61,8 @@ def getMISOQueue():
         return miso_active_projects
     
     except Exception as e:
-        sendEmail('Error raised in miso.py', str(e))
+        error = traceback.format_exc()
+        sendEmail('Error raised in miso.py', error)
         miso_backup = pd.read_csv('data/individual_queues/miso_active_projects.csv')
         return miso_backup
 #getMISOQueue().to_csv('C:/Users/zleig/Downloads/tempMISO.csv', index=False)
