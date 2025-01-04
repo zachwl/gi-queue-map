@@ -1,8 +1,6 @@
 import os
-
 import pandas as pd
 import geopandas as gpd
-#import fiona
 import miso, pjm, isone, nyiso
 from email_testing import sendEmail
 
