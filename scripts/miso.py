@@ -6,8 +6,8 @@ from utils import standardizeFuels, standardizeFields
 
 def getMISOQueue():
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    os.chdir(script_dir)
+    #script_dir = os.path.dirname(os.path.abspath(__file__))
+    #os.chdir(script_dir)
 
     #Request the data from the MISO API
     miso_url = 'https://www.misoenergy.org/api/giqueue/getprojects'
@@ -52,6 +52,6 @@ def getMISOQueue():
     ####Could be a function in utils in the future
     miso_active_projects['join_key'] = (miso_active_projects['county'] + '_' + miso_active_projects['state']).str.lower()
 
-    miso_active_projects.to_csv(f'../data/individual_queues/miso_active_projects.csv', index = False)
+    miso_active_projects.to_csv(f'data/individual_queues/miso_active_projects.csv', index = False)
 
     return miso_active_projects

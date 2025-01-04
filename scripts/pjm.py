@@ -7,8 +7,8 @@ from utils import standardizeFuels, standardizeFields
 
 def getPJMQueue():
     
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    os.chdir(script_dir)
+    #script_dir = os.path.dirname(os.path.abspath(__file__))
+    #os.chdir(script_dir)
 
     #'''
     url = 'https://www.pjm.com/pub/planning/downloads/xml/PlanningQueues.xml'
@@ -55,6 +55,6 @@ def getPJMQueue():
     ####Could be a function in utils in the future
     pjm_active_projects['join_key'] = (pjm_active_projects['county'] + '_' + pjm_active_projects['state']).str.lower()
 
-    pjm_active_projects.to_csv(f'../data/individual_queues/pjm_active_projects.csv', index = False)
+    pjm_active_projects.to_csv(f'data/individual_queues/pjm_active_projects.csv', index = False)
     return pjm_active_projects
 #getPJMQueue().to_csv('tempPJMfromXML.csv', index=False)

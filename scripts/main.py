@@ -6,8 +6,8 @@ from email_testing import sendEmail
 
 def main():
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    os.chdir(script_dir)
+    #script_dir = os.path.dirname(os.path.abspath(__file__))
+    #os.chdir(script_dir)
 
     #Get the MISO Queue
     miso_queue = miso.getMISOQueue()
@@ -17,7 +17,7 @@ def main():
 
     all_queued_projects = pd.concat([miso_queue, pjm_queue, isone_queue, nyiso_queue])
 
-    all_queued_projects.reset_index().to_json(f'../data/all_queued_projects.json', index = None)
+    all_queued_projects.reset_index().to_json(f'data/all_queued_projects.json', index = None)
 
     all_queued_projects_by_county = (
         all_queued_projects.groupby(["join_key", "fuel"])["capacity"]
@@ -48,7 +48,7 @@ def main():
     ### Spatializing Queue Data ###
     ###############################
 
-    counties = gpd.read_file(f'../data/usa_simplified_counties.geojson')
+    counties = gpd.read_file(f'data/usa_simplified_counties.geojson')
 
     joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
 
@@ -58,7 +58,7 @@ def main():
     spatialized_data.sort_values('rto_count', ascending=True, inplace=True)
 
     #joined_data_geo.to_file('sampleisoneData.gpkg', driver='GPKG')
-    spatialized_data.to_file(f'../data.geojson', driver = 'GeoJSON')
+    spatialized_data.to_file(f'data.geojson', driver = 'GeoJSON')
     sendEmail("Live from New York", "It's Saturday Night!")
 
 if __name__ == "__main__":

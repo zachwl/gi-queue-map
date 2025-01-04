@@ -49,7 +49,7 @@ def getNYISOQueue():
     nyiso_active_projects['iso_utility'] = 'NYISO'
     nyiso_active_projects['join_key'] = (nyiso_active_projects['county'] + '_' + nyiso_active_projects['state']).str.lower()
 
-    nyiso_active_projects.to_csv(f'../data/individual_queues/nyiso_active_projects.csv', index = False)
+    nyiso_active_projects.to_csv(f'data/individual_queues/nyiso_active_projects.csv', index = False)
 
     return nyiso_active_projects
 

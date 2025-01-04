@@ -3,8 +3,8 @@ import requests
 from datetime import datetime, timedelta
 import pandas as pd
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-os.chdir(script_dir)
+#script_dir = os.path.dirname(os.path.abspath(__file__))
+#os.chdir(script_dir)
 
 def standardizeFields(df, standard_columns, input_columns):
     # Create a mapping from standard_columns to input_columns using zip
@@ -46,7 +46,7 @@ def isURLValid(url):
 
 def findNewURL(utility):
     #Access the download settings that track working urls and data updates
-    ds_path = f"script_data/download_settings.csv"
+    ds_path = f"download_settings.csv"
     download_settings = pd.read_csv(ds_path, index_col='name')
 
     #Read data from download settings
@@ -82,7 +82,7 @@ def findNewURL(utility):
             #If no valid URL found, try the next day
             date_tracker = date_tracker + timedelta(days=1)
     print("Needs attention - no valid URL found")
-    with open(f"script_data/temp_errors.txt", "w") as text_file:
+    with open(f"scripts/script_data/temp_errors.txt", "w") as text_file:
         text_file.write("Needs attention - no valid URL found for: " + utility)
     return None
 
