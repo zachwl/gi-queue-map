@@ -26,7 +26,7 @@ def main():
         .unstack(fill_value=0)  # Transform fuel_type into columns
         .rename(columns={
             "Solar": "total_solar",
-            "Solar/Storage": "total_hybrid",
+            "Solar+Storage": "total_hybrid",
             "Storage": "total_storage",
             "Wind": "total_wind",
             "Natural Gas": "total_natural_gas",
@@ -50,6 +50,7 @@ def main():
     ###############################
 
     counties = gpd.read_file(f'data/usa_simplified_counties.geojson')
+    counties['join_key'] = (counties['NAME'].str.replace(r'[ .-]', '', regex=True) + '_' + counties['STATE_ABBR']).str.lower()
 
     joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
 
