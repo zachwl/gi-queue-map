@@ -35,7 +35,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data/individual_queues/*.csv  # Adds all CSV files in the directory
-        git add data.geojson
+        git add data/agg_county_data.geojson
         git add data/all_queued_projects.json
         git diff --cached --exit-code || git commit -m "Update multiple files"
         git push
