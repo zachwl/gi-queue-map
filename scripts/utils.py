@@ -1,10 +1,15 @@
-import os
+import re
 import requests
 from datetime import datetime, timedelta
 import pandas as pd
+from config import standard_fuels
 
 #script_dir = os.path.dirname(os.path.abspath(__file__))
 #os.chdir(script_dir)
+
+def createJoinKey(df):
+    df['join_key'] = (df['county'].str.replace(r'[ .-]', '', regex=True) + '_' + df['state']).str.lower()
+    return df
 
 def standardizeFields(df, standard_columns, input_columns):
     # Create a mapping from standard_columns to input_columns using zip
@@ -30,7 +35,8 @@ def standardizeFields(df, standard_columns, input_columns):
     return df_subset
 
 def standardizeFuels(projects, fuel_indices):
-    for fuel, indices in fuel_indices.items():
+    fuel_index_dict = zip(standard_fuels, fuel_indices)
+    for fuel, indices in fuel_index_dict:
         projects.loc[indices, 'fuel'] = fuel
     return projects
 

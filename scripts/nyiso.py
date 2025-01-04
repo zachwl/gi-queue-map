@@ -1,16 +1,15 @@
-import os
 import requests
 from io import BytesIO
 import pandas as pd
 
-from config import fuel_indicies, standard_fields
-from utils import standardizeFuels, standardizeFields
+from config import standard_fields
+from utils import standardizeFuels, standardizeFields, createJoinKey
 
 def getNYISOQueue():
 
     url = 'https://www.nyiso.com/documents/20142/1407078/NYISO-Interconnection-Queue.xlsx'
 
-#    Send a GET request to fetch the content
+    #Send a GET request to fetch the content
     response = requests.get(url)
 
     # Check if the request was successful
@@ -25,8 +24,8 @@ def getNYISOQueue():
 
     nyiso_active_projects = nyiso_active_projects[pd.to_numeric(nyiso_active_projects['Queue Pos.'], errors='coerce').notna()].copy()
     nyiso_active_projects = nyiso_active_projects[~nyiso_active_projects['Type/ Fuel'].isin(['AC', 'DC','L'])].copy()
+    #Could be turned into a function in utils in the future
     nyiso_active_projects['County'] = nyiso_active_projects['County'].str.replace(r' (County|Parish)$', '', regex=True)
-    nyiso_active_projects['County'] = nyiso_active_projects['County'].str.replace('St-Lawrence', 'St. Lawrence', regex=True)
 
     nyiso_active_projects['County'] = nyiso_active_projects['County'].str.split('/').str[0]
     nyiso_active_projects['County'] = nyiso_active_projects['County'].str.split(',').str[0]
@@ -36,21 +35,22 @@ def getNYISOQueue():
 
     nyiso_active_projects = standardizeFields(nyiso_active_projects, standard_fields, nyiso_relevant_fields)
 
-    fuel_indicies['Solar'] = (nyiso_active_projects['fuel'] == 'S')
-    fuel_indicies['Solar/Storage'] = (nyiso_active_projects['fuel'] == 'CR')
-    fuel_indicies['Storage'] = (nyiso_active_projects['fuel'] == 'ES')
-    fuel_indicies['Wind'] = ((nyiso_active_projects['fuel'] == 'W') | (nyiso_active_projects['fuel'] == 'OSW'))
-    fuel_indicies['Natural Gas'] = (nyiso_active_projects['fuel'] == 'NG')
+    solar_indices = (nyiso_active_projects['fuel'] == 'S')
+    storage_indices = (nyiso_active_projects['fuel'] == 'ES')
+    ss_indices = (nyiso_active_projects['fuel'] == 'CR')
+    wind_indices = ((nyiso_active_projects['fuel'] == 'W') | (nyiso_active_projects['fuel'] == 'OSW'))
+    gas_indices = (nyiso_active_projects['fuel'] == 'NG')
 
-    fuel_indicies['Other'] = ~(fuel_indicies['Solar'] | fuel_indicies['Storage'] | fuel_indicies['Solar/Storage'] | fuel_indicies['Wind'] | fuel_indicies['Natural Gas'])
+    other_indices = ~(solar_indices | storage_indices | ss_indices | wind_indices | gas_indices)
+    indices_list = [solar_indices, storage_indices, ss_indices, wind_indices, gas_indices, other_indices]
 
-    nyiso_active_projects = standardizeFuels(nyiso_active_projects, fuel_indicies)
+    nyiso_active_projects = standardizeFuels(nyiso_active_projects, indices_list)
 
     nyiso_active_projects['iso_utility'] = 'NYISO'
-    nyiso_active_projects['join_key'] = (nyiso_active_projects['county'] + '_' + nyiso_active_projects['state']).str.lower()
+    nyiso_active_projects = createJoinKey(nyiso_active_projects)
 
-    nyiso_active_projects.to_csv(f'data/individual_queues/nyiso_active_projects.csv', index = False)
+    #nyiso_active_projects.to_csv(f'data/individual_queues/nyiso_active_projects.csv', index = False)
 
     return nyiso_active_projects
 
-#getNYISOQueue().to_csv('C:/Users/zleig/Downloads/nyiso_testing.csv', index = False)
+getNYISOQueue().to_csv('C:/Users/zleig/Downloads/tempNYISO.csv', index = False)

@@ -1,8 +1,7 @@
-import os
 import requests
 import pandas as pd
-from config import fuel_indicies, standard_fields
-from utils import standardizeFuels, standardizeFields
+from config import standard_fields
+from utils import standardizeFuels, standardizeFields, createJoinKey
 
 def getMISOQueue():
 
@@ -35,23 +34,27 @@ def getMISOQueue():
     #Get all relevant indicies
     #Access methods for these will vary by RTO/utility
 
-    fuel_indicies['Solar'] = (miso_active_projects['fuel'] == 'Solar')
-    fuel_indicies['Storage'] = (miso_active_projects['fuel'] == 'Battery Storage')
-    fuel_indicies['Solar/Storage'] = (miso_active_projects['fuel'] == 'Hybrid') # Will need to add more logic to this to improve accuracy
-    fuel_indicies['Wind'] = (miso_active_projects['fuel'] == 'Wind')
-    fuel_indicies['Natural Gas'] = (miso_active_projects['fuel'] == 'Gas')
+    solar_indices = (miso_active_projects['fuel'] == 'Solar')
+    storage_indices = (miso_active_projects['fuel'] == 'Battery Storage')
+    ss_indices = (miso_active_projects['fuel'] == 'Hybrid') # Will need to add more logic to this to improve accuracy
+    wind_indices = (miso_active_projects['fuel'] == 'Wind')
+    gas_indices = (miso_active_projects['fuel'] == 'Gas')
     
-    ####Could be a function in utils in the future
-    fuel_indicies['Other'] = ~(fuel_indicies['Solar'] | fuel_indicies['Storage'] | fuel_indicies['Solar/Storage'] | fuel_indicies['Wind'] | fuel_indicies['Natural Gas'])
+    #Find indices that do not match the predefined set of fuel types
+    other_indices = ~(solar_indices | storage_indices | ss_indices | wind_indices | gas_indices)
+
+    indices_list = [solar_indices, storage_indices, ss_indices, wind_indices, gas_indices, other_indices]
 
     #Standardize the fuel types
-    miso_active_projects = standardizeFuels(miso_active_projects, fuel_indicies)
+    miso_active_projects = standardizeFuels(miso_active_projects, indices_list)
 
     miso_active_projects['iso_utility'] = 'MISO'
 
     ####Could be a function in utils in the future
-    miso_active_projects['join_key'] = (miso_active_projects['county'] + '_' + miso_active_projects['state']).str.lower()
-
+    #miso_active_projects['join_key'] = (miso_active_projects['county'] + '_' + miso_active_projects['state']).str.lower()
+    miso_active_projects = createJoinKey(miso_active_projects)
     miso_active_projects.to_csv(f'data/individual_queues/miso_active_projects.csv', index = False)
 
     return miso_active_projects
+
+getMISOQueue().to_csv('C:/Users/zleig/Downloads/tempMISO.csv', index=False)

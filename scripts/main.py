@@ -3,6 +3,7 @@ import pandas as pd
 import geopandas as gpd
 import miso, pjm, isone, nyiso
 from email_testing import sendEmail
+from utils import createJoinKey
 
 def main():
 
@@ -49,6 +50,7 @@ def main():
     ###############################
 
     counties = gpd.read_file(f'data/usa_simplified_counties.geojson')
+    counties = createJoinKey(counties)
 
     joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
 

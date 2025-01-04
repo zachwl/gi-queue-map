@@ -1,16 +1,12 @@
-import os
 import requests
 import datetime
 from io import BytesIO
 import pandas as pd
 
-from config import fuel_indicies, standard_fields
-from utils import standardizeFuels, standardizeFields
+from config import standard_fields
+from utils import standardizeFuels, standardizeFields, createJoinKey
 
 def getISONEQueue():
-
-    #script_dir = os.path.dirname(os.path.abspath(__file__))
-    #os.chdir(script_dir)
 
     # Get the current date and set the time to midnight
     current_date = datetime.datetime.now().date()
@@ -51,24 +47,27 @@ def getISONEQueue():
     isone_active_projects = standardizeFields(isone_active_projects, standard_fields, isone_relevant_columns)
 
 
-    fuel_indicies['Solar'] = (isone_active_projects['fuel'] == 'SUN')
-    fuel_indicies['Solar/Storage'] = (isone_active_projects['fuel'] == 'SUN BAT')
-    fuel_indicies['Storage'] = (isone_active_projects['fuel'] == 'BAT')
-    fuel_indicies['Wind'] = (isone_active_projects['fuel'] == 'WND')
-    fuel_indicies['Natural Gas'] = (isone_active_projects['fuel'] == 'NG')
+    solar_indices = (isone_active_projects['fuel'] == 'SUN')
+    storage_indices = (isone_active_projects['fuel'] == 'BAT')
+    ss_indices = (isone_active_projects['fuel'] == 'SUN BAT')
 
-    fuel_indicies['Other'] = ~(fuel_indicies['Solar'] | fuel_indicies['Storage'] | fuel_indicies['Solar/Storage'] | fuel_indicies['Wind'] | fuel_indicies['Natural Gas'])
+    wind_indices = (isone_active_projects['fuel'] == 'WND')
+    gas_indices = (isone_active_projects['fuel'] == 'NG')
 
-    isone_active_projects = standardizeFuels(isone_active_projects, fuel_indicies)
+    other_indices = ~(solar_indices | storage_indices | ss_indices | wind_indices | gas_indices)
+
+    indices_list = [solar_indices, storage_indices, ss_indices, wind_indices, gas_indices, other_indices]
+
+    isone_active_projects = standardizeFuels(isone_active_projects, indices_list)
 
     isone_active_projects['iso_utility'] = 'PJM'
 
     ####Could be a function in utils in the future
-    isone_active_projects['join_key'] = (isone_active_projects['county'] + '_' + isone_active_projects['state']).str.lower()
+    isone_active_projects = createJoinKey(isone_active_projects)
     
-    isone_active_projects.to_csv(f'data/individual_queues/isone_active_projects.csv', index = False)
+    #isone_active_projects.to_csv(f'data/individual_queues/isone_active_projects.csv', index = False)
 
 
     return isone_active_projects
 
-#getISONEQueue().to_csv(f'C:/Users/zleig/Downloads/isonetesting.csv', index = False)
+getISONEQueue().to_csv(f'C:/Users/zleig/Downloads/tempISONE.csv', index = False)
