@@ -1,4 +1,4 @@
-import re
+#import re
 import requests
 from datetime import datetime, timedelta
 import pandas as pd

@@ -49,8 +49,8 @@ def getNYISOQueue():
     nyiso_active_projects['iso_utility'] = 'NYISO'
     nyiso_active_projects = createJoinKey(nyiso_active_projects)
 
-    #nyiso_active_projects.to_csv(f'data/individual_queues/nyiso_active_projects.csv', index = False)
+    nyiso_active_projects.to_csv(f'data/individual_queues/nyiso_active_projects.csv', index = False)
 
     return nyiso_active_projects
 
-getNYISOQueue().to_csv('C:/Users/zleig/Downloads/tempNYISO.csv', index = False)
+#getNYISOQueue().to_csv('C:/Users/zleig/Downloads/tempNYISO.csv', index = False)

@@ -50,7 +50,6 @@ def main():
     ###############################
 
     counties = gpd.read_file(f'data/usa_simplified_counties.geojson')
-    counties = createJoinKey(counties)
 
     joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
 

@@ -65,9 +65,9 @@ def getISONEQueue():
     ####Could be a function in utils in the future
     isone_active_projects = createJoinKey(isone_active_projects)
     
-    #isone_active_projects.to_csv(f'data/individual_queues/isone_active_projects.csv', index = False)
+    isone_active_projects.to_csv(f'data/individual_queues/isone_active_projects.csv', index = False)
 
 
     return isone_active_projects
 
-getISONEQueue().to_csv(f'C:/Users/zleig/Downloads/tempISONE.csv', index = False)
+#getISONEQueue().to_csv(f'C:/Users/zleig/Downloads/tempISONE.csv', index = False)
