@@ -1,9 +1,8 @@
-import os
 import pandas as pd
 import geopandas as gpd
 import miso, pjm, isone, nyiso
-from email_testing import sendEmail
-from utils import createJoinKey
+
+from utils import createJoinKey, sendEmail
 
 def main():
 
@@ -49,8 +48,8 @@ def main():
     ### Spatializing Queue Data ###
     ###############################
 
-    counties = gpd.read_file(f'data/usa_simplified_counties.geojson')
-    counties['join_key'] = (counties['NAME'].str.replace(r'[ .-]', '', regex=True) + '_' + counties['STATE_ABBR']).str.lower()
+    counties = gpd.read_file(f'data/simplified_counties.geojson')
+    counties = createJoinKey(counties)
 
     joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
 
@@ -60,7 +59,7 @@ def main():
     spatialized_data.sort_values('rto_count', ascending=True, inplace=True)
 
     #joined_data_geo.to_file('sampleisoneData.gpkg', driver='GPKG')
-    spatialized_data.to_file(f'data.geojson', driver = 'GeoJSON')
+    spatialized_data.to_file(f'data/agg_county_data.geojson', driver = 'GeoJSON')
     sendEmail("Live from New York", "It's Saturday Night!")
 
 if __name__ == "__main__":

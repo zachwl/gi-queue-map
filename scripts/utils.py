@@ -1,11 +1,32 @@
-#import re
+import os
 import requests
 from datetime import datetime, timedelta
 import pandas as pd
+import smtplib
+from email.mime.text import MIMEText
+
 from config import standard_fuels
 
-#script_dir = os.path.dirname(os.path.abspath(__file__))
-#os.chdir(script_dir)
+def sendEmail(subject, message):
+    SMTP_SERVER = "smtp.gmail.com"
+    SMTP_PORT = 587
+
+    address = os.environ.get('EMAIL')
+    password = os.environ.get('PASSWORD')
+
+    msg = MIMEText(message)
+    msg['Subject'] = subject
+    msg['From'] = address
+    msg['To'] = address
+
+    try:
+        with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+            server.starttls()
+            server.login(address, password)
+            server.send_message(msg)
+            print("Email sent successfully!")
+    except Exception as e:
+        print(f"Failed to send email: {e}")
 
 def createJoinKey(df):
     df['join_key'] = (df['county'].str.replace(r'[ .-]', '', regex=True) + '_' + df['state']).str.lower()

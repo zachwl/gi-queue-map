@@ -290,7 +290,7 @@ testButton.addEventListener('click', function() {
         .catch(error => console.error('Error loading GeoJSON data:', error));
 });
 
-fetch('data.geojson')
+fetch('data/agg_county_data.geojson')
     .then(response => response.json())
     .then(data => {
         cachedGeoJSON = data;
