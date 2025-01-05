@@ -73,7 +73,7 @@ def isURLValid(url):
 
 def findNewURL(utility):
     #Access the download settings that track working urls and data updates
-    ds_path = f"download_settings.csv"
+    ds_path = f"./script_data/download_settings.csv"
     download_settings = pd.read_csv(ds_path, index_col='name')
 
     #Read data from download settings
