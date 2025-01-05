@@ -6,23 +6,28 @@ from utils import createJoinKey, sendEmail
 
 def main():
 
-    #script_dir = os.path.dirname(os.path.abspath(__file__))
-    #os.chdir(script_dir)
+    #### Download dataframes from all ISOs/utilties ####
 
-    #Get the MISO Queue
+    # Download a copy of each dataset (either new data or copied from backup)
     miso_queue = miso.getMISOQueue()
     pjm_queue = pjm.getPJMQueue()
     isone_queue = isone.getISONEQueue()
     nyiso_queue = nyiso.getNYISOQueue()
 
+    #### Process the data ####
+
+    # Concatenate the data to create long dataset
     all_queued_projects = pd.concat([miso_queue, pjm_queue, isone_queue, nyiso_queue])
 
+    # Export as json for use in interactive web page elements
     all_queued_projects.reset_index().to_json(f'data/all_queued_projects.json', index = None)
 
+    # Aggregate based on county and fuel types
+    # Returns metrics for each fuel type by county
     all_queued_projects_by_county = (
         all_queued_projects.groupby(["join_key", "fuel"])["capacity"]
         .sum()
-        .unstack(fill_value=0)  # Transform fuel_type into columns
+        .unstack(fill_value=0)
         .rename(columns={
             "Solar": "total_solar",
             "Solar+Storage": "total_hybrid",
@@ -31,9 +36,12 @@ def main():
             "Natural Gas": "total_natural_gas",
             "Other": "total_other"
         })
-        .reset_index()  # Reset index for a clean DataFrame
+        .reset_index()
     )
-    # Calculate total nameplate capacity for each county
+
+    #### Add additional data ###
+
+    # Calculate total queued capacity for each county
     total_capacity = all_queued_projects.groupby("join_key")["capacity"].sum().rename("total_capacity")
 
     # Calculate the number of RTOs for each county
@@ -42,25 +50,25 @@ def main():
     # Merge additional metrics into the aggregated DataFrame
     all_queued_projects_by_county = all_queued_projects_by_county.merge(total_capacity, on="join_key").merge(rto_count, on="join_key").copy()
 
-    #all_queued_projects_by_county.to_csv(f'C:/Users/zleig/Downloads/countyAggtest.csv', index = None)
+    #### Spatializing Queue Data ####
 
-    ###############################
-    ### Spatializing Queue Data ###
-    ###############################
-
+    # Read in pre-cleaned spatial layer of US counties and give it a join_key
     counties = gpd.read_file(f'data/simplified_counties.geojson')
     counties = createJoinKey(counties)
 
+    # Merge county spatial with aggregate county data using join_key
     joined_data = all_queued_projects_by_county.merge(counties, on = 'join_key', how='outer')
 
+    # Add back geometry
     spatialized_data = gpd.GeoDataFrame(joined_data, geometry=joined_data['geometry'])
 
+    # Sort by rto_count to help with rendering in the web page
     spatialized_data.fillna(value = {'rto_count': 0}, inplace=True)
     spatialized_data.sort_values('rto_count', ascending=True, inplace=True)
 
-    #joined_data_geo.to_file('sampleisoneData.gpkg', driver='GPKG')
+    # Export as geojson for use in script.js
     spatialized_data.to_file(f'data/agg_county_data.geojson', driver = 'GeoJSON')
-    sendEmail("Live from New York", "It's Saturday Night!")
+    sendEmail("GI Queue Map", "Execution of main.py successful")
 
 if __name__ == "__main__":
     main()
