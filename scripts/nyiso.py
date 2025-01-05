@@ -69,7 +69,7 @@ def getNYISOQueue():
         indices_list = [solar_indices, storage_indices, ss_indices, wind_indices, gas_indices, other_indices]
         
         # This function standardizes the fuel types 
-        # This is necessary so we can aggregate all of the dataframe from every ISO/RTO
+        # This is necessary so we can aggregate all of the dataframe from every ISO/utility
         nyiso_active_projects = standardizeFuels(nyiso_active_projects, indices_list)
         
         #### Final Steps ####
