@@ -54,7 +54,8 @@ def getISONEQueue():
         # These are the 9 columns that I want to keep from the NYISO data
         isone_relevant_columns = ['Position', 
                                 'Alternative Name', 
-                                'Net MW', 'Fuel Type', 
+                                'Net MW', 
+                                'Fuel Type', 
                                 'Requested', 
                                 'Op Date', 
                                 'County', 

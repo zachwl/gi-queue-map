@@ -1,0 +1,235 @@
+id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owner,iso_utility,join_key
+IC-1280,Judy Mountain - Mohawk Industries 115 kV Line,15,Storage,4/15/2024,8/13/2026,Floyd,GA,Southern Company,SoCo,floyd_ga
+IC-1279,Yates Substation 230 kV Bus,320,Storage,4/3/2024,6/30/2028,Coweta,GA,Southern Company,SoCo,coweta_ga
+IC-1276,Mitchell Substation 230 kV Bus,150,Solar+Storage,4/1/2024,7/28/2028,Mitchell,GA,Southern Company,SoCo,mitchell_ga
+IC-1272,McConnell - Pegamore 230 kV Line,200,Storage,3/27/2024,4/1/2027,Paulding,GA,Southern Company,SoCo,paulding_ga
+IC-1271,McGrau Ford Substation 230 kV Bus,530,Storage,3/27/2024,1/16/2026,Cherokee,GA,Southern Company,SoCo,cherokee_ga
+IC-1270,Anniston (APC) - Hammond 230 kV Line,100,Solar,3/27/2024,8/15/2026,Floyd,GA,Southern Company,SoCo,floyd_ga
+IC-1267,Hammond SP Substation 230 kV Bus,57.5,Storage,3/22/2024,3/30/2026,Floyd,GA,Southern Company,SoCo,floyd_ga
+IC-1266,Thurlow Dam - Union Springs 115 kV Line,200,Solar,3/22/2024,11/19/2027,Bullock,AL,Southern Company,SoCo,bullock_al
+IC-1265,North Dublin - Wadley Primary 230 kV Line,200,Solar+Storage,3/18/2024,7/28/2028,Laurens,GA,Southern Company,SoCo,laurens_ga
+IC-1264,Plant Wansley Substation 500 kV Bus,722,Natural Gas,3/18/2024,3/1/2029,Heard,GA,Southern Company,SoCo,heard_ga
+IC-1263,Plant Wansley Substation 500 kV Bus,722,Natural Gas,3/18/2024,9/1/2028,Heard,GA,Southern Company,SoCo,heard_ga
+IC-1260,McCall Road - West McIntosh 500 kV Line,722,Natural Gas,3/18/2024,9/1/2029,Effingham,GA,Southern Company,SoCo,effingham_ga
+IC-1259,McCall Road - West McIntosh 500 kV Line,722,Natural Gas,3/18/2024,3/1/2029,Effingham,GA,Southern Company,SoCo,effingham_ga
+IC-1258,Plant Bowen Substation 500 kV Bus,722,Natural Gas,3/18/2024,9/1/2029,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-1257,Plant Bowen Substation 500 kV Bus,722,Natural Gas,3/18/2024,5/1/2029,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-1256,Plant Bowen Substation 500 kV Bus,722,Natural Gas,3/18/2024,1/1/2029,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-1255,Plant Bowen Substation 230 kV Bus,722,Natural Gas,3/18/2024,9/1/2028,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-1254b,Tenaska Georgia SS Substation 500 kV Bus,1002.5,Natural Gas,3/15/2024,8/1/2028,Heard,GA,Southern Company,SoCo,heard_ga
+IC-1254a,Tenaska Georgia SS Substation 500 kV Bus,1002.5,Natural Gas,3/15/2024,8/1/2028,Heard,GA,Southern Company,SoCo,heard_ga
+IC-1251,Bartlett's Ferry - West Point 115 kV Line,157,Solar,3/14/2024,4/1/2028,Lee,AL,Southern Company,SoCo,lee_al
+IC-1249,North Tifton - Pitts 230 kV Line,110.5,Solar+Storage,3/11/2024,8/15/2026,Turner,GA,Southern Company,SoCo,turner_ga
+IC-1248,Shaddock Creek - Vidalia 115 kV Line,110.5,Solar+Storage,3/11/2024,8/15/2026,Treutlen,GA,Southern Company,SoCo,treutlen_ga
+IC-1247,Plant Wansley Substation 500 kV Bus,500,Storage,3/6/2024,3/1/2028,Heard,GA,Southern Company,SoCo,heard_ga
+IC-1244,Newton - Forest Industrial 115 kV Line,100,Solar,3/4/2024,4/1/2027,Newton,MS,Southern Company,SoCo,newton_ms
+IC-1243,Kiln - Carriere SW 230 kV Line,200,Solar,3/1/2024,4/1/2027,Pearl River,MS,Southern Company,SoCo,pearlriver_ms
+IC-1246,Fort Stewart CU 115 kV Bus,30,Solar+Storage,2/7/2024,2/9/2026,LIberty,GA,Southern Company,SoCo,liberty_ga
+IC-1239,Danway - Goat Rock (GPCO) 230 kV Line,150,Solar,1/25/2024,8/15/2026,Chambers,AL,Southern Company,SoCo,chambers_al
+IC-1234,Bassett Creek - Greene County 230 kV Line,175,Solar+Storage,1/9/2024,4/1/2027,Marengo,AL,Southern Company,SoCo,marengo_al
+IC-1233,North Tifton - Stump Creek 230 kV Line,200,Solar+Storage,1/8/2024,12/4/2026,Irwin,GA,Southern Company,SoCo,irwin_ga
+IC-1232,North Americus - Palmyra 230 kV Line,200,Solar+Storage,1/8/2024,7/1/2026,Lee,GA,Southern Company,SoCo,lee_ga
+IC-1229,Douglas - Kettle Creek Primary 230 kV Line,200,Solar+Storage,1/8/2024,5/1/2026,Coffee,GA,Southern Company,SoCo,coffee_ga
+IC-1225,Barry - Conecuh (Nextera) 230 kV Line,260,Solar,1/2/2024,4/1/2028,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-1224,Barry - Conecuh (Nextera) 230 kV Line,80,Solar,1/2/2024,4/1/2028,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-1223,South Hall Substation 230 kV Bus,250,Storage,12/19/2023,6/14/2027,Hall,GA,Southern Company,SoCo,hall_ga
+IC-1222,Bowen SP 230 kV Bus,250,Storage,12/19/2023,6/14/2027,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-1214,Farley - Pinckard 230 kV Line,120,Solar,12/13/2023,9/1/2028,Houston,AL,Southern Company,SoCo,houston_al
+IC-1210,Goodsprings Substation 230 kV Bus,150,Storage,12/8/2023,6/1/2026,Walker,AL,Southern Company,SoCo,walker_al
+IC-1208,Burkville Substation 115 kV Bus,120,Solar,12/1/2023,2/26/2027,Lowndes,AL,Southern Company,SoCo,lowndes_al
+IC-1207,Wiregrass Substation 230 kV Bus,200,Solar+Storage,11/30/2023,4/1/2026,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-1206,North Dublin - Wadley Primary 230 kV Line,225,Solar,11/28/2023,3/1/2027,Laurens,GA,Southern Company,SoCo,laurens_ga
+IC-1204,Rocky Creek - Wadley Primary 230 kV Line,200,Solar,11/28/2023,6/15/2027,Jefferson,GA,Southern Company,SoCo,jefferson_ga
+IC-1203,Jasper East SS Substation 230 kV Bus,200,Solar,11/20/2023,11/5/2027,Jasper,MS,Southern Company,SoCo,jasper_ms
+IC-1199,Mission Pond Substation 115 kV Bus,49.5,Solar+Storage,11/3/2023,11/4/2025,Lowndes,GA,Southern Company,SoCo,lowndes_ga
+IC-1198,Robins AFB Solar Substation 115 kV Bus,128,Solar+Storage,10/31/2023,10/24/2025,Houston,GA,Southern Company,SoCo,houston_ga
+IC-1195,Ogeechee River Road Substation 115 kV Bus,200,Solar,10/27/2023,8/15/2028,Warren,GA,Southern Company,SoCo,warren_ga
+IC-1187,Gordon Substation 115 kV Bus,220,Storage,10/26/2023,5/28/2027,Wilkinson,GA,Southern Company,SoCo,wilkinson_ga
+IC-1183,Thomson Primary 230 kV Bus,250,Solar,10/16/2023,4/15/2027,McDuffie,GA,Southern Company,SoCo,mcduffie_ga
+IC-1180,Laurel East - South Jones 230 kV Line,200,Solar,10/4/2023,8/1/2027,Jones,MS,Southern Company,SoCo,jones_ms
+IC-1176,Branch - Springhill Church 230 kV Line,68.5,Solar,9/26/2023,1/1/2028,Glascock,GA,Southern Company,SoCo,glascock_ga
+IC-1172,Sandersville #1 - Wadley Primary 230 kV LIne,127.5,Solar,9/8/2023,5/31/2027,Jefferson,GA,Southern Company,SoCo,jefferson_ga
+IC-1170,Villa Rica Substation 500 kV Bus,500,Storage,8/22/2023,6/15/2027,Douglas,GA,Southern Company,SoCo,douglas_ga
+IC-1168,Yates 6 & 7 Substation 230 kV Bus,411,Natural Gas,8/11/2023,12/1/2025,Coweta,GA,Southern Company,SoCo,coweta_ga
+IC-1167,Yates 6 & 7 Substation 230 kV Bus,822,Natural Gas,8/11/2023,12/1/2025,Coweta,GA,Southern Company,SoCo,coweta_ga
+IC-1166,Yates 6 & 7 Substation 230 kV Bus,411,Natural Gas,8/11/2023,12/1/2025,Coweta,GA,Southern Company,SoCo,coweta_ga
+IC-1165,East Watkinsville - Russell Dam (USA) 230 kV Line,150,Solar,8/10/2023,3/10/2027,Elbert,GA,Southern Company,SoCo,elbert_ga
+IC-1162,Jackson Shoals - Sylacauga 115 kV Line,100,Solar,8/3/2023,11/1/2027,Talladega,AL,Southern Company,SoCo,talladega_al
+IC-1160,Gaston SP Substation 230 kV Bus,403.1,Natural Gas,8/1/2023,6/1/2030,Shelby,AL,Southern Company,SoCo,shelby_al
+IC-1159,Gaston SP Substation 230 kV Bus,403.1,Natural Gas,8/1/2023,6/1/2030,Shelby,AL,Southern Company,SoCo,shelby_al
+IC-1158,Ellicott TS Substation 230 kV Bus,685,Natural Gas,8/1/2023,11/1/2028,Mobile,AL,Southern Company,SoCo,mobile_al
+IC-1157,Millers Ferry Dam (COE) - Sunny South SS 115 kV Line,80,Solar,7/28/2023,12/1/2028,Wilcox,AL,Southern Company,SoCo,wilcox_al
+IC-1155,Cherokee - Grange Road 46 kV Line,50,Storage,7/20/2023,9/30/2025,Chatham,GA,Southern Company,SoCo,chatham_ga
+IC-1154,Greenville - Pintlala 115 kV Line,80,Solar+Storage,7/20/2023,6/1/2028,Lowndes,AL,Southern Company,SoCo,lowndes_al
+IC-1153,Kathleen - Pitts 230 kV Line,150,Solar,7/18/2023,4/1/2027,Wilcox,GA,Southern Company,SoCo,wilcox_ga
+IC-1152,Sun Hill - Wadley Primary 230 kV Line,200,Solar,7/18/2023,5/15/2027,Washington,GA,Southern Company,SoCo,washington_ga
+IC-1149,North Tifton - Raccoon Creek 500 kV Line,400,Solar,7/14/2023,3/31/2028,Mitchell,GA,Southern Company,SoCo,mitchell_ga
+IC-1147,Ohara - Scherer 500 kV Line,500,Solar,6/26/2023,3/15/2028,Monroe,GA,Southern Company,SoCo,monroe_ga
+IC-1146,Plant Watson - Hurricane Creek 230 kV Line,170,Solar,6/23/2023,10/1/2029,Stone,MS,Southern Company,SoCo,stone_ms
+IC-1145,Jasper East SS Substation 230 kV Bus,156,Solar,6/9/2023,11/5/2027,Jasper,MS,Southern Company,SoCo,jasper_ms
+IC-1144,Kingston Substation 230 kV Bus,260,Storage,6/9/2023,5/1/2027,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-1142,Gordon - Milledgeville (WHITE) 115 kV Line,183,Solar,5/30/2023,5/15/2028,Baldwin,GA,Southern Company,SoCo,baldwin_ga
+IC-1137,Cuthbert Primary - Dawson Primary 115 kV Line,100,Solar+Storage,4/26/2023,5/30/2027,Randolph,GA,Southern Company,SoCo,randolph_ga
+IC-1136,Anthony Shoals - Washington 115 kV Line,105,Solar,4/14/2023,9/1/2027,Lincoln,GA,Southern Company,SoCo,lincoln_ga
+IC-1132,Demopolis - Greensboro 115 kV Line,80,Solar,3/24/2023,7/1/2027,Hale,AL,Southern Company,SoCo,hale_al
+IC-1128,Greene County - North Selma 230 kV Line,79.9,Solar,3/3/2023,6/30/2027,Perry,AL,Southern Company,SoCo,perry_al
+IC-1127,Greene County - North Selma 230 kV Line,79.9,Solar,3/3/2023,6/30/2027,Perry,AL,Southern Company,SoCo,perry_al
+IC-1122,Pike County - Snowdoun 230 kV Line,79.9,Solar,3/1/2023,9/30/2027,Montgomery,AL,Southern Company,SoCo,montgomery_al
+IC-1121,Pike County - Snowdoun 230 kV Line,79.9,Solar,3/1/2023,9/30/2027,Montgomery,AL,Southern Company,SoCo,montgomery_al
+IC-1116,Roopville DS Substation 230 kV Bus,100,Storage,1/31/2023,8/15/2027,Carroll,GA,Southern Company,SoCo,carroll_ga
+IC-1114,Billingsley SS Substation 500 kV Bus,951,Natural Gas,1/10/2023,7/1/2024,Autauga,AL,Southern Company,SoCo,autauga_al
+IC-1113,Hattiesburg Southwest - Adams Creek 230 kV Line,200,Solar,1/9/2023,11/1/2027,Lamar,MS,Southern Company,SoCo,lamar_ms
+IC-1103,Vidalia - Wadley Primary (BLACK) 230 kV Line,188,Solar+Storage,12/22/2022,7/1/2027,Emanuel,GA,Southern Company,SoCo,emanuel_ga
+IC-1102,Snowdoun TS Substation 230 kV Bus,400,Storage,12/12/2022,9/30/2026,Montgomery,AL,Southern Company,SoCo,montgomery_al
+IC-1101,Greene County - North Selma 230 kV Line,150,Solar+Storage,12/6/2022,5/31/2027,Perry,AL,Southern Company,SoCo,perry_al
+IC-1100,Kathleen - Pitts 230 kV Line,300,Solar+Storage,11/29/2022,6/28/2026,Pulaski,GA,Southern Company,SoCo,pulaski_ga
+IC-1099,Kathleen - Pitts 230 kV Line,150,Solar+Storage,11/29/2022,6/28/2026,Pulaski,GA,Southern Company,SoCo,pulaski_ga
+IC-1098,Butler DS Substation 230 kV Bus,225,Solar,11/25/2022,6/15/2027,Taylor,GA,Southern Company,SoCo,taylor_ga
+IC-1097,Vidalia - Wadley Primary (Black) 230 kV Line,200,Solar,11/25/2022,6/15/2026,Emanuel,GA,Southern Company,SoCo,emanuel_ga
+IC-1094,North Tifton - Stump Creek 230 kV Line,200,Solar,11/22/2022,6/15/2026,Irwin,GA,Southern Company,SoCo,irwin_ga
+IC-1091,Big Creek - Chickasaw 230 kV Line,300,Storage,11/17/2022,3/31/2027,Mobile,AL,Southern Company,SoCo,mobile_al
+IC-1089,Eaton - Lucedale 115 kV Line,125,Solar,11/9/2022,7/1/2027,Perry,MS,Southern Company,SoCo,perry_ms
+IC-1088,North Americus - Palmyra 230 kV Line,200,Solar,11/7/2022,5/5/2026,Lee,GA,Southern Company,SoCo,lee_ga
+IC-1087,Eufaula - Fort Mitchell 115 kV Line,80,Solar+Storage,11/2/2022,7/15/2026,Russell,AL,Southern Company,SoCo,russell_al
+IC-1086,Greene County - North Selma 230 kV Line,80,Solar+Storage,11/2/2022,7/15/2026,Perry,AL,Southern Company,SoCo,perry_al
+IC-1084,Plant Wansley Substation 500 kV Bus,470,Solar,10/26/2022,8/9/2027,Coweta,GA,Southern Company,SoCo,coweta_ga
+IC-1083,Demopolis - Selma 115 kV Line,80,Solar,10/26/2022,6/19/2026,Marengo,AL,Southern Company,SoCo,marengo_al
+IC-1081,Fulton Springs - Gorgas No. 2 115 kV Line,80,Solar,10/26/2022,8/15/2026,Walker,AL,Southern Company,SoCo,walker_al
+IC-1080,Fulton Springs - Gorgas No. 2 115 kV Line,80,Solar,10/25/2022,8/15/2026,Walker,AL,Southern Company,SoCo,walker_al
+IC-1076,Montgomery SS - Snowdoun 230 kV Line,80,Solar,10/11/2022,12/16/2026,Montgomery,AL,Southern Company,SoCo,montgomery_al
+IC-1075,Millers Ferry Dam (COE) - Selma 115 kV Line,80,Solar,10/5/2022,7/15/2027,Dallas,AL,Southern Company,SoCo,dallas_al
+IC-1074,North Tifton - Pitts 230 kV Line,110.5,Solar,10/5/2022,8/15/2025,Turner,GA,Southern Company,SoCo,turner_ga
+IC-1072,Greene County - Octagon 115 kV Line,80,Solar+Storage,10/4/2022,7/2/2027,Marengo,AL,Southern Company,SoCo,marengo_al
+IC-1071,Greene County - North Selma 230 kV Line,336,Solar,9/27/2022,6/30/2027,Perry,AL,Southern Company,SoCo,perry_al
+IC-1068,Vidalia - Wadley Primary (BLACK) 230 kV Line,124,Solar+Storage,9/20/2022,7/1/2027,Emanuel,GA,Southern Company,SoCo,emanuel_ga
+IC-1067,Shaddock Creek - Vidalia 115 kV Line,110.5,Solar,9/9/2022,8/15/2026,Treutlen,GA,Southern Company,SoCo,treutlen_ga
+IC-1066,Dothan - Pinckard No. 2 115 kV Line,80,Solar,9/9/2022,8/15/2030,Dale,AL,Southern Company,SoCo,dale_al
+IC-1061,Bellamy - Demopolis 115 kV Line,80,Solar+Storage,9/7/2022,4/2/2027,Marengo,AL,Southern Company,SoCo,marengo_al
+IC-1060,Greene County - Octagon 115 kV Line,80,Solar+Storage,9/7/2022,7/2/2027,Marengo,AL,Southern Company,SoCo,marengo_al
+IC-1059,Pike County TS Substation 230 kV Bus,500,Solar+Storage,9/2/2022,3/31/2027,Pike,AL,Southern Company,SoCo,pike_al
+IC-1055,Douglas - Kettle Creek Primary 230 kV Line,200,Solar,8/26/2022,12/1/2025,Coffee,GA,Southern Company,SoCo,coffee_ga
+IC-1054,Pike County TS Substation 230 kV Bus,80,Solar+Storage,8/26/2022,2/1/2027,Pike,AL,Southern Company,SoCo,pike_al
+IC-1053,Greene County - Moundville TS 230 kV Line,80,Solar+Storage,8/26/2022,3/30/2027,Hale,AL,Southern Company,SoCo,hale_al
+IC-1052,Martin Dam - Pear Tree SS 115 kV Line,80,Solar+Storage,8/26/2022,6/1/2026,Lee,AL,Southern Company,SoCo,lee_al
+IC-1051,Bucks SS - North Brewton 230 kV Line,80,Solar,8/21/2022,5/15/2027,Escambia,AL,Southern Company,SoCo,escambia_al
+IC-1044,Achord Road - Dirt Road 115 kV Line,150,Solar,7/20/2022,2/1/2027,Laurens,GA,Southern Company,SoCo,laurens_ga
+IC-1043,Martin Dam - Sylacauga 115 kV Line,100,Solar,7/18/2022,2/1/2030,Coosa,AL,Southern Company,SoCo,coosa_al
+IC-1042,Conyers 115 kV TS,200,Solar+Storage,7/11/2022,3/31/2026,Rockdale,GA,Southern Company,SoCo,rockdale_ga
+IC-1040,Greene County - Moundville TS 230 kV Line,170,Solar+Storage,6/29/2022,2/1/2027,Hale,AL,Southern Company,SoCo,hale_al
+IC-1039,North Selma - R.F. Henry (COE) 115 kV Line,80,Solar,5/23/2022,8/15/2026,Dallas,AL,Southern Company,SoCo,dallas_al
+IC-1038,Douglas - Kettle Creek Primary 230 kV Line,120,Solar,5/19/2022,4/13/2026,Ware,GA,Southern Company,SoCo,ware_ga
+IC-1037,Ray Place Road - Union Point Primary 115 kV Line,150,Solar,5/19/2022,4/13/2026,Taliaferro,GA,Southern Company,SoCo,taliaferro_ga
+IC-1036,Blackbear Solar Farm SS 230 kV Bus,80,Solar,5/19/2022,1/15/2027,Montgomery,AL,Southern Company,SoCo,montgomery_al
+IC-1035,Dyer Road - East Roanoke 115 kV Line,100,Solar,5/9/2022,11/15/2025,Heard,GA,Southern Company,SoCo,heard_ga
+IC-1031,Jasper East SS Substation 230 kV Bus,150,Solar+Storage,3/11/2022,8/24/2025,Jasper,MS,Southern Company,SoCo,jasper_ms
+IC-1029,Hattiesburg Southwest - Adams Creek 230 kV Line,125,Solar,3/9/2022,7/13/2026,Lamar,MS,Southern Company,SoCo,lamar_ms
+IC-1026,Farley - South Bainbridge 230 kV Line,260.1,Solar+Storage,2/28/2022,7/22/2024,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-1024,Patsiliga Creek Substation 230 kV Bus,200,Solar+Storage,2/25/2022,6/30/2024,Taylor,GA,Southern Company,SoCo,taylor_ga
+IC-1023,Hattiesburg Southwest – Plant Eaton 115 kV Line,49.59,Solar,2/23/2022,11/17/2022,Forrest,MS,Southern Company,SoCo,forrest_ms
+IC-1022,NASA North SS Substation 115 kV Bus,74,Solar+Storage,2/18/2022,10/26/2026,Hancock,MS,Southern Company,SoCo,hancock_ms
+IC-1015,North Tifton - Raccoon Creek 500 kV Line,150,Solar,1/28/2022,9/30/2027,Mitchell,GA,Southern Company,SoCo,mitchell_ga
+IC-1014,Denton Still Rd - South Hazlehurst 230 kV Line,230,Solar,1/28/2022,6/15/2025,Jeff Davis,GA,Southern Company,SoCo,jeffdavis_ga
+IC-1013,East Watkinsville - Russell Dam (USA) 230 kV Line,200,Solar+Storage,1/27/2022,11/30/2025,Oglethorpe,GA,Southern Company,SoCo,oglethorpe_ga
+IC-1006,Ludowici Primary - Riceboro 115 kV Line,150,Solar+Storage,12/23/2021,1/15/2026,Liberty,GA,Southern Company,SoCo,liberty_ga
+IC-1005,Waynesboro Primary - Wilson 230 kV Line,100,Solar,12/14/2021,10/1/2026,Burke,GA,Southern Company,SoCo,burke_ga
+IC-1003,East Bainbridge - Spring Creek (Black) 115 kV Line,78,Solar+Storage,12/10/2021,1/1/2025,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-1002,East Bainbridge - Spring Creek (Black) 115 kV Line,78,Solar,12/9/2021,1/1/2025,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-1001,Blakely Primary - Webb 115 kV Line,80,Solar,12/8/2021,8/20/2025,Early,GA,Southern Company,SoCo,early_ga
+IC-999,Elsanor - Mobile Hwy (GULF) 230 kV Line,80,Solar+Storage,12/3/2021,12/3/2026,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-998,Beulah (Gulf) - Silverhill 230 kV Line,80,Solar+Storage,12/3/2021,12/3/2026,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-997,Beulah (Gulf) - Silverhill 230 kV Line,80,Solar+Storage,12/3/2021,12/3/2026,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-1000,Elsanor - Mobile Hwy (GULF) 230 kV Line,80,Solar+Storage,12/3/2021,12/3/2026,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-996,Homeland - Macedonia Switching 115 kV Line,120,Solar+Storage,11/23/2021,2/1/2026,Charlton,GA,Southern Company,SoCo,charlton_ga
+IC-994,Hatch - Vidalia 230 kV Line,200,Solar+Storage,11/12/2021,4/30/2025,Toombs,GA,Southern Company,SoCo,toombs_ga
+IC-993,Wrightsville Substation 230 kV Bus,150,Solar+Storage,11/12/2021,4/30/2025,Johnson,GA,Southern Company,SoCo,johnson_ga
+IC-992,East Watkinsville - Russell Dam (USA) 230 kV Line,120,Solar+Storage,11/12/2021,4/30/2025,Oglethorpe,GA,Southern Company,SoCo,oglethorpe_ga
+IC-990,Hatch - Vidalia 230 kV Line,200,Solar,10/21/2021,4/30/2025,Toombs,GA,Southern Company,SoCo,toombs_ga
+IC-989,Wrightsville Substation 230 kV Bus,150,Solar,10/21/2021,4/30/2025,Johnson,GA,Southern Company,SoCo,johnson_ga
+IC-988,East Watkinsville - Russell Dam (USA) 230 kV Line,120,Solar,10/21/2021,4/30/2025,Oglethorpe,GA,Southern Company,SoCo,oglethorpe_ga
+IC-987,Hattiesburg Southwest - Adams Creek 230 kV Line,250,Solar+Storage,10/21/2021,3/1/2025,Lamar,MS,Southern Company,SoCo,lamar_ms
+IC-986,Hattiesburg Southwest - Adams Creek 230 kV Line,250,Solar,10/21/2021,3/1/2025,Lamar,MS,Southern Company,SoCo,lamar_ms
+IC-980,East Watkinsville - Russell Dam (USA) 230 kV Line,100,Solar+Storage,8/26/2021,3/1/2024,Oglethorpe,GA,Southern Company,SoCo,oglethorpe_ga
+IC-979,Evergreen – Monroeville 115 kV Line,80,Solar+Storage,8/20/2021,9/30/2026,Conecuh,AL,Southern Company,SoCo,conecuh_al
+IC-975,Pinckard – Pike County 230 kV Line,80,Solar,7/22/2021,10/1/2025,Dale,AL,Southern Company,SoCo,dale_al
+IC-974,East Point - Union City (White) 230 kV Line,600,Storage,7/19/2021,6/15/2025,Fulton,GA,Southern Company,SoCo,fulton_ga
+IC-973,Eatonton Primary - Porterdale Primary 230 kV Line,250,Solar+Storage,7/14/2021,9/1/2024,Jasper,GA,Southern Company,SoCo,jasper_ga
+IC-972,Eatonton Primary - Porterdale Primary 230 kV Line,250,Solar,7/14/2021,8/21/2024,Jasper,GA,Southern Company,SoCo,jasper_ga
+IC-971,Greenville - Pintlala 115 kV Line,80,Solar+Storage,7/8/2021,6/1/2026,Lowndes,AL,Southern Company,SoCo,lowndes_al
+IC-966,South Bainbridge - Sub 20 (TAL) 230 kV Line,130,Solar+Storage,6/9/2021,7/15/2024,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-964,Vidalia - Wadley Primary (Black) 230 kV Line,150,Solar+Storage,6/9/2021,7/15/2025,Emanuel,GA,Southern Company,SoCo,emanuel_ga
+IC-956,Laurel East - Sykes Switching Station 230 kV Line,200,Solar,4/30/2021,6/30/2025,Clarke,MS,Southern Company,SoCo,clarke_ms
+IC-955,Greenville - Pintlala 115 kV Line,58,Solar+Storage,4/20/2021,6/1/2026,Lowndes,AL,Southern Company,SoCo,lowndes_al
+IC-954,Evergreen - North Brewton 115 kV Line,80,Solar+Storage,4/15/2021,6/30/2026,Conecuh,AL,Southern Company,SoCo,conecuh_al
+IC-952,Portland TS 115 kV Bus,150,Storage,4/6/2021,11/1/2024,Polk,GA,Southern Company,SoCo,polk_ga
+IC-950,Thomson Primary 230 kV Bus,250,Solar,4/6/2021,6/1/2024,McDuffie,GA,Southern Company,SoCo,mcduffie_ga
+IC-945,North Tifton - Pitts 230 kV Line,210,Solar+Storage,4/6/2021,2/1/2026,Turner,GA,Southern Company,SoCo,turner_ga
+IC-944,North Tifton - Pitts 230 kV Line,210,Solar,4/6/2021,2/1/2026,Turner,GA,Southern Company,SoCo,turner_ga
+IC-943,Coosa Pines - Logan Martin Dam No. 2 115 kV Line,80,Solar,3/31/2021,4/16/2025,Talladega,AL,Southern Company,SoCo,talladega_al
+IC-942,Thalmann TS 500 kV Bus,1200,Solar+Storage,3/19/2021,4/14/2025,Glynn,GA,Southern Company,SoCo,glynn_ga
+IC-941,Eaton - Lucedale 115 kV Line,110,Solar+Storage,3/18/2021,1/15/2024,Perry,MS,Southern Company,SoCo,perry_ms
+IC-929,Atmore - Flomaton 115 kV Line,79,Solar+Storage,1/14/2021,6/1/2024,Escambia,AL,Southern Company,SoCo,escambia_al
+IC-928,Enterprise - Pinckard #1 115 kV Line,79,Solar+Storage,1/14/2021,8/15/2029,Dale,AL,Southern Company,SoCo,dale_al
+IC-937,Danway - Goat Rock (GPCO) 230 kV Line,80,Solar+Storage,12/23/2020,12/15/2024,Chambers,AL,Southern Company,SoCo,chambers_al
+IC-933,Thalmann TS 230 kV Bus,250,Solar+Storage,12/21/2020,2/24/2024,Glynn,GA,Southern Company,SoCo,glynn_ga
+IC-932,Thalmann TS 230 kV Bus,250,Solar+Storage,12/21/2020,7/31/2024,Glynn,GA,Southern Company,SoCo,glynn_ga
+IC-922,Collins - Newton 115 kV Line,100,Solar,12/18/2020,1/15/2025,Newton,MS,Southern Company,SoCo,newton_ms
+IC-926,Montgomery SS - Snowdoun 230 kV Line,80,Solar+Storage,12/16/2020,6/15/2025,Montgomery,AL,Southern Company,SoCo,montgomery_al
+IC-925,Farley - Pinckard 230 kV Line,80,Solar+Storage,12/16/2020,6/15/2025,Houston,AL,Southern Company,SoCo,houston_al
+IC-924,Beulah (GULF) - Silverhill 230 kV Line,80,Solar+Storage,12/16/2020,6/15/2025,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-915,County Line Rd - Gaston 230 kV Line,80,Solar+Storage,11/13/2020,11/1/2024,Autauga,AL,Southern Company,SoCo,autauga_al
+IC-911,Farley - South Bainbridge 230 kV Line,220,Solar,10/29/2020,5/1/2025,Miller,GA,Southern Company,SoCo,miller_ga
+IC-1012,South Bessemer - Snowdoun 500 kV Line,657,Natural Gas,10/15/2020,,Autauga,AL,Southern Company,SoCo,autauga_al
+IC-910,Ray Place Road - Warrenton Primary 115 kV Line,120,Solar+Storage,10/14/2020,8/15/2023,Warren,GA,Southern Company,SoCo,warren_ga
+IC-908,North Tifton - Pitts 230 kV Line,220,Solar,10/9/2020,6/1/2023,Turner,GA,Southern Company,SoCo,turner_ga
+IC-906,McGrau Ford Substation 230 kV Bus,265,Storage,10/7/2020,1/16/2026,Cherokee,GA,Southern Company,SoCo,cherokee_ga
+IC-905,Branch Substation 230 kV Bus,150,Storage,10/7/2020,10/7/2027,Putnam,GA,Southern Company,SoCo,putnam_ga
+IC-903,Fort Stewart CU 115 kV Bus,43,Solar+Storage,8/27/2020,10/1/2023,Liberty,GA,Southern Company,SoCo,liberty_ga
+IC-902,Vidalia - Wadley Primary (Black) 230 kV Line,76,Solar+Storage,8/26/2020,9/30/2023,Emanuel,GA,Southern Company,SoCo,emanuel_ga
+IC-901,Thalmann TS 230 kV Bus,200,Solar+Storage,8/26/2020,9/29/2023,Glynn,GA,Southern Company,SoCo,glynn_ga
+IC-899,Hurricane Creek - Plant Watson 230 kV Line,78,Solar,8/21/2020,3/28/2024,Stone,MS,Southern Company,SoCo,stone_ms
+IC-897,South Enterprise Substation 115 kV Bus,80,Solar+Storage,8/14/2020,2/1/2025,Coffee,AL,Southern Company,SoCo,coffee_al
+IC-894,Eastman Primary - Vidalia 115 kV Line,80,Solar,7/24/2020,8/1/2023,Wheeler,GA,Southern Company,SoCo,wheeler_ga
+IC-892,Vidalia - Wadley Primary (White) 230 kV Line,260,Solar,7/24/2020,4/1/2023,Jefferson,GA,Southern Company,SoCo,jefferson_ga
+IC-887,Jackson Shoals - Sylacauga 115 kV Line,80,Solar+Storage,7/15/2020,6/1/2024,Talladega,AL,Southern Company,SoCo,talladega_al
+IC-886,Holmes Creek - Pinckard 230 kV Line,80,Solar+Storage,7/15/2020,6/1/2024,Houston,AL,Southern Company,SoCo,houston_al
+IC-885,North Selma - Selma #1 115 kV Line,80,Solar+Storage,7/15/2020,6/1/2024,Dallas,AL,Southern Company,SoCo,dallas_al
+IC-883,Blakely Primary - Spring Creek 115 kV Line,80,Solar,7/13/2020,6/1/2023,Early,GA,Southern Company,SoCo,early_ga
+IC-880,Elsanor - Mobile Hwy (GULF) 230 kV Line,200,Solar+Storage,6/11/2020,11/16/2024,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-879,Beulah (GULF) - Silverhill 230 kV Line,200,Solar+Storage,6/11/2020,5/17/2024,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-878,Scooter Substation 230 kV Bus,135,Solar+Storage,6/3/2020,1/17/2023,Mitchell,GA,Southern Company,SoCo,mitchell_ga
+IC-876,Mitchell - North Tifton 230 kV Line,150,Solar+Storage,6/1/2020,7/15/2023,Worth,GA,Southern Company,SoCo,worth_ga
+IC-868,Cartersville - Pinson 230 kV Line,200,Solar,5/28/2020,4/1/2024,Bartow,GA,Southern Company,SoCo,bartow_ga
+IC-864,Farley - South Bainbridge 230 kV Line,188.93,Solar+Storage,5/12/2020,8/1/2023,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-863,Greene County - North Selma 230 kV Line,263.6,Solar+Storage,4/21/2020,1/31/2024,Greene,AL,Southern Company,SoCo,greene_al
+IC-862,Dothan Road 230 kV Substation,400,Solar+Storage,4/20/2020,4/30/2025,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-861,Elsanor - Mobile Hwy (GULF) 230 kV Line,400,Solar+Storage,4/17/2020,11/16/2024,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-860,Beulah (GULF) - Silverhill 230 kV Line,400,Solar+Storage,4/17/2020,11/16/2024,Baldwin,AL,Southern Company,SoCo,baldwin_al
+IC-859,Mossy Branch Substation 115 kV Bus,65,Storage,4/7/2020,5/3/2023,Talbot,GA,Southern Company,SoCo,talbot_ga
+IC-847,East Moultrie - West Valdosta 230 kV Line,175,Solar+Storage,2/4/2020,7/15/2023,Brooks,GA,Southern Company,SoCo,brooks_ga
+IC-839,North Americus - Palmyra 230 kV Line,200,Solar+Storage,11/15/2019,7/15/2023,Sumter,GA,Southern Company,SoCo,sumter_ga
+IC-832,Barry - Monroeville 115 kV Line,80,Solar,10/17/2019,6/30/2026,Monroe,AL,Southern Company,SoCo,monroe_al
+IC-831,Bassett Creek - McIntosh 115 kV Line,80,Solar,10/17/2019,4/30/2026,Washington,AL,Southern Company,SoCo,washington_al
+IC-821,O'Hara TS 230 kV Bus,200,Storage,10/8/2019,7/1/2022,Clayton,GA,Southern Company,SoCo,clayton_ga
+IC-820,Villa Rica Primary TS 230 kV Bus,100,Storage,10/8/2019,7/1/2022,Douglas,GA,Southern Company,SoCo,douglas_ga
+IC-819,Villa Rica Primary TS 230 kV Bus,200,Storage,10/8/2019,7/1/2022,Douglas,GA,Southern Company,SoCo,douglas_ga
+IC-804,Demopolis - Selma 115 kV Line,100,Solar,9/3/2019,7/22/2022,Marengo,AL,Southern Company,SoCo,marengo_al
+IC-800,Patsiliga Creek Substation 230 kV Bus,200,Solar,7/26/2019,6/30/2023,Taylor,GA,Southern Company,SoCo,taylor_ga
+IC-798,North Americus - Perry 115 kV Line,150,Solar,7/11/2019,7/1/2024,Macon,GA,Southern Company,SoCo,macon_ga
+IC-789,Farley - South Bainbridge 230 kV Line,260.1,Solar,4/22/2019,7/22/2024,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-775,Mitchell - Raccoon Creek 230 kV Line,260,Solar+Storage,2/19/2019,10/15/2022,Mitchell,GA,Southern Company,SoCo,mitchell_ga
+IC-774,Mitchell - Raccoon Creek 230 kV Line,260,Solar,2/15/2019,7/1/2022,Mitchell,GA,Southern Company,SoCo,mitchell_ga
+IC-769,East Watkinsville - Russell Dam (USA) 230 kV Line,140,Solar,12/21/2018,6/1/2023,Oglethorpe,GA,Southern Company,SoCo,oglethorpe_ga
+IC-768,Bonaire Primary - Eastman Primary 115 kV Line,120.2,Solar,12/17/2018,8/15/2022,Dodge,GA,Southern Company,SoCo,dodge_ga
+IC-767,East Chelsea - Lay Dam 115 kV Line,150,Solar,12/13/2018,5/1/2026,Shelby,AL,Southern Company,SoCo,shelby_al
+IC-762,Athena - Union Point Primary 115 kV Line,38,Solar,12/6/2018,5/1/2023,Oglethorpe,GA,Southern Company,SoCo,oglethorpe_ga
+IC-759,Sylvania - Waynesboro Primary 115 kV Line,40,Solar,12/6/2018,5/1/2023,Burke,GA,Southern Company,SoCo,burke_ga
+IC-742,Douglas - Kettle Creek Primary 230 kV Line,80,Solar,10/22/2018,5/1/2023,Ware,GA,Southern Company,SoCo,ware_ga
+IC-732,South Bainbridge - Thomasville 230 kV Line,200,Solar,8/31/2018,6/15/2023,Decatur,GA,Southern Company,SoCo,decatur_ga
+IC-730,Tiger Creek - Wadley Primary 230 kV Line,150,Solar,8/21/2018,6/15/2022,Washington,GA,Southern Company,SoCo,washington_ga
+IC-696,Fortson - North Tifton 500 kV Line,500,Solar,5/3/2018,4/1/2023,Sumter,GA,Southern Company,SoCo,sumter_ga
+IC-695,Fortson - North Tifton 500 kV Line,250,Solar,5/3/2018,4/1/2023,Sumter,GA,Southern Company,SoCo,sumter_ga
+IC-694,Fortson - North Tifton 500 kV Line,615,Solar,5/3/2018,4/1/2023,Sumter,GA,Southern Company,SoCo,sumter_ga
+IC-652,Fortson - North Tifton 500 kV Line,615,Solar,9/13/2017,7/15/2023,Sumter,GA,Southern Company,SoCo,sumter_ga
+IC-616,Offerman Substation 230 kV Bus,117.5,Solar,3/27/2017,11/30/2020,Pierce,GA,Southern Company,SoCo,pierce_ga
+IC-469,Vidalia - Wadley Primary (White) 230 kV Line,170,Solar,7/7/2016,6/1/2021,Jefferson,GA,Southern Company,SoCo,jefferson_ga
+IC-441,Farley - South Bainbridge 230 kV Line,188.93,Solar,2/25/2016,8/1/2021,Decatur,GA,Southern Company,SoCo,decatur_ga
