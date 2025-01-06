@@ -86,6 +86,7 @@ def findNewURL(utility):
 
     #If the URL on file is already working, return None to indicate no update is necessary
     if isURLValid(base_url.format(date_tracker.strftime(date_format))):
+        sendEmail("URL is still valid", "wont bother to look")
         return None
     sendEmail("Looking for new url", "WEEEE")
     #If the URL on file does not work anymore, loop through all possible dates to find something new
