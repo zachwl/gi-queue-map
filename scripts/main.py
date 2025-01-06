@@ -1,6 +1,6 @@
 import pandas as pd
 import geopandas as gpd
-import miso, pjm, isone, nyiso, soco
+import miso, pjm, isone, nyiso, soco, tva
 
 from utils import createJoinKey, sendEmail
 
@@ -14,6 +14,7 @@ def main():
     isone_queue = isone.getISONEQueue()
     nyiso_queue = nyiso.getNYISOQueue()
     soco_queue = soco.getSOCOQueue()
+    tva_queue = tva.getTVAQueue()
 
     #### Process the data ####
 
@@ -22,7 +23,8 @@ def main():
                                     pjm_queue, 
                                     isone_queue, 
                                     nyiso_queue, 
-                                    soco_queue])
+                                    soco_queue,
+                                    tva_queue])
 
     # Export as json for use in interactive web page elements
     all_queued_projects.reset_index().to_json(f'data/all_queued_projects.json', index = None)

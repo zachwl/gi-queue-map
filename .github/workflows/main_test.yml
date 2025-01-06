@@ -37,6 +37,7 @@ jobs:
         git add data/individual_queues/*.csv  # Adds all CSV files in the directory
         git add data/agg_county_data.geojson
         git add data/all_queued_projects.json
+        git add scripts/script_data/download_settings.csv
         git diff --cached --exit-code || git commit -m "Update multiple files"
         git push
       env:
