@@ -107,5 +107,5 @@ def findNewURL(utility):
         else:
             #If no valid URL found, try the next day
             date_tracker = date_tracker + timedelta(days=1)
-    sendEmail("Attention needed for TVA", "No valid link found")
+    sendEmail("Attention needed for " + utility, "No valid link found")
     return None
