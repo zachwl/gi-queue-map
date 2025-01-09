@@ -1,0 +1,104 @@
+id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owner,iso_utility,join_key
+962624,Florida 44 kVnan,74.9,Solar,2024-09-27 00:00:00,,Greenwood,SC,DEC,DEC,greenwood_sc
+963122,nannan,50,Solar,2024-09-26 00:00:00,,Laurens,SC,DEC,DEC,laurens_sc
+962913,nannan,120,Solar,2024-09-26 00:00:00,,McCormick,SC,DEC,DEC,mccormick_sc
+962989,nannan,34,Solar,2024-09-24 00:00:00,,Anderson,SC,DEC,DEC,anderson_sc
+962640,nannan,130,Solar,2024-09-24 00:00:00,,Stokes,NC,DEC,DEC,stokes_nc
+957449,Floridanan,26.13,Solar,2024-06-28 00:00:00,,Greenwood,SC,DEC,DEC,greenwood_sc
+956712,Clinton Bl 100 kVnan,38.25,Solar,2024-06-28 00:00:00,,Newberry,SC,DEC,DEC,newberry_sc
+957043,RIVERVIEW SW STA 230 kVnan,615,Natural Gas,2024-06-27 00:00:00,,Cherokee,SC,DEC,DEC,cherokee_sc
+957051,THORPE HYDRO Substation 161 kVnan,8.91,Other,2024-06-27 00:00:00,,Jackson,NC,DEC,DEC,jackson_nc
+957146,CHAMPIONnan,200,Solar,2024-06-27 00:00:00,,Newberry,SC,DEC,DEC,newberry_sc
+957349,JOCASSEE HYDRO Substation 230 kVnan,112,Other,2024-06-27 00:00:00,,Oconee,SC,DEC,DEC,oconee_sc
+957233,CATAWBA NUC SW STA 230 kVnan,40,Other,2024-06-26 00:00:00,,York,SC,DEC,DEC,york_sc
+957243,MCGUIRE SWITCHING STAnan,33,Other,2024-06-26 00:00:00,,Mecklenburg,NC,DEC,DEC,mecklenburg_nc
+957247,MCGUIRE SWITCHING STA 500 kVnan,40,Other,2024-06-26 00:00:00,,Mecklenburg,NC,DEC,DEC,mecklenburg_nc
+957101,CHEROKEE COUNTY COGEN FACILITYnan,156,Natural Gas,2024-06-25 00:00:00,,Cherokee,SC,DEC,DEC,cherokee_sc
+957264,Anderson Tie 230 kVnan,1485,Natural Gas,2024-06-21 00:00:00,,Anderson,SC,DEC,DEC,anderson_sc
+957514,LEE CT UNIT 7C Substationnan,5,Natural Gas,2024-06-21 00:00:00,,Anderson,SC,DEC,DEC,anderson_sc
+957517,LEE CT UNIT 8C Substationnan,5,Natural Gas,2024-06-21 00:00:00,,Anderson,SC,DEC,DEC,anderson_sc
+957509,Ernest SW Station 230 kVnan,33,Natural Gas,2024-06-20 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+957510,Ernest SW Station 230 kVnan,33,Natural Gas,2024-06-20 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+957511,Ernest SW Station 230 kVnan,33,Natural Gas,2024-06-20 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+957437,Ernest SW Station 230 kVnan,33,Natural Gas,2024-06-20 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+957447,Ernest SW Station 230 kVnan,33,Natural Gas,2024-06-20 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+960889,Buck Steam Switchyard 100 kVnan,470,Natural Gas,2024-06-20 00:00:00,,Rowan,NC,DEC,DEC,rowan_nc
+961188,nannan,455,Natural Gas,2024-06-20 00:00:00,,Stokes,NC,DEC,DEC,stokes_nc
+961210,nannan,455,Natural Gas,2024-06-20 00:00:00,,Stokes,NC,DEC,DEC,stokes_nc
+956180,Dan River CTCC Station 100 kVnan,99,Storage,2024-06-20 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+956141,Southpoint Switching Station 100 kVnan,199,Storage,2024-06-20 00:00:00,,Gaston,NC,DEC,DEC,gaston_nc
+956747,Buck Tie Switchyard 100 kVnan,470,Natural Gas,2024-06-20 00:00:00,,Rowan,SC,DEC,DEC,rowan_sc
+956469,Bad Creek Hydro Substation 500 kVnan,192,Other,2024-06-20 00:00:00,,Oconee,SC,DEC,DEC,oconee_sc
+956240,CLIFFSIDE STEAM STA 5 SW YD 100 kVnan,99,Storage,2024-06-19 00:00:00,,Rutherford,NC,DEC,DEC,rutherford_nc
+956294,SADLER TIE 100 kVnan,115,Storage,2024-06-19 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+956971,BUCK CTCC STA YARD 230 kVnan,28,Natural Gas,2024-06-11 00:00:00,,Rowan,NC,DEC,DEC,rowan_nc
+956974,Dan River CTCC Station 100 kVnan,40,Natural Gas,2024-06-11 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+956475,W.S. LEE COMBINED CYCLE STA 100 kVnan,30,Natural Gas,2024-06-10 00:00:00,,Anderson,SC,DEC,DEC,anderson_sc
+919551,Mullnan,40,Solar,2023-09-28 00:00:00,,Lincoln,NC,DEC,DEC,lincoln_nc
+900495,Geer Wh 100 kVnan,49.9,Storage,2023-06-29 00:00:00,,Durham,NC,DEC,DEC,durham_nc
+899759,Marshall Steam  Station 230KV Switchyardnan,136,Natural Gas,2023-06-28 00:00:00,,Catawba,NC,DEC,DEC,catawba_nc
+899793,EAST FORKnan,1.5,Other,2023-06-28 00:00:00,,Jackson,NC,DEC,DEC,jackson_nc
+899053,Wilkes Tienan,120,Storage,2023-06-28 00:00:00,,Wilkes,NC,DEC,DEC,wilkes_nc
+899609,BEAR CREEK HYDROnan,1.8,Other,2023-06-28 00:00:00,,Jackson,NC,DEC,DEC,jackson_nc
+898997,Cliffside Tie Substationnan,199.9,Storage,2023-06-27 00:00:00,,Rutherford,NC,DEC,DEC,rutherford_nc
+567168,nanHARRISBURG TIE 230 kV,197,Storage,2022-06-28 00:00:00,,Mecklenburg,NC,DEC,DEC,mecklenburg_nc
+569164,Champion Bl 100 kVnan,70.7,Solar,2022-06-24 00:00:00,2027-12-01 00:00:00,Newberry,SC,DEC,DEC,newberry_sc
+566988,nanBAD CREEK HYDRO,1680,Storage,2022-06-20 00:00:00,,Oconee,SC,DEC,DEC,oconee_sc
+563648,nanSTONEWATER TIE,115,Storage,2022-06-03 00:00:00,2027-12-31 00:00:00,Gaston,NC,DEC,DEC,gaston_nc
+238926,nannan,0,Storage,2022-04-12 00:00:00,,Union,NC,DEC,DEC,union_nc
+186466,Allen BL 100kVnan,50,Storage,2021-07-06 00:00:00,2025-12-01 00:00:00,Gaston,NC,DEC,DEC,gaston_nc
+035278,Enoree 44kVnan,42,Solar,2019-05-06 00:00:00,2025-12-01 00:00:00,Laurens,SC,DEC,DEC,laurens_sc
+010230,nanLincoln CT Site Extension,550,Natural Gas,2017-03-01 00:00:00,,Lincoln,NC,DEC,DEC,lincoln_nc
+017115,nanErnest,519,Natural Gas,2016-03-03 00:00:00,,Rockingham,NC,DEC,DEC,rockingham_nc
+961214,ROBINSON PLANT - ROCKINGHAM 115KV - FLORENCEnan,48,Solar,2024-09-27 00:00:00,,Chesterfield,SC,DEP,DEP,chesterfield_sc
+963113,nannan,88,Solar,2024-09-25 00:00:00,,Darlington,SC,DEP,DEP,darlington_sc
+962635,nannan,80,Solar,2024-09-25 00:00:00,,Chesterfield,SC,DEP,DEP,chesterfield_sc
+963044,nannan,65,Solar,2024-09-24 00:00:00,,Cumberland,NC,DEP,DEP,cumberland_nc
+956650,CAPE FEAR PLANT - BISCOE 230KV SUB 115KVnan,87,Solar,2024-06-27 00:00:00,,Moore,NC,DEP,DEP,moore_nc
+956594,AURORA - NEW BERN 230KVnan,290,Solar,2024-06-27 00:00:00,,Pamlico,NC,DEP,DEP,pamlico_nc
+957012,CLINTON - MT OLIVE 230KVnan,60,Storage,2024-06-26 00:00:00,,Sampson,NC,DEP,DEP,sampson_nc
+956283,ROBINSON PLANT - ROCKINGHAM 230KV - FLORENCEnan,110,Solar,2024-06-26 00:00:00,,Chesterfield,SC,DEP,DEP,chesterfield_sc
+956340,CLINTON - MT OLIVE 230KVnan,110,Solar,2024-06-26 00:00:00,,Sampson,NC,DEP,DEP,sampson_nc
+956321,ROBINSON PLANT - ROCKINGHAM 230KV - FLORENCEnan,60,Storage,2024-06-26 00:00:00,,Chesterfield,SC,DEP,DEP,chesterfield_sc
+957249,Brunswick Plant Substation 230kVnan,13,Other,2024-06-26 00:00:00,,Brunswick,NC,DEP,DEP,brunswick_nc
+957251,Brunswick Plant Substation 230kVnan,13,Other,2024-06-26 00:00:00,,Brunswick,NC,DEP,DEP,brunswick_nc
+957670,Sutton Plant Substation 115kVnan,8,Natural Gas,2024-06-24 00:00:00,,New Hanover,NC,DEP,DEP,newhanover_nc
+957687,Sutton Plant Substation 115kVnan,8,Natural Gas,2024-06-24 00:00:00,,New Hanover,NC,DEP,DEP,newhanover_nc
+957699,Wayne County Plant Substation 230kVnan,10,Natural Gas,2024-06-21 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+957692,Wayne County Plant Substation 230kVnan,5,Natural Gas,2024-06-21 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+957693,Wayne County Plant Substation 230kVnan,5,Natural Gas,2024-06-21 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+957694,Wayne County Plant Substation 230kVnan,10,Natural Gas,2024-06-21 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+957695,Wayne County Plant Substation 230kVnan,10,Natural Gas,2024-06-21 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+957691,Asheville Plant Substation 115kVnan,5,Natural Gas,2024-06-20 00:00:00,,Buncombe,NC,DEP,DEP,buncombe_nc
+956161,LEE SUB - WOMMACK 230KV NORTHnan,150,Storage,2024-06-20 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+957688,Asheville Plant Substation 115kVnan,5,Natural Gas,2024-06-20 00:00:00,,Buncombe,NC,DEP,DEP,buncombe_nc
+958347,Person 500kV Station - 230kVnan,1455,Natural Gas,2024-06-19 00:00:00,,Person,NC,DEP,DEP,person_nc
+958348,Roxboro Steam Station 230 kV Switchyardnan,89,Natural Gas,2024-06-19 00:00:00,,Person,NC,DEP,DEP,person_nc
+956218,SPRING HOPE 115KV SWITCHING STATIONnan,50,Storage,2024-06-19 00:00:00,,Nash,NC,DEP,DEP,nash_nc
+956244,Weatherspoon Plant Substation 230kVnan,99,Storage,2024-06-19 00:00:00,,Robeson,NC,DEP,DEP,robeson_nc
+957700,Richmond County Plant Substation 230kVnan,35,Natural Gas,2024-06-10 00:00:00,,Richmond,NC,DEP,DEP,richmond_nc
+957709,Sutton Plant Substation 115kVnan,8,Natural Gas,2024-06-10 00:00:00,,New Hanover,NC,DEP,DEP,newhanover_nc
+957712,Sutton Plant Substation 230kVnan,17,Natural Gas,2024-06-10 00:00:00,,New Hanover,NC,DEP,DEP,newhanover_nc
+919393,HARRIS PLANT - WAKE 230KVnan,100,Solar,2023-09-27 00:00:00,,Wake,NC,DEP,DEP,wake_nc
+923973,LAURINBURG - RICHMOND 230KVnan,275,Solar,2023-09-27 00:00:00,,Richmond,NC,DEP,DEP,richmond_nc
+898999,Weatherspoon Plant Stationnan,199.9,Storage,2023-06-28 00:00:00,,Robeson,NC,DEP,DEP,robeson_nc
+899005,HARRIS PLANT - RTP 230KVnan,199.9,Storage,2023-06-28 00:00:00,,Wake,NC,DEP,DEP,wake_nc
+904269,nannan,26,Natural Gas,2023-06-28 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+899771,Roxboro Steam Station 230 kV Switchyardnan,313,Natural Gas,2023-06-28 00:00:00,,Person,NC,DEP,DEP,person_nc
+899433,Tillery Hydro Plant Substationnan,6.26,Other,2023-06-28 00:00:00,,Montgomery,NC,DEP,DEP,montgomery_nc
+899581,Lee Substation 115 kVnan,20,Natural Gas,2023-06-28 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+899591,Richmond County Plant 230 kVnan,46.75,Natural Gas,2023-06-28 00:00:00,,Richmond,NC,DEP,DEP,richmond_nc
+900843,Asheville Plant Station 115 kVnan,19.9,Natural Gas,2023-06-27 00:00:00,,Buncombe,NC,DEP,DEP,buncombe_nc
+900845,Asheville Plant Station 230 kVnan,19.9,Natural Gas,2023-06-27 00:00:00,,Buncombe,NC,DEP,DEP,buncombe_nc
+897163,LEE SUB - WOMMACK 230KV NORTHnan,260,Storage,2023-06-16 00:00:00,,Wayne,NC,DEP,DEP,wayne_nc
+594134,nannan,0,Storage,2022-10-03 00:00:00,,Wilson,NC,DEP,DEP,wilson_nc
+570430,nanTillery H. E. Plant Substation,6.26,Other,2022-06-28 00:00:00,,Montgomery,NC,DEP,DEP,montgomery_nc
+568892,nanDarlington County Plant Substation,76,Solar,2022-06-24 00:00:00,2027-12-01 00:00:00,Darlington,SC,DEP,DEP,darlington_sc
+566170,NEW HILL 230KV TAP LINEnan,56,Storage,2022-06-14 00:00:00,2026-12-31 00:00:00,Wake,NC,DEP,DEP,wake_nc
+239978,nannan,0,Storage,2022-04-14 00:00:00,2024-09-23 00:00:00,Duplin,NC,DEP,DEP,duplin_nc
+191894,nanCraggy 230kV Switching Station,30.5,Storage,2021-08-18 00:00:00,2026-12-01 00:00:00,Buncombe,NC,DEP,DEP,buncombe_nc
+049220,nannan,17.25,Storage,2019-10-08 00:00:00,2026-03-31 00:00:00,Buncombe,NC,DEP,DEP,buncombe_nc
+038056,Milburnie - Wake 230 kVnan,100,Storage,2019-06-20 00:00:00,,Wake,NC,DEP,DEP,wake_nc
+018124,nannan,11,Storage,2017-10-26 00:00:00,,Onslow,NC,DEP,DEP,onslow_nc
+948720,nannan,80,Solar,2017-06-16 00:00:00,2025-07-31 00:00:00,Nash,NC,DEP,DEP,nash_nc
+024747,Asheville Energy Complexnan,9.5,Solar,2016-12-15 00:00:00,2026-03-31 00:00:00,Buncombe,NC,DEP,DEP,buncombe_nc
