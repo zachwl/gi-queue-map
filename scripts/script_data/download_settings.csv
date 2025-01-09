@@ -3,4 +3,5 @@ TVA,http://www.oasis.oati.com/woa/docs/TVA/TVAdocs/QueueTransition_-_PublicPosti
 DEP,http://www.oasis.oati.com/woa/docs/CPL/CPLdocs/{}_FERC-4.5-OASIS-Posting-DEP.xlsx,12/15/2024,%Y%m%d
 DEC,http://www.oasis.oati.com/woa/docs/DUK/DUKdocs/{}_FERC-4.5-OASIS-Posting-DEC.xlsx,12/15/2024,%Y%m%d
 FPL,http://www.oasis.oati.com/woa/docs/FPL/FPLdocs/GIS_Queue_{}.pdf,12/10/2024,%m_%d_%Y
-LGE&KU,www.oasis.oati.com/woa/docs/LGEE/LGEEdocs/LGE_and_KU_GI_Queue_Posting_{}.pdf,11/25/2024,%B_%d_%Y
+LGE&KU,http://www.oasis.oati.com/woa/docs/LGEE/LGEEdocs/LGE_and_KU_GI_Queue_Posting_{}.pdf,11/25/2024,%B_%d_%Y
+SC,http://www.oasis.oati.com/woa/docs/SC/SCdocs/Generation_Queue_{}_(Published).pdf,1/3/2025,%-m-%-d-%y
