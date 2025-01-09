@@ -80,33 +80,27 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1488,Offshore Wind,1275.0,Wind,2024-01-11 00:00:00,2031-09-01 00:00:00,,CT,,PJM,
 1487,EE CT DG Group Study,5.0,Solar,2024-01-09 00:00:00,2024-12-31 00:00:00,New Haven,CT,,PJM,newhaven_ct
 1486,Battery Storage,300.0,Storage,2024-01-02 00:00:00,2027-06-30 00:00:00,New Haven,CT,,PJM,newhaven_ct
-1484,CMP Moshers/Prides Corner 115 kV SS - Greater Portland Area DG Study,7.239999771118164,Other,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1484,CMP Moshers/Prides Corner 115 kV SS - Greater Portland Area DG Study,3.990000009536743,Other,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
 1483,CMP Elm St 115 kV SS - Greater Portland Area DG Study,4.96999979019165,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
 1482,CMP Spring St 115 kV SS - Greater Portland Area DG Study,4.980000019073486,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
 1481,CMP Vallee Lane 115 kV SS - Louden-Biddeford Area DG Study,1.9900000095367432,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
 1480,CMP Biddeford IP 115 kV SS - Louden-Biddeford Area DG Study,4.949999809265137,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,York,ME,CMP,PJM,york_me
-1479,CMP West Buxton 115 kV SS - Louden-Biddeford Area DG Study,4.5,Solar,2023-12-29 00:00:00,2024-12-31 00:00:00,York,ME,CMP,PJM,york_me
 1478,Battery Storage,50.0,Storage,2023-12-28 00:00:00,2028-05-25 00:00:00,Hampden,MA,,PJM,hampden_ma
 1477,NG DG @ Sykes Road,9.998000144958496,Storage,2023-12-19 00:00:00,2025-12-31 00:00:00,Bristol,MA,,PJM,bristol_ma
 1476,NG NEMA Group DER Study,5.0,Storage,2023-12-18 00:00:00,2025-12-31 00:00:00,Middlesex,MA,,PJM,middlesex_ma
 1475,NG NEMA Group DER Study,4.998000144958496,Solar+Storage,2023-12-18 00:00:00,2025-12-31 00:00:00,Essex,MA,,PJM,essex_ma
 1474,NG NEMA Group DER Study,9.982000350952148,Storage,2023-12-18 00:00:00,2025-12-31 00:00:00,Essex,MA,,PJM,essex_ma
 1467,Battery Storage,69.4000015258789,Storage,2023-12-12 00:00:00,2026-10-31 00:00:00,Worcester,MA,,PJM,worcester_ma
-1466,Winslow-County Rd Lakewood 115 kV SS - Winslow-County Rd-Lakewood 2 DG Study,22.959999084472656,Solar,2023-12-05 00:00:00,2024-12-31 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
-1465,Augusta E/Puddledock/Bowman St 115 kV SS - Midcoast Area DG Study,27.530000686645508,Solar+Storage,2023-12-05 00:00:00,2024-12-31 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1466,Winslow-County Rd Lakewood 115 kV SS - Winslow-County Rd-Lakewood 2 DG Study,20.969999313354492,Solar,2023-12-05 00:00:00,2024-12-31 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
+1465,Augusta E/Puddledock/Bowman St 115 kV SS - Midcoast Area DG Study,20.600000381469727,Solar+Storage,2023-12-05 00:00:00,2024-12-31 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
 1464,Wind Repower,0.0,Wind,2023-12-05 00:00:00,2026-12-31 00:00:00,Caledonia,VT,,PJM,caledonia_vt
 1463,EE Valley DG Group Study,8.0,Solar,2023-11-22 00:00:00,2026-12-31 00:00:00,Plymouth,MA,,PJM,plymouth_ma
 1461,Battery Addition ,1.4980000257492065,Other,2023-10-18 00:00:00,2025-09-01 00:00:00,Rockingham,NH,,PJM,rockingham_nh
 1460,Battery Storage,706.2999877929688,Storage,2023-10-12 00:00:00,2027-09-30 00:00:00,Bristol,MA,,PJM,bristol_ma
-1459,Bath 115 kV SS - Midcoast Area DG Study,3.430000066757202,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
-1458,Lincolnville 115 kV SS - Midcoast Area DG Study,4.949999809265137,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
 1457,Mason 115 kV SS - Midcoast Area DG Study,3.940000057220459,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
-1456,Topsham 115 kV SS - Midcoast Area DG Study,3.940000057220459,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Waldo,ME,CMP,PJM,waldo_me
-1455,Highland/Park St 115 kV SS - Midcoast Area DG Study,2.0,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Knox,ME,CMP,PJM,knox_me
-1454,Newcastle 115 kV SS - Midcoast Area DG Study,16.579999923706055,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
-1453,Coopers Mills 115 kV SS - Midcoast Area DG Study,2.880000114440918,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Lincoln,ME,CMP,PJM,lincoln_me
-1450,Woodstock 115 kV SS - Roxbury-Rumford-Woodstock Area DG Study,1.6230000257492065,Solar,2023-09-29 00:00:00,2024-12-15 00:00:00,Oxford,ME,CMP,PJM,oxford_me
-1449,Sturtevant 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area Study,12.949000358581543,Solar,2023-09-29 00:00:00,2024-12-30 00:00:00,Franklin,ME,CMP,PJM,franklin_me
+1456,Topsham 115 kV SS - Midcoast Area DG Study,1.9800000190734863,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Waldo,ME,CMP,PJM,waldo_me
+1454,Newcastle 115 kV SS - Midcoast Area DG Study,11.649999618530273,Solar,2023-10-02 00:00:00,2024-12-31 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
+1449,Sturtevant 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area Study,4.989999771118164,Solar,2023-09-29 00:00:00,2024-12-30 00:00:00,Franklin,ME,CMP,PJM,franklin_me
 1448,Ludden Lane 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area DG Study,1.9989999532699585,Solar,2023-09-29 00:00:00,2024-06-01 00:00:00,Oxford,ME,CMP,PJM,oxford_me
 1447,Leeds 115 kV SS - Sturtevant-Leeds-Livermore-Ludden-Riley Area DG Study,4.999000072479248,Solar,2023-09-29 00:00:00,2024-09-01 00:00:00,Androscoggin,ME,CMP,PJM,androscoggin_me
 1446,Raymond 115 kV SS - Raymond Area DG Study,25.06999969482422,Solar,2023-09-29 00:00:00,2025-06-20 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
@@ -143,7 +137,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1389,Wind CNR,0.0,Wind,2023-04-27 00:00:00,2023-11-01 00:00:00,Washington,ME,,PJM,washington_me
 1388,Wind CNR,0.0,Wind,2023-04-27 00:00:00,2023-11-01 00:00:00,Penobscot,ME,,PJM,penobscot_me
 1382,Vineyard Offshore Wind CNR,0.0,Wind,2023-04-11 00:00:00,2025-05-26 00:00:00,,MA,ISO-NE,PJM,
-1380,Fuel Cell CNR,0.0,Other,2023-04-06 00:00:00,2024-12-15 00:00:00,Hartford,CT,,PJM,hartford_ct
+1380,Fuel Cell CNR,0.0,Other,2023-04-06 00:00:00,2024-12-12 00:00:00,Hartford,CT,,PJM,hartford_ct
 1379,Solar,218.39999389648438,Solar,2023-04-03 00:00:00,2028-10-31 00:00:00,Aroostook,ME,,PJM,aroostook_me
 1375,Wind,217.0,Wind,2023-03-29 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
 1374,Battery Storage,226.0,Storage,2023-03-28 00:00:00,2027-04-07 00:00:00,Merrimack,NH,,PJM,merrimack_nh
@@ -201,15 +195,15 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1258,Battery Storage CNR Only,0.0,Storage,2022-05-03 00:00:00,2027-07-26 00:00:00,Norfolk,MA,,PJM,norfolk_ma
 1257,Solar,319.20001220703125,Solar,2022-05-03 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
 1256,Wind,905.0,Wind,2022-05-03 00:00:00,2026-12-09 00:00:00,Aroostook,ME,,PJM,aroostook_me
-1255,Detroit/Guilford/Belfast DG Area Study,103.7699966430664,Solar+Storage,2022-05-02 00:00:00,2027-12-31 00:00:00,Piscataquis,ME,CMP,PJM,piscataquis_me
+1255,Detroit/Guilford/Belfast DG Area Study,59.720001220703125,Solar+Storage,2022-05-02 00:00:00,2027-12-31 00:00:00,Piscataquis,ME,CMP,PJM,piscataquis_me
 1254,Kimball DG Area Study,24.54599952697754,Solar+Storage,2022-05-02 00:00:00,2028-06-30 00:00:00,York,ME,CMP,PJM,york_me
 1252,Battery Storage,314.70001220703125,Storage,2022-04-21 00:00:00,2026-06-01 00:00:00,Essex,MA,,PJM,essex_ma
 1248,Battery Storage,154.656005859375,Storage,2022-04-06 00:00:00,2026-05-31 00:00:00,Bristol,MA,,PJM,bristol_ma
 1247,Solar,25.0,Solar,2022-04-05 00:00:00,2025-11-01 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
 1245,Solar,150.0,Solar,2022-03-31 00:00:00,2028-11-01 00:00:00,Hartford,CT,,PJM,hartford_ct
 1243,Solar,300.0,Solar,2022-03-31 00:00:00,2026-11-01 00:00:00,Aroostook,ME,,PJM,aroostook_me
-1242,Lewiston CMP Cluster 5,54.65660095214844,Solar+Storage,2022-03-28 00:00:00,2028-06-30 00:00:00,Oxford,ME,CMP,PJM,oxford_me
-1241,Sanford/Quaker Hill CMP Cluster 4,66.4020004272461,Solar+Storage,2022-03-28 00:00:00,2028-06-30 00:00:00,York,ME,CMP,PJM,york_me
+1242,Lewiston CMP Cluster 5,52.4640007019043,Solar+Storage,2022-03-28 00:00:00,2028-06-30 00:00:00,Oxford,ME,CMP,PJM,oxford_me
+1241,Sanford/Quaker Hill CMP Cluster 4,21.18400001525879,Solar+Storage,2022-03-28 00:00:00,2028-06-30 00:00:00,York,ME,CMP,PJM,york_me
 1239,Solar plus Battery,129.0,Solar+Storage,2022-03-25 00:00:00,2026-04-21 00:00:00,Oxford,ME,,PJM,oxford_me
 1238,Battery Storage,301.260009765625,Storage,2022-03-22 00:00:00,2026-11-23 00:00:00,Norfolk,MA,,PJM,norfolk_ma
 1237,Battery Storage CNR only,0.0,Storage,2022-03-21 00:00:00,2026-06-01 00:00:00,Washinton,RI,,PJM,washinton_ri
@@ -281,12 +275,11 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1115,Hecate Energy Eastern Ave Energy Center,250.0,Storage,2021-04-08 00:00:00,2026-11-09 00:00:00,Suffolk,MA,ISO-NE,PJM,suffolk_ma
 1110,Norman Street Battery Storage,204.0,Storage,2021-03-18 00:00:00,2028-03-18 00:00:00,Middlesex,MA,ISO-NE,PJM,middlesex_ma
 1109,Offshore Wind Inc. (Q806),487.0,Wind,2021-03-17 00:00:00,2026-12-31 00:00:00,,MA,ISO-NE,PJM,
-1107,Battery Storage,189.0,Storage,2021-03-16 00:00:00,2027-05-14 00:00:00,Plymouth,MA,,PJM,plymouth_ma
 1100,Solar,164.55999755859375,Solar,2021-02-19 00:00:00,2028-03-31 00:00:00,Somerset,ME,ISO-NE,PJM,somerset_me
 1097,Green Apple Solar,178.58999633789062,Solar,2021-02-15 00:00:00,2027-11-01 00:00:00,Androscoggin,ME,ISO-NE,PJM,androscoggin_me
-1096,CMP Winslow 115 kV SS - Winslow-Lakewood Areas Study,18.97800064086914,Solar+Storage,2021-02-04 00:00:00,2024-04-30 00:00:00,Somerset,ME,CMP,PJM,somerset_me
-1095,CMP Lakewood 115 kV SS - Winslow-Lakewood Areas Study,28.900999069213867,Solar,2021-02-04 00:00:00,2024-04-30 00:00:00,Somerset,ME,CMP,PJM,somerset_me
-1094,CMP County Road 115 kV SS - Winslow-Lakewood Areas Study,17.725000381469727,Solar+Storage,2021-02-04 00:00:00,2024-04-30 00:00:00,Kennebec,ME,,PJM,kennebec_me
+1096,CMP Winslow 115 kV SS - Winslow-Lakewood Areas Study,18.72800064086914,Solar+Storage,2021-02-04 00:00:00,2024-04-30 00:00:00,Somerset,ME,CMP,PJM,somerset_me
+1095,CMP Lakewood 115 kV SS - Winslow-Lakewood Areas Study,28.719999313354492,Solar,2021-02-04 00:00:00,2024-04-30 00:00:00,Somerset,ME,CMP,PJM,somerset_me
+1094,CMP County Road 115 kV SS - Winslow-Lakewood Areas Study,12.75,Solar+Storage,2021-02-04 00:00:00,2024-04-30 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
 1092,Solar,26.0,Solar,2021-01-20 00:00:00,2024-09-01 00:00:00,Hartford,CT,,PJM,hartford_ct
 1090,Park City Offshore Wind CNR,0.0,Wind,2021-01-13 00:00:00,2029-12-31 00:00:00,,MA,,PJM,
 1089,Naugatuck Avenue Battery Storage,205.32000732421875,Storage,2021-01-08 00:00:00,2026-12-01 00:00:00,New Haven,CT,ISO-NE,PJM,newhaven_ct
@@ -307,7 +300,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1046,Johnston - NG WRI DG Area Study #2 <5 MW,4.875,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Povidence,RI,NGRID,PJM,povidence_ri
 1045,Hopkins Hill - NG WRI DG Area Study #2 <5 MW,3.5,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Kent,RI,NGRID,PJM,kent_ri
 1044,Drumrock - NG WRI DG Area Study #2 <5 MW,4.974999904632568,Solar,2020-08-19 00:00:00,2022-04-01 00:00:00,Kent,RI,NGRID,PJM,kent_ri
-1041,Kent County - NG WRI DG Area Study #2 >5 MW,49.75,Solar,2020-08-19 00:00:00,2025-04-28 00:00:00,Kent,RI,NGRID,PJM,kent_ri
+1041,Kent County - NG WRI DG Area Study #2 >5 MW,49.75,Solar,2020-08-19 00:00:00,2025-07-07 00:00:00,Kent,RI,NGRID,PJM,kent_ri
 1040,Farnum Pike - NG WRI DG Area Study #2 >5 MW,8.0,Solar,2020-08-19 00:00:00,2022-12-29 00:00:00,Providence,RI,NGRID,PJM,providence_ri
 1039,Warren Substation – NG RI-Warren-20-Comp-1 Study,6.929999828338623,Solar,2020-08-19 00:00:00,2024-08-02 00:00:00,Kent,RI,NGRID,PJM,kent_ri
 1038,Solar,76.25,Solar,2020-08-07 00:00:00,2025-10-31 00:00:00,Merrimack,NH,ISO-NE,PJM,merrimack_nh
@@ -367,14 +360,11 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 949,Fuel Cell,9.65999984741211,Natural Gas,2020-01-23 00:00:00,2024-12-01 00:00:00,Fairfield,CT,UI,PJM,fairfield_ct
 944,Bay State Wind 4 Offshore Wind,1200.0,Wind,2019-12-18 00:00:00,2033-11-04 00:00:00,,MA,ISO-NE,PJM,
 940,Gravel Pit Solar increase,25.0,Solar,2019-12-04 00:00:00,2024-11-07 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
-939,NB Fuel Cell,20.0,Natural Gas,2019-11-25 00:00:00,2024-12-15 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
+939,NB Fuel Cell,20.0,Natural Gas,2019-11-25 00:00:00,2024-12-12 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
 935,West Baldwin Solar,17.100000381469727,Solar,2019-10-30 00:00:00,2029-09-30 00:00:00,Cumberland,ME,ISO-NE,PJM,cumberland_me
-934,Pembroke Solar,17.5,Solar,2019-10-25 00:00:00,2024-09-01 00:00:00,Merrimack,NH,ISO-NE,PJM,merrimack_nh
 929,GDC Saco Solar ,20.0,Solar,2019-10-15 00:00:00,2025-04-30 00:00:00,York,ME,ISO-NE,PJM,york_me
 923,Solar,20.0,Solar,2019-09-03 00:00:00,2025-01-15 00:00:00,Androscoggin,ME,CMP,PJM,androscoggin_me
 910,Mousam River Solar,20.0,Solar,2019-08-15 00:00:00,2025-09-30 00:00:00,York,ME,ISO-NE,PJM,york_me
-905,Battery Storage,10.0,Storage,2019-08-01 00:00:00,2024-08-01 00:00:00,Cumberland,ME,CMP,PJM,cumberland_me
-904,Battery Storage,14.0,Storage,2019-08-01 00:00:00,2024-01-25 00:00:00,Kennebec,ME,CMP,PJM,kennebec_me
 896,Saco Solar,19.600000381469727,Solar,2019-07-17 00:00:00,2026-07-01 00:00:00,York,ME,ISO-NE,PJM,york_me
 892,Gravel Pit Solar,50.0,Solar,2019-06-05 00:00:00,2024-11-07 00:00:00,Hartford,CT,ISO-NE,PJM,hartford_ct
 883,Kendall Combined Cycle increase,16.448999404907227,Other,2019-04-24 00:00:00,2025-06-01 00:00:00,Middlesex,MA,ISO-NE,PJM,middlesex_ma
