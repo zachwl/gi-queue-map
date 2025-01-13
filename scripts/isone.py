@@ -86,7 +86,7 @@ def getISONEQueue():
         #### Final Steps ####
 
         # Create new column to highlight which RTO/utility this data came from
-        isone_active_projects['iso_utility'] = 'PJM'
+        isone_active_projects['iso_utility'] = 'ISONE'
         # Create a common key from county name and state abbr
         # This will allow the data to be joined to spatial layer later
         isone_active_projects = createJoinKey(isone_active_projects)

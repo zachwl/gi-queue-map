@@ -106,7 +106,7 @@ function loadMap(data, symbology) {
 
                     const joinKey = feature.properties.join_key
                     const tableBody = document.getElementById('table-body');
-
+                    console.log(cachedJSON)
                     // Clear existing table content
                     tableBody.innerHTML = '';
 
@@ -121,7 +121,7 @@ function loadMap(data, symbology) {
                     // Populate table rows
                     filteredData.forEach(row => {
                         const tr = document.createElement('tr');
-                        ["id", "name", "capacity", "fuel", "submitted_date", "service_date", "county", "state", "transmission_owner", "iso_utility"].forEach(key => {
+                        ["id", "name", "capacity", "fuel", "submitted_date", "service_date", "transmission_owner", "iso_utility"].forEach(key => {
                             const td = document.createElement('td');
                             td.textContent = row[key] || 'N/A'; // Use 'N/A' if the key doesn't exist
                             tr.appendChild(td);

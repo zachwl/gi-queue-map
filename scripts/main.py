@@ -29,8 +29,11 @@ def main():
         tva_queue,
         duke_queue])
 
+    # Sort by control area and capacity
+    # This ensures that the table rendered on the web page looks clean
+    all_queued_projects_sorted = all_queued_projects.sort_values(by = ['iso_utility', 'capacity'], ascending=[True, False])
     # Export as json for use in interactive web page elements
-    all_queued_projects.reset_index().to_json(f'data/all_queued_projects.json', index = None, orient = 'records', indent = 2)
+    all_queued_projects_sorted.reset_index().to_json(f'data/all_queued_projects.json', index = None, orient = 'records', indent = 2)
 
     # Aggregate based on county and fuel types
     # Returns metrics for each fuel type by county
