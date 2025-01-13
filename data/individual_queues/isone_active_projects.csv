@@ -1,4 +1,10 @@
 id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owner,iso_utility,join_key
+1600,Chazy Lake BESS (NYISO-C24-308),50.0,Storage,2024-12-12 00:00:00,2028-08-01 00:00:00,Clinton,NY,,PJM,clinton_ny
+1599,Dover NY BESS (NYISO-C24-316),1000.0,Storage,2024-12-12 00:00:00,2028-05-01 00:00:00,Dutchess,NY,,PJM,dutchess_ny
+1598,Zenobe Rotterdam LLC (NYISO-C24-191),100.0,Storage,2024-12-12 00:00:00,2028-06-01 00:00:00,Schenectady,NY,,PJM,schenectady_ny
+1597,New Scotland BESS (NYISO-C24-045),1350.0,Storage,2024-12-12 00:00:00,2027-09-01 00:00:00,Albany,NY,,PJM,albany_ny
+1596,NY Chateaugay 0 Willis Rd Storage (NYISO-C24-304-004),150.0,Storage,2024-12-12 00:00:00,2028-02-01 00:00:00,Franklin,NY,,PJM,franklin_ny
+1595,Willard Storage (NYISO-C24-148),300.0,Storage,2024-12-12 00:00:00,2028-10-01 00:00:00,Rensselaer,NY,,PJM,rensselaer_ny
 1594,Woonsocket Substation – Tifft ST BESS,4.5,Storage,2024-11-15 00:00:00,2026-12-31 00:00:00,Providence,RI,,PJM,providence_ri
 1593,Point St Substation – Aldrich St BESS,3.0,Storage,2024-11-15 00:00:00,2026-12-31 00:00:00,Providence,RI,,PJM,providence_ri
 1592,SHELD BESS,3.0,Storage,2024-08-21 00:00:00,2025-09-01 00:00:00,Hampden,MA,,PJM,hampden_ma
@@ -407,7 +413,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 780,"Combined Reciprocating, Solar and Battery modification",0.0,Other,2018-09-11 00:00:00,2022-05-31 00:00:00,Middlesex,MA,NGRID,PJM,middlesex_ma
 774,Solar,8.0,Solar,2018-08-13 00:00:00,2021-07-15 00:00:00,Washington,RI,NGRID,PJM,washington_ri
 766,Solar,5.199999809265137,Solar,2018-05-22 00:00:00,2024-11-24 00:00:00,Washington,RI,NGRID,PJM,washington_ri
-760,Downeast Wind,126.0,Wind,2018-04-26 00:00:00,2024-12-18 00:00:00,Washington,ME,ISO-NE,PJM,washington_me
+760,Downeast Wind,126.0,Wind,2018-04-26 00:00:00,2025-01-31 00:00:00,Washington,ME,ISO-NE,PJM,washington_me
 758,Ocean State Power uprate,73.2040023803711,Other,2018-04-26 00:00:00,2025-11-30 00:00:00,Providence,RI,ISO-NE,PJM,providence_ri
 727,Chariot Solar,49.5,Solar,2018-03-28 00:00:00,2024-12-15 00:00:00,Cheshire,NH,ISO-NE,PJM,cheshire_nh
 726,Cranberry Point Energy Storage,150.0,Storage,2018-03-21 00:00:00,2025-05-30 00:00:00,Plymouth,MA,ISO-NE,PJM,plymouth_ma
