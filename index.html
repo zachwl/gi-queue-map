@@ -18,6 +18,27 @@
         <button class = "symbologyButton" id = 'hybridButton'>Hybrid</button>
         <button class = "symbologyButton" id = 'otherButton'>Other</button>
         <button class = "symbologyButton" id = 'testButton'>Data Test</button>
+        <table class = "projectTable", id = 'queuedProjectsTable'>
+            <caption>Active Queued Projects</caption>
+            <thead>
+                <tr>
+                    <th>Queue #</th>
+                    <th>Name</th>
+                    <th>Capacity</th>
+                    <th>Fuel</th>
+                    <th>Queued Date</th>
+                    <th>In Service</th>
+                    <th>County</th>
+                    <th>State</th>
+                    <th>Utility</th>
+                    <th>Control Area</th>
+                    <th>Join Key</th>
+                </tr>
+            </thead>
+            <tbody id = "table-body">
+
+            </tbody>
+        </table>
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
         <script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>

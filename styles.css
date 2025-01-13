@@ -30,6 +30,21 @@ body {
   cursor: pointer;
 }
 
+#queuedProjectsTable {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  z-index: 1000;
+  overflow: scroll;
+  width: 600px;
+  height: 300px;
+  background-color: white;
+}
+caption {
+  background-color: blue;
+  color: white;
+}
+
 #totalGenButton {
   position: fixed;
   top: 20px;

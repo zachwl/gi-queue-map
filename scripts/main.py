@@ -30,7 +30,7 @@ def main():
         duke_queue])
 
     # Export as json for use in interactive web page elements
-    all_queued_projects.reset_index().to_json(f'data/all_queued_projects.json', index = None)
+    all_queued_projects.reset_index().to_json(f'data/all_queued_projects.json', index = None, orient = 'records', indent = 2)
 
     # Aggregate based on county and fuel types
     # Returns metrics for each fuel type by county

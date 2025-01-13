@@ -1,6 +1,11 @@
 // Global variable for county-level data
 let cachedGeoJSON;
 
+let cachedJSON = [];
+fetch('data/all_queued_projects.json')
+    .then(response => response.json())
+    .then(data => cachedJSON = data);
+
 // Create the leaflet map
 // Centered on a point in Kansas
 const map = L.map('map').setView([38, -95], 5);
@@ -97,6 +102,31 @@ function loadMap(data, symbology) {
                                 }
                             }
                         }
+                    });
+
+                    const joinKey = feature.properties.join_key
+                    const tableBody = document.getElementById('table-body');
+
+                    // Clear existing table content
+                    tableBody.innerHTML = '';
+
+                    // Filter JSON data based on join_key
+                    const filteredData = cachedJSON.filter(row => row.join_key === joinKey);
+
+                    if (filteredData.length === 0) {
+                        tableBody.innerHTML = '<tr><td colspan="5">No data found</td></tr>';
+                        return;
+                    }
+
+                    // Populate table rows
+                    filteredData.forEach(row => {
+                        const tr = document.createElement('tr');
+                        ["id", "name", "capacity", "fuel", "submitted_date", "service_date", "county", "state", "transmission_owner", "iso_utility"].forEach(key => {
+                            const td = document.createElement('td');
+                            td.textContent = row[key] || 'N/A'; // Use 'N/A' if the key doesn't exist
+                            tr.appendChild(td);
+                        });
+                        tableBody.appendChild(tr);
                     });
                 });
             }
