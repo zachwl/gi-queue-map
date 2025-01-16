@@ -129,7 +129,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1407,EE Group @ Blandford,28.93600082397461,Solar+Storage,2023-06-13,2024-12-31,Hampshire,MA,,ISONE,hampshire_ma
 1406,EE Group @ Doreen,9.149999618530273,Solar+Storage,2023-06-13,2024-12-31,Berkshire,MA,,ISONE,berkshire_ma
 1405,EE Group @ Southwick,7.0,Solar+Storage,2023-06-13,2024-12-31,Hampden,MA,,ISONE,hampden_ma
-1404,Individual @ French King,2.200000047683716,Solar+Storage,2023-06-13,,Franklin,MA,,ISONE,franklin_ma
+1404,Individual @ French King,2.200000047683716,Solar+Storage,2023-06-13,nan,Franklin,MA,,ISONE,franklin_ma
 1402,Battery Storage,171.60000610351562,Storage,2023-06-07,2027-06-01,Hampden,MA,,ISONE,hampden_ma
 1400,Battery Storage,101.97000122070312,Storage,2023-05-18,2026-12-31,Hartford,CT,,ISONE,hartford_ct
 1399,Battery Storage,92.43800354003906,Storage,2023-05-18,2027-05-31,Hampden,MA,,ISONE,hampden_ma
