@@ -30,7 +30,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 0710,Horseshoe Solar,180.0,Solar,2018-05-29 00:00:00,12-2025,Livingston,NY,NM-NG,NYISO,livingston_ny
 0716,Moraine Solar Energy Center,93.5,Solar,2018-06-04 00:00:00,10-2027,Allegany,NY,NYSEG,NYISO,allegany_ny
 0720,Trelina Solar Energy Center,79.8,Solar,2018-06-07 00:00:00,01-2025,Seneca,NY,NYSEG,NYISO,seneca_ny
-0721,Excelsior Energy Center,280.0,Solar,2018-06-07 00:00:00,02-2025,Genesee,NY,NYPA,NYISO,genesee_ny
+0721,Excelsior Energy Center,280.0,Solar,2018-06-07 00:00:00,11-2026,Genesee,NY,NYPA,NYISO,genesee_ny
 0734,Ticonderoga Solar,20.0,Solar,2018-06-12 00:00:00,03-2025,Essex,NY,NM-NG,NYISO,essex_ny
 0737,Empire Wind 1,816.0,Wind,2018-06-12 00:00:00,12-2026,Kings,NY,ConEd,NYISO,kings_ny
 0744,Magruder BESS,20.0,Storage,2018-07-18 00:00:00,01-2025,Ulster,NY,CHG&E,NYISO,ulster_ny
@@ -88,7 +88,6 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1039,Morris Solar,20.0,Solar,2021-01-06 00:00:00,12-2025,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
 1047,Millers Grove Solar,20.0,Solar,2020-07-09 00:00:00,12-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
 1051,Transit Solar,20.0,Solar,2020-07-21 00:00:00,12-2025,Genesee,NY,NM-NG,NYISO,genesee_ny
-1061,Teele,19.8,Solar,2020-07-31 00:00:00,06-2026,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
 1079,Somerset Solar,125.0,Solar,2020-08-18 00:00:00,03-2027,Niagara,NY,NYSEG,NYISO,niagara_ny
 1080,Mineral Basin Solar Power,401.6,Solar,2020-08-21 00:00:00,05-2028,Clearfield,PA,NYSEG,NYISO,clearfield_pa
 1089,Flat Creek Solar,200.0,Solar,2020-09-04 00:00:00,11-2028,Montgomery,NY,NYPA,NYISO,montgomery_ny
