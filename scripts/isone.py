@@ -48,6 +48,9 @@ def getISONEQueue():
         # If two or more counties are listed, then only use the first one
         # This system is not perfect, so in the future, I might add a way to split that projects generation evenly across all counties it is located in
         isone_active_projects['County'] = isone_active_projects['County'].str.split('/').str[0]
+        # Trim down the values for queue date and in service date
+        isone_active_projects['Requested'] = pd.to_datetime(isone_active_projects['Requested']).dt.date
+        isone_active_projects['Op Date'] = pd.to_datetime(isone_active_projects['Op Date']).dt.date
 
         #### Standardize Columns ####
 
@@ -103,3 +106,5 @@ def getISONEQueue():
         sendEmail('Error raised in isone.py', error)
         isone_backup = pd.read_csv('data/individual_queues/isone_active_projects.csv')
         return isone_backup
+
+getISONEQueue().to_csv('C:/Users/zleig/Downloads/tempisone.csv', index = False)

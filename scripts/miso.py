@@ -28,6 +28,9 @@ def getMISOQueue():
         # If two or more counties are listed, then only use the first one
         # This system is not perfect, so in the future, I might add a way to split that projects generation evenly across all counties it is located in
         miso_active_projects['county'] = miso_active_projects['county'].str.split(',').str[0]
+        # Remove unnecessary time from date
+        miso_active_projects['queueDate'] = miso_active_projects['queueDate'].str[:10]
+        miso_active_projects['inService'] = miso_active_projects['inService'].str[:10]
 
         #### Standardize column names ####
 
@@ -84,3 +87,5 @@ def getMISOQueue():
         sendEmail('Error raised in miso.py', error)
         miso_backup = pd.read_csv('data/individual_queues/miso_active_projects.csv')
         return miso_backup
+
+getMISOQueue().to_csv('C:/Users/zleig/Downloads/misotest.csv', index = False)

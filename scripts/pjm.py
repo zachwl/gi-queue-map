@@ -41,7 +41,7 @@ def getPJMQueue():
         pjm_active_projects['County'] = pjm_active_projects['County'].str.replace(r' County', '', regex=True)
         # If two or more counties are listed, then only use the first one
         # This system is not perfect, so in the future, I might add a way to split that projects generation evenly across all counties it is located in
-        pjm_active_projects['Name'] = pjm_active_projects['Name'] + ' / ' + pjm_active_projects['CommercialName']
+        pjm_active_projects['Name'] = pjm_active_projects['CommercialName'] + '   ' + pjm_active_projects['Name']
 
         #### Standardize Columns ####
 
