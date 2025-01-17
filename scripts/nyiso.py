@@ -36,6 +36,8 @@ def getNYISOQueue():
         # This system is not perfect, so in the future, I might add a way to split that projects generation evenly across all counties it is located in
         nyiso_active_projects['County'] = nyiso_active_projects['County'].str.split('/').str[0]
         nyiso_active_projects['County'] = nyiso_active_projects['County'].str.split(',').str[0]
+        # Clean up the queue date column by removing the unneccessary time
+        nyiso_active_projects['Date of IR'] = nyiso_active_projects['Date of IR'].astype(str).str[:10]
 
         #### Standardize Columns ####
 
