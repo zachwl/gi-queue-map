@@ -1,2 +1,2 @@
 # gi-queue-map
-Mapping project for visualizing county-level interconnection queue data within different utilities and ISOs
+Mapping project for visualizing county-level generator interconnection queue data within control areas
