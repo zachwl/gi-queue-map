@@ -51,6 +51,8 @@ def getISONEQueue():
         # Trim down the values for queue date and in service date
         isone_active_projects['Requested'] = isone_active_projects['Requested'].astype(str).str[:10]
         isone_active_projects['Op Date'] = isone_active_projects['Op Date'].astype(str).str[:10]
+        # Round the Net MW values to nearest whole number to avoid long floats
+        isone_active_projects['Net MW'] = isone_active_projects['Net MW'].round(0)
 
         #### Standardize Columns ####
 
