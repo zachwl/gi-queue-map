@@ -1,118 +1,118 @@
 id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owner,iso_utility,join_key
-0276,Homer Solar Energy Center,90.0,Solar,2008-01-30 00:00:00,04-2026,Cortland,NY,NM-NG,NYISO,cortland_ny
-0495,Mohawk Solar,90.5,Solar,2015-04-02 00:00:00,11/2027,Montgomery,NY,NM-NG,NYISO,montgomery_ny
-0519,Canisteo Wind,289.8,Wind,2015-11-02 00:00:00,12-2027,Steuben,NY,NYSEG,NYISO,steuben_ny
-0521,Bull Run II Wind,449.0,Wind,2015-12-15 00:00:00,12-2026,Clinton,NY,NYPA,NYISO,clinton_ny
-0522,NYC Energy,79.9,Storage,2015-12-16 00:00:00,06-2027,Kings,NY,ConEd,NYISO,kings_ny
-0535,Riverhead Solar 2,36.0,Solar,2016-02-23 00:00:00,01-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0545,Sky High Solar,20.0,Solar,2016-05-16 00:00:00,06-2025,Onondaga,NY,NM-NG,NYISO,onondaga_ny
-0564,Rock District Solar,20.0,Solar,2016-07-25 00:00:00,02-2027,Schoharie,NY,NM-NG,NYISO,schoharie_ny
-0565,Tayandenega Solar,20.0,Solar,2016-07-25 00:00:00,02-2027,Montgomery,NY,NM-NG,NYISO,montgomery_ny
-0571,Heritage Wind,200.1,Wind,2016-09-01 00:00:00,09-2026,Genesee,NY,NM-NG,NYISO,genesee_ny
-0572,Greene County 1,20.0,Solar,2016-09-06 00:00:00,05-2025,Greene,NY,CHG&E,NYISO,greene_ny
-0573,Greene County 2,10.0,Solar,2016-09-06 00:00:00,05-2025,Greene,NY,CHG&E,NYISO,greene_ny
-0575,Little Pond Solar,20.0,Solar,2016-09-16 00:00:00,01-2025,Orange,NY,O&R,NYISO,orange_ny
-0581,Hills Solar,20.0,Solar,2016-10-06 00:00:00,12-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
-0584,Dog Corners Solar,20.0,Solar,2016-11-02 00:00:00,04-2026,Cayuga,NY,NYSEG,NYISO,cayuga_ny
-0586,Watkins Rd Solar,20.0,Solar,2016-11-08 00:00:00,07-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
-0590,Scipio Solar,18.0,Solar,2016-12-02 00:00:00,12-2024,Cayuga,NY,NYSEG,NYISO,cayuga_ny
-0591,Highview Solar,20.0,Solar,2016-12-02 00:00:00,02-2025,Wyoming,NY,NYSEG,NYISO,wyoming_ny
-0592,Niagara Solar,20.0,Solar,2016-12-02 00:00:00,12-2026,Wyoming,NY,NYSEG,NYISO,wyoming_ny
-0596,Alle Catt II Wind,339.1,Wind,2017-01-04 00:00:00,12-2026,Cattaraugus,NY,NM-NG,NYISO,cattaraugus_ny
-0617,Watkins Glen Solar,50.0,Solar,2017-03-27 00:00:00,01-2025,Schuyler,NY,NYSEG,NYISO,schuyler_ny
-0620,North Side Solar,180.0,Solar,2017-03-27 00:00:00,12-2024,St. Lawrence,NY,NYPA,NYISO,stlawrence_ny
-0637,Flint Mine Solar,100.0,Solar,2017-06-29 00:00:00,5-2026,Greene,NY,NM-NG,NYISO,greene_ny
-0644,Columbia County 1,60.0,Solar,2017-07-26 00:00:00,2-2027,Columbia,NY,NYSEG,NYISO,columbia_ny
-0670,SunEast Skyline Solar LLC,20.0,Solar,2017-09-21 00:00:00,4/2028,Westmoreland,NY,NM-NG,NYISO,westmoreland_ny
-0683,KCE NY 2,200.0,Storage,2018-01-18 00:00:00,06-2027,Montgomery,NY,CHG&E,NYISO,montgomery_ny
-0704,Bear Ridge Solar,100.0,Solar,2018-03-20 00:00:00,02-2025,Niagara,NY,NM-NG,NYISO,niagara_ny
-0706,High Bridge Wind,100.8,Wind,2018-04-25 00:00:00,02-2025,Chenango,NY,NYSEG,NYISO,chenango_ny
-0710,Horseshoe Solar,180.0,Solar,2018-05-29 00:00:00,12-2025,Livingston,NY,NM-NG,NYISO,livingston_ny
-0716,Moraine Solar Energy Center,93.5,Solar,2018-06-04 00:00:00,10-2027,Allegany,NY,NYSEG,NYISO,allegany_ny
-0720,Trelina Solar Energy Center,79.8,Solar,2018-06-07 00:00:00,01-2025,Seneca,NY,NYSEG,NYISO,seneca_ny
-0721,Excelsior Energy Center,280.0,Solar,2018-06-07 00:00:00,11-2026,Genesee,NY,NYPA,NYISO,genesee_ny
-0734,Ticonderoga Solar,20.0,Solar,2018-06-12 00:00:00,03-2025,Essex,NY,NM-NG,NYISO,essex_ny
-0737,Empire Wind 1,816.0,Wind,2018-06-12 00:00:00,12-2026,Kings,NY,ConEd,NYISO,kings_ny
-0744,Magruder BESS,20.0,Storage,2018-07-18 00:00:00,01-2025,Ulster,NY,CHG&E,NYISO,ulster_ny
-0766,Sunrise Wind,880.0,Wind,2018-09-28 00:00:00,03-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0774,Tracy Solar Energy Centre,119.0,Solar,2018-10-18 00:00:00,11-2028,Jefferson,NY,NM-NG,NYISO,jefferson_ny
-0777,White Creek Solar,135.0,Solar,2018-11-01 00:00:00,11-2027,Livingston,NY,RG&E,NYISO,livingston_ny
-0783,South Ripley Solar and BESS,270.0,Solar+Storage,2018-12-07 00:00:00,01-2027,Chautauqua,NY,NM-NG,NYISO,chautauqua_ny
-0787,"Levy Grid, LLC",150.0,Storage,2018-12-20 00:00:00,08-2025,Erie,NY,NM-NG,NYISO,erie_ny
-0800,Rich Road Solar Energy Center,240.0,Solar+Storage,2019-02-20 00:00:00,04-2028,St. Lawrence,NY,NYPA,NYISO,stlawrence_ny
-0801,Prattsburgh Wind Farm,147.0,Wind,2019-02-21 00:00:00,12-2025,Steuben,NY,NYSEG,NYISO,steuben_ny
-0804,KCE NY 10,20.0,Storage,2019-03-22 00:00:00,10-2026,Erie,NY,NYSEG,NYISO,erie_ny
-0805,Oxbow Hill Solar,140.0,Solar,2019-03-22 00:00:00,12-2026,Madison,NY,NM-NG,NYISO,madison_ny
-0807,Hilltop Solar,20.0,Solar,2019-03-28 00:00:00,05/2028,Rensselaer,NY,NM-NG,NYISO,rensselaer_ny
-0811,Cider Solar,500.0,Solar,2019-04-03 00:00:00,01-2027,Genesee,NY,NYPA,NYISO,genesee_ny
-0815,Bayonne Energy Center III,49.8,Storage,2019-04-05 00:00:00,09-2026,Kings,NY,ConEd,NYISO,kings_ny
-0825,Setauket Energy Storage,65.3,Storage,2019-04-15 00:00:00,04-2028,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0827,Arthur Kill Energy Storage 1,15.0,Storage,2019-04-22 00:00:00,09-2025,Richmond,NY,ConEd,NYISO,richmond_ny
-0828,Valley Solar,20.0,Solar,2019-04-24 00:00:00,11-2024,Tioga,NY,NYSEG,NYISO,tioga_ny
-0832,CS Hawthorn Solar,20.0,Solar,2019-05-06 00:00:00,12-2026,Rensselaer,NY,NM-NG,NYISO,rensselaer_ny
-0833,Dolan Solar,20.0,Solar,2019-05-06 00:00:00,12-2026,Washington,NY,NM-NG,NYISO,washington_ny
-0834,Luyster Creek Energy Storage 2,79.0,Storage,2019-05-07 00:00:00,05-2027,Queens,NY,ConEd,NYISO,queens_ny
-0835,Luyster Creek Energy Storage 1,56.3,Storage,2019-05-07 00:00:00,05-2026,Queens,NY,ConEd,NYISO,queens_ny
-0843,NY37 Solar,20.0,Solar,2019-05-17 00:00:00,11-2025,Jefferson,NY,NM-NG,NYISO,jefferson_ny
-0848,Fairway Solar,20.0,Solar,2019-05-20 00:00:00,03-2025,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
-0855,NY13 Solar,20.0,Solar,2019-05-24 00:00:00,06-2025,Washington,NY,NM-NG,NYISO,washington_ny
-0863,Highbanks Solar,20.0,Solar,2019-05-29 00:00:00,02-2026,Livingston,NY,RG&E,NYISO,livingston_ny
-0864,NY38 Solar,120.0,Solar,2019-05-29 00:00:00,12-2026,Jefferson,NY,NM-NG,NYISO,jefferson_ny
-0865,Flat Hill Solar,20.0,Solar,2019-05-31 00:00:00,12-2025,Herkimer,NY,NM-NG,NYISO,herkimer_ny
-0880,Brookside Solar,100.0,Solar,2019-06-10 00:00:00,06-2027,Franklin,NY,NYSEG,NYISO,franklin_ny
-0882,Riverside Solar,100.0,Solar,2019-06-10 00:00:00,12-2027,Jefferson,NY,NM-NG,NYISO,jefferson_ny
-0883,Garnet Energy Center,200.0,Solar,2019-06-11 00:00:00,11-2025,Cayuga,NY,NYPA,NYISO,cayuga_ny
-0885,Grassy Knoll Solar,20.0,Solar,2019-06-12 00:00:00,12-2025,Herkimer,NY,NM-NG,NYISO,herkimer_ny
-0907,Harlem River Yard,79.9,Storage,2019-09-04 00:00:00,12-2026,Queens,NY,NYPA,NYISO,queens_ny
-0930,Astoria BES to 27kV North Queens,15.0,Storage,2019-10-25 00:00:00,12-2025,Queens,NY,ConEd,NYISO,queens_ny
-0931,Astoria Energy Storage,100.0,Storage,2019-10-28 00:00:00,03-2026,Queens,NY,ConEd,NYISO,queens_ny
-0932,Hatchery Solar,20.0,Solar,2019-10-29 00:00:00,05-2025,Livingston,NY,NM-NG,NYISO,livingston_ny
-0950,Hemlock Ridge Solar,200.0,Solar,2019-11-21 00:00:00,08-2027,Orleans,NY,NM-NG,NYISO,orleans_ny
-0953,Sugar Maple Solar,125.0,Solar,2019-12-05 00:00:00,12-2027,Lewis,NY,NM-NG,NYISO,lewis_ny
-0956,Holtsville 138kV Energy Storage,110.0,Storage,2019-12-10 00:00:00,09-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0957,Holbrook Energy Storage,76.8,Storage,2019-12-10 00:00:00,12-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0960,Cobleskill Solar,20.0,Solar,2019-12-12 00:00:00,12-2025,Schoharie,NY,NM-NG,NYISO,schoharie_ny
-0965,Yaphank Energy Storage,76.8,Storage,2019-12-21 00:00:00,09-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0967,KCE NY 5,94.0,Storage,2019-12-27 00:00:00,12-2027,Ulster,NY,CHG&E,NYISO,ulster_ny
-0971,East Setauket Energy Storage,125.0,Storage,2020-01-10 00:00:00,04-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0972,Warner Hill Solar,20.0,Solar,2020-01-10 00:00:00,05-2026,Schoharie,NY,NM-NG,NYISO,schoharie_ny
-0987,Sunrise Wind II,44.0,Wind,2020-01-29 00:00:00,03-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
-0995,Alabama Solar Park LLC,130.0,Solar,2020-02-27 00:00:00,10-2028,Genesee,NY,NM-NG,NYISO,genesee_ny
-1000,SunEast Flat Stone Solar LLC,20.0,Solar,2020-03-18 00:00:00,11-2026,Oneida,NY,NM-NG,NYISO,oneida_ny
-1003,Clear View Solar,20.0,Solar,2020-04-06 00:00:00,12-2025,Steuben,NY,NYSEG,NYISO,steuben_ny
-1007,NYC Energy LLC - Phase 2,220.1,Storage,2020-04-22 00:00:00,06-2027,Kings,NY,ConEd,NYISO,kings_ny
-1009,Yellow Barn Solar,160.0,Solar,2020-04-30 00:00:00,12-2025,Tompkins,NY,NYSEG,NYISO,tompkins_ny
-1012,Suffolk County Storage II,76.8,Storage,2020-05-04 00:00:00,04-2028,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1015,"Somers Solar, LLC",20.0,Solar,2020-05-05 00:00:00,12-2026,Washington,NY,NM-NG,NYISO,washington_ny
-1031,Mill Point Solar,250.0,Solar+Storage,2020-06-18 00:00:00,12-2028,Montgomery,NY,NM-NG,NYISO,montgomery_ny
-1039,Morris Solar,20.0,Solar,2021-01-06 00:00:00,12-2025,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
-1047,Millers Grove Solar,20.0,Solar,2020-07-09 00:00:00,12-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
-1051,Transit Solar,20.0,Solar,2020-07-21 00:00:00,12-2025,Genesee,NY,NM-NG,NYISO,genesee_ny
-1079,Somerset Solar,125.0,Solar,2020-08-18 00:00:00,03-2027,Niagara,NY,NYSEG,NYISO,niagara_ny
-1080,Mineral Basin Solar Power,401.6,Solar,2020-08-21 00:00:00,05-2028,Clearfield,PA,NYSEG,NYISO,clearfield_pa
-1089,Flat Creek Solar,200.0,Solar,2020-09-04 00:00:00,11-2028,Montgomery,NY,NYPA,NYISO,montgomery_ny
-1096,Alfred Oaks Solar,100.0,Solar+Storage,2020-09-14 00:00:00,11-2027,Allegany,NY,NYSEG,NYISO,allegany_ny
-1113,CLIES 20 MW,20.0,Storage,2020-11-18 00:00:00,12-2025,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1115,Flat Creek Solar 2,100.0,Solar,2020-11-23 00:00:00,11-2028,Montgomery,NY,NYPA,NYISO,montgomery_ny
-1117,CLIES 70MW,70.0,Storage,2020-11-25 00:00:00,12-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1122,East Fishkill,205.0,Storage,2020-12-11 00:00:00,11-2028,Dutchess,NY,CHG&E,NYISO,dutchess_ny
-1123,KCE NY 29,150.0,Storage,2020-12-14 00:00:00,10-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1130,Hoffman Falls Wind,72.0,Wind,2021-01-27 00:00:00,12-2027,Madison,NY,NM-NG,NYISO,madison_ny
-1148,Agricola Wind,97.0,Wind,2021-03-10 00:00:00,12-2027,Cayuga,NY,NYSEG,NYISO,cayuga_ny
-1150,Moss Ridge Solar,60.0,Solar,2021-03-16 00:00:00,11-2028,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
-1151,York Run Solar,90.0,Solar,2021-03-18 00:00:00,08-2026,Chautauqua,NY,NM-NG,NYISO,chautauqua_ny
-1156,Cody Road Wind Farm,19.9,Wind,2021-04-08 00:00:00,07-2025,Madison,NY,NM-NG,NYISO,madison_ny
-1166,BR Benson Mines Solar,12.1,Solar,2021-05-07 00:00:00,10-2026,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
-1171,ELP Stuyvesant Solar,20.0,Solar,2021-05-14 00:00:00,11-2026,Columbia,NY,Transco,NYISO,columbia_ny
-1183,NY125A - Fort Covington Solar,250.0,Solar,2021-05-20 00:00:00,08-2027,Franklin,NY,NYPA,NYISO,franklin_ny
-1184,NY125B - Two Rivers Solar,200.0,Solar,2021-05-20 00:00:00,08-2027,St-Lawrence,NY,NYPA,NYISO,stlawrence_ny
-1188,"North Seneca Solar Project, LLC",105.0,Solar,2021-05-27 00:00:00,09-2027,Seneca,NY,NM-NG,NYISO,seneca_ny
-1194,"Crane Brook Solar Project, LLC",130.0,Solar,2021-06-03 00:00:00,09-2027,Cayuga,NY,NM-NG,NYISO,cayuga_ny
-1227,18405 Scotch Ridge,20.0,Solar,2021-08-04 00:00:00,12-2025,Schenectady,NY,NM-NG,NYISO,schenectady_ny
-1237,Sugar Maple Energy Storage,20.0,Storage,2021-08-24 00:00:00,12-2026,Jefferson,NY,NM-NG,NYISO,jefferson_ny
-1254,Barrett Hempstead Battery Storage,40.0,Storage,2021-09-22 00:00:00,03-2025,Nassau,NY,LIPA,NYISO,nassau_ny
-1255,Holtsville Brookhaven Battery Storage,79.9,Storage,2021-09-22 00:00:00,03-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1256,Canal Southampton Battery Storage,100.0,Storage,2021-09-22 00:00:00,03-2025,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1257,Edwards Calverton Battery Storage,60.0,Storage,2021-09-22 00:00:00,03-2025,Suffolk,NY,LIPA,NYISO,suffolk_ny
-1313,Queensbury BESS,20.0,Storage,2021-12-12 00:00:00,12-2026,Warren,NY,NM-NG,NYISO,warren_ny
-1329,ELP Granby Solar II,20.0,Solar+Storage,2022-02-11 00:00:00,12-2026,Oswego,NY,NM-NG,NYISO,oswego_ny
+0276,Homer Solar Energy Center,90.0,Solar,2008-01-30,04-2026,Cortland,NY,NM-NG,NYISO,cortland_ny
+0495,Mohawk Solar,90.5,Solar,2015-04-02,11/2027,Montgomery,NY,NM-NG,NYISO,montgomery_ny
+0519,Canisteo Wind,289.8,Wind,2015-11-02,12-2027,Steuben,NY,NYSEG,NYISO,steuben_ny
+0521,Bull Run II Wind,449.0,Wind,2015-12-15,12-2026,Clinton,NY,NYPA,NYISO,clinton_ny
+0522,NYC Energy,79.9,Storage,2015-12-16,06-2027,Kings,NY,ConEd,NYISO,kings_ny
+0535,Riverhead Solar 2,36.0,Solar,2016-02-23,01-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0545,Sky High Solar,20.0,Solar,2016-05-16,06-2025,Onondaga,NY,NM-NG,NYISO,onondaga_ny
+0564,Rock District Solar,20.0,Solar,2016-07-25,02-2027,Schoharie,NY,NM-NG,NYISO,schoharie_ny
+0565,Tayandenega Solar,20.0,Solar,2016-07-25,02-2027,Montgomery,NY,NM-NG,NYISO,montgomery_ny
+0571,Heritage Wind,200.1,Wind,2016-09-01,09-2026,Genesee,NY,NM-NG,NYISO,genesee_ny
+0572,Greene County 1,20.0,Solar,2016-09-06,05-2025,Greene,NY,CHG&E,NYISO,greene_ny
+0573,Greene County 2,10.0,Solar,2016-09-06,05-2025,Greene,NY,CHG&E,NYISO,greene_ny
+0575,Little Pond Solar,20.0,Solar,2016-09-16,01-2025,Orange,NY,O&R,NYISO,orange_ny
+0581,Hills Solar,20.0,Solar,2016-10-06,12-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
+0584,Dog Corners Solar,20.0,Solar,2016-11-02,04-2026,Cayuga,NY,NYSEG,NYISO,cayuga_ny
+0586,Watkins Rd Solar,20.0,Solar,2016-11-08,07-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
+0590,Scipio Solar,18.0,Solar,2016-12-02,12-2024,Cayuga,NY,NYSEG,NYISO,cayuga_ny
+0591,Highview Solar,20.0,Solar,2016-12-02,02-2025,Wyoming,NY,NYSEG,NYISO,wyoming_ny
+0592,Niagara Solar,20.0,Solar,2016-12-02,12-2026,Wyoming,NY,NYSEG,NYISO,wyoming_ny
+0596,Alle Catt II Wind,339.1,Wind,2017-01-04,12-2026,Cattaraugus,NY,NM-NG,NYISO,cattaraugus_ny
+0617,Watkins Glen Solar,50.0,Solar,2017-03-27,01-2025,Schuyler,NY,NYSEG,NYISO,schuyler_ny
+0620,North Side Solar,180.0,Solar,2017-03-27,12-2024,St. Lawrence,NY,NYPA,NYISO,stlawrence_ny
+0637,Flint Mine Solar,100.0,Solar,2017-06-29,5-2026,Greene,NY,NM-NG,NYISO,greene_ny
+0644,Columbia County 1,60.0,Solar,2017-07-26,2-2027,Columbia,NY,NYSEG,NYISO,columbia_ny
+0670,SunEast Skyline Solar LLC,20.0,Solar,2017-09-21,4/2028,Westmoreland,NY,NM-NG,NYISO,westmoreland_ny
+0683,KCE NY 2,200.0,Storage,2018-01-18,06-2027,Montgomery,NY,CHG&E,NYISO,montgomery_ny
+0704,Bear Ridge Solar,100.0,Solar,2018-03-20,02-2025,Niagara,NY,NM-NG,NYISO,niagara_ny
+0706,High Bridge Wind,100.8,Wind,2018-04-25,02-2025,Chenango,NY,NYSEG,NYISO,chenango_ny
+0710,Horseshoe Solar,180.0,Solar,2018-05-29,12-2025,Livingston,NY,NM-NG,NYISO,livingston_ny
+0716,Moraine Solar Energy Center,93.5,Solar,2018-06-04,10-2027,Allegany,NY,NYSEG,NYISO,allegany_ny
+0720,Trelina Solar Energy Center,79.8,Solar,2018-06-07,01-2025,Seneca,NY,NYSEG,NYISO,seneca_ny
+0721,Excelsior Energy Center,280.0,Solar,2018-06-07,11-2026,Genesee,NY,NYPA,NYISO,genesee_ny
+0734,Ticonderoga Solar,20.0,Solar,2018-06-12,03-2025,Essex,NY,NM-NG,NYISO,essex_ny
+0737,Empire Wind 1,816.0,Wind,2018-06-12,12-2026,Kings,NY,ConEd,NYISO,kings_ny
+0744,Magruder BESS,20.0,Storage,2018-07-18,01-2025,Ulster,NY,CHG&E,NYISO,ulster_ny
+0766,Sunrise Wind,880.0,Wind,2018-09-28,03-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0774,Tracy Solar Energy Centre,119.0,Solar,2018-10-18,11-2028,Jefferson,NY,NM-NG,NYISO,jefferson_ny
+0777,White Creek Solar,135.0,Solar,2018-11-01,11-2027,Livingston,NY,RG&E,NYISO,livingston_ny
+0783,South Ripley Solar and BESS,270.0,Solar+Storage,2018-12-07,01-2027,Chautauqua,NY,NM-NG,NYISO,chautauqua_ny
+0787,"Levy Grid, LLC",150.0,Storage,2018-12-20,08-2025,Erie,NY,NM-NG,NYISO,erie_ny
+0800,Rich Road Solar Energy Center,240.0,Solar+Storage,2019-02-20,04-2028,St. Lawrence,NY,NYPA,NYISO,stlawrence_ny
+0801,Prattsburgh Wind Farm,147.0,Wind,2019-02-21,12-2025,Steuben,NY,NYSEG,NYISO,steuben_ny
+0804,KCE NY 10,20.0,Storage,2019-03-22,10-2026,Erie,NY,NYSEG,NYISO,erie_ny
+0805,Oxbow Hill Solar,140.0,Solar,2019-03-22,12-2026,Madison,NY,NM-NG,NYISO,madison_ny
+0807,Hilltop Solar,20.0,Solar,2019-03-28,05/2028,Rensselaer,NY,NM-NG,NYISO,rensselaer_ny
+0811,Cider Solar,500.0,Solar,2019-04-03,01-2027,Genesee,NY,NYPA,NYISO,genesee_ny
+0815,Bayonne Energy Center III,49.8,Storage,2019-04-05,09-2026,Kings,NY,ConEd,NYISO,kings_ny
+0825,Setauket Energy Storage,65.3,Storage,2019-04-15,04-2028,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0827,Arthur Kill Energy Storage 1,15.0,Storage,2019-04-22,09-2025,Richmond,NY,ConEd,NYISO,richmond_ny
+0828,Valley Solar,20.0,Solar,2019-04-24,11-2024,Tioga,NY,NYSEG,NYISO,tioga_ny
+0832,CS Hawthorn Solar,20.0,Solar,2019-05-06,12-2026,Rensselaer,NY,NM-NG,NYISO,rensselaer_ny
+0833,Dolan Solar,20.0,Solar,2019-05-06,12-2026,Washington,NY,NM-NG,NYISO,washington_ny
+0834,Luyster Creek Energy Storage 2,79.0,Storage,2019-05-07,05-2027,Queens,NY,ConEd,NYISO,queens_ny
+0835,Luyster Creek Energy Storage 1,56.3,Storage,2019-05-07,05-2026,Queens,NY,ConEd,NYISO,queens_ny
+0843,NY37 Solar,20.0,Solar,2019-05-17,11-2025,Jefferson,NY,NM-NG,NYISO,jefferson_ny
+0848,Fairway Solar,20.0,Solar,2019-05-20,03-2025,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
+0855,NY13 Solar,20.0,Solar,2019-05-24,06-2025,Washington,NY,NM-NG,NYISO,washington_ny
+0863,Highbanks Solar,20.0,Solar,2019-05-29,02-2026,Livingston,NY,RG&E,NYISO,livingston_ny
+0864,NY38 Solar,120.0,Solar,2019-05-29,12-2026,Jefferson,NY,NM-NG,NYISO,jefferson_ny
+0865,Flat Hill Solar,20.0,Solar,2019-05-31,12-2025,Herkimer,NY,NM-NG,NYISO,herkimer_ny
+0880,Brookside Solar,100.0,Solar,2019-06-10,06-2027,Franklin,NY,NYSEG,NYISO,franklin_ny
+0882,Riverside Solar,100.0,Solar,2019-06-10,12-2027,Jefferson,NY,NM-NG,NYISO,jefferson_ny
+0883,Garnet Energy Center,200.0,Solar,2019-06-11,11-2025,Cayuga,NY,NYPA,NYISO,cayuga_ny
+0885,Grassy Knoll Solar,20.0,Solar,2019-06-12,12-2025,Herkimer,NY,NM-NG,NYISO,herkimer_ny
+0907,Harlem River Yard,79.9,Storage,2019-09-04,12-2026,Queens,NY,NYPA,NYISO,queens_ny
+0930,Astoria BES to 27kV North Queens,15.0,Storage,2019-10-25,12-2025,Queens,NY,ConEd,NYISO,queens_ny
+0931,Astoria Energy Storage,100.0,Storage,2019-10-28,03-2026,Queens,NY,ConEd,NYISO,queens_ny
+0932,Hatchery Solar,20.0,Solar,2019-10-29,05-2025,Livingston,NY,NM-NG,NYISO,livingston_ny
+0950,Hemlock Ridge Solar,200.0,Solar,2019-11-21,08-2027,Orleans,NY,NM-NG,NYISO,orleans_ny
+0953,Sugar Maple Solar,125.0,Solar,2019-12-05,12-2027,Lewis,NY,NM-NG,NYISO,lewis_ny
+0956,Holtsville 138kV Energy Storage,110.0,Storage,2019-12-10,09-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0957,Holbrook Energy Storage,76.8,Storage,2019-12-10,12-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0960,Cobleskill Solar,20.0,Solar,2019-12-12,12-2025,Schoharie,NY,NM-NG,NYISO,schoharie_ny
+0965,Yaphank Energy Storage,76.8,Storage,2019-12-21,09-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0967,KCE NY 5,94.0,Storage,2019-12-27,12-2027,Ulster,NY,CHG&E,NYISO,ulster_ny
+0971,East Setauket Energy Storage,125.0,Storage,2020-01-10,04-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0972,Warner Hill Solar,20.0,Solar,2020-01-10,05-2026,Schoharie,NY,NM-NG,NYISO,schoharie_ny
+0987,Sunrise Wind II,44.0,Wind,2020-01-29,03-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
+0995,Alabama Solar Park LLC,130.0,Solar,2020-02-27,10-2028,Genesee,NY,NM-NG,NYISO,genesee_ny
+1000,SunEast Flat Stone Solar LLC,20.0,Solar,2020-03-18,11-2026,Oneida,NY,NM-NG,NYISO,oneida_ny
+1003,Clear View Solar,20.0,Solar,2020-04-06,12-2025,Steuben,NY,NYSEG,NYISO,steuben_ny
+1007,NYC Energy LLC - Phase 2,220.1,Storage,2020-04-22,06-2027,Kings,NY,ConEd,NYISO,kings_ny
+1009,Yellow Barn Solar,160.0,Solar,2020-04-30,12-2025,Tompkins,NY,NYSEG,NYISO,tompkins_ny
+1012,Suffolk County Storage II,76.8,Storage,2020-05-04,04-2028,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1015,"Somers Solar, LLC",20.0,Solar,2020-05-05,12-2026,Washington,NY,NM-NG,NYISO,washington_ny
+1031,Mill Point Solar,250.0,Solar+Storage,2020-06-18,12-2028,Montgomery,NY,NM-NG,NYISO,montgomery_ny
+1039,Morris Solar,20.0,Solar,2021-01-06,12-2025,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
+1047,Millers Grove Solar,20.0,Solar,2020-07-09,12-2026,Herkimer,NY,NM-NG,NYISO,herkimer_ny
+1051,Transit Solar,20.0,Solar,2020-07-21,12-2025,Genesee,NY,NM-NG,NYISO,genesee_ny
+1079,Somerset Solar,125.0,Solar,2020-08-18,03-2027,Niagara,NY,NYSEG,NYISO,niagara_ny
+1080,Mineral Basin Solar Power,401.6,Solar,2020-08-21,05-2028,Clearfield,PA,NYSEG,NYISO,clearfield_pa
+1089,Flat Creek Solar,200.0,Solar,2020-09-04,11-2028,Montgomery,NY,NYPA,NYISO,montgomery_ny
+1096,Alfred Oaks Solar,100.0,Solar+Storage,2020-09-14,11-2027,Allegany,NY,NYSEG,NYISO,allegany_ny
+1113,CLIES 20 MW,20.0,Storage,2020-11-18,12-2025,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1115,Flat Creek Solar 2,100.0,Solar,2020-11-23,11-2028,Montgomery,NY,NYPA,NYISO,montgomery_ny
+1117,CLIES 70MW,70.0,Storage,2020-11-25,12-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1122,East Fishkill,205.0,Storage,2020-12-11,11-2028,Dutchess,NY,CHG&E,NYISO,dutchess_ny
+1123,KCE NY 29,150.0,Storage,2020-12-14,10-2027,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1130,Hoffman Falls Wind,72.0,Wind,2021-01-27,12-2027,Madison,NY,NM-NG,NYISO,madison_ny
+1148,Agricola Wind,97.0,Wind,2021-03-10,12-2027,Cayuga,NY,NYSEG,NYISO,cayuga_ny
+1150,Moss Ridge Solar,60.0,Solar,2021-03-16,11-2028,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
+1151,York Run Solar,90.0,Solar,2021-03-18,08-2026,Chautauqua,NY,NM-NG,NYISO,chautauqua_ny
+1156,Cody Road Wind Farm,19.9,Wind,2021-04-08,07-2025,Madison,NY,NM-NG,NYISO,madison_ny
+1166,BR Benson Mines Solar,12.1,Solar,2021-05-07,10-2026,St. Lawrence,NY,NM-NG,NYISO,stlawrence_ny
+1171,ELP Stuyvesant Solar,20.0,Solar,2021-05-14,11-2026,Columbia,NY,Transco,NYISO,columbia_ny
+1183,NY125A - Fort Covington Solar,250.0,Solar,2021-05-20,08-2027,Franklin,NY,NYPA,NYISO,franklin_ny
+1184,NY125B - Two Rivers Solar,200.0,Solar,2021-05-20,08-2027,St-Lawrence,NY,NYPA,NYISO,stlawrence_ny
+1188,"North Seneca Solar Project, LLC",105.0,Solar,2021-05-27,09-2027,Seneca,NY,NM-NG,NYISO,seneca_ny
+1194,"Crane Brook Solar Project, LLC",130.0,Solar,2021-06-03,09-2027,Cayuga,NY,NM-NG,NYISO,cayuga_ny
+1227,18405 Scotch Ridge,20.0,Solar,2021-08-04,12-2025,Schenectady,NY,NM-NG,NYISO,schenectady_ny
+1237,Sugar Maple Energy Storage,20.0,Storage,2021-08-24,12-2026,Jefferson,NY,NM-NG,NYISO,jefferson_ny
+1254,Barrett Hempstead Battery Storage,40.0,Storage,2021-09-22,03-2025,Nassau,NY,LIPA,NYISO,nassau_ny
+1255,Holtsville Brookhaven Battery Storage,79.9,Storage,2021-09-22,03-2026,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1256,Canal Southampton Battery Storage,100.0,Storage,2021-09-22,03-2025,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1257,Edwards Calverton Battery Storage,60.0,Storage,2021-09-22,03-2025,Suffolk,NY,LIPA,NYISO,suffolk_ny
+1313,Queensbury BESS,20.0,Storage,2021-12-12,12-2026,Warren,NY,NM-NG,NYISO,warren_ny
+1329,ELP Granby Solar II,20.0,Solar+Storage,2022-02-11,12-2026,Oswego,NY,NM-NG,NYISO,oswego_ny
