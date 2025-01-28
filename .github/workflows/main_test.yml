@@ -22,7 +22,6 @@ jobs:
     - name: Install Chrome and Chromedriver
       run: |
         sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
         sudo apt-get install -y chromium-driver
 
     - name: Install dependencies
@@ -49,5 +48,4 @@ jobs:
       env:
         DISPLAY: :99
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        CHROME_BIN: /usr/bin/google-chrome-stable
-        CHROMIUM_DRIVER: /usr/bin/chromedriver
+        CHROMIUM_DRIVER: /usr/bin/chromium-driver
