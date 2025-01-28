@@ -22,28 +22,8 @@ jobs:
     - name: Install Chrome and Chromedriver
       run: |
         sudo apt-get update
-        sudo apt-get install -y wget unzip
         sudo apt-get install -y google-chrome-stable
-        
-        # Get Chrome major version
-        CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d'.' -f1)
-        echo "Chrome Version: $CHROME_VERSION"
-        
-        # Attempt to download the specific Chromedriver version
-        if wget -q --spider "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION"; then
-          wget -q "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION" -O LATEST_RELEASE
-          CHROMEDRIVER_VERSION=$(cat LATEST_RELEASE)
-        else
-          echo "Specific Chromedriver version for Chrome $CHROME_VERSION not found. Fetching the latest release."
-          wget -q "https://chromedriver.storage.googleapis.com/LATEST_RELEASE" -O LATEST_RELEASE
-          CHROMEDRIVER_VERSION=$(cat LATEST_RELEASE)
-        fi
-        
-        echo "Using Chromedriver Version: $CHROMEDRIVER_VERSION"
-        wget "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
-        unzip chromedriver_linux64.zip
-        sudo mv chromedriver /usr/local/bin/
-        sudo chmod +x /usr/local/bin/chromedriver
+        sudo apt-get install -y chromium-driver
 
     - name: Install dependencies
       run: |
@@ -67,4 +47,7 @@ jobs:
         git diff --cached --exit-code || git commit -m "Update multiple files"
         git push
       env:
+        DISPLAY: :99
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CHROME_BIN: /usr/bin/google-chrome-stable
+        CHROMIUM_DRIVER: /usr/bin/chromium-driver

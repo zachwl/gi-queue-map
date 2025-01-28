@@ -4,7 +4,7 @@ import time
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
@@ -21,9 +21,9 @@ def getSOCOQueue():
 
         #### Configure options for web driver
         options = webdriver.ChromeOptions()
-        options.add_argument("-headless")
+        options.add_argument("--headless")
         options.add_argument("--window-size=1920x1080")  # Open the browser in maximized mode
-        driver = webdriver.Chrome(options=options)
+        driver = webdriver.Chrome(service=Service("/usr/bin/chromium-driver"),options=options)
         url = "https://app.powerbi.com/view?r=eyJrIjoiN2U3YjcxMDAtZTgzMy00N2RjLWFlZDctYmM0YzY2NGNmZTMzIiwidCI6ImMwYTAyZTJkLTExODYtNDEwYS04ODk1LTBhNGEyNTJlYmYxNyIsImMiOjN9"
         driver.get(url)
 
