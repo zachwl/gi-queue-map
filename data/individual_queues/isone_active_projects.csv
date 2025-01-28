@@ -1,4 +1,5 @@
 id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owner,iso_utility,join_key
+1601,BESS,5.0,Storage,2025-01-14,2027-02-03,Essex,MA,,ISONE,essex_ma
 1600,Chazy Lake BESS (NYISO-C24-308),50.0,Storage,2024-12-12,2028-08-01,Clinton,NY,,ISONE,clinton_ny
 1599,Dover NY BESS (NYISO-C24-316),1000.0,Storage,2024-12-12,2028-05-01,Dutchess,NY,,ISONE,dutchess_ny
 1598,Zenobe Rotterdam LLC (NYISO-C24-191),100.0,Storage,2024-12-12,2028-06-01,Schenectady,NY,,ISONE,schenectady_ny
@@ -85,7 +86,6 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1489,EE Mansfield Center DG Cluster,11.0,Solar+Storage,2024-01-17,2025-07-27,Tolland,CT,,ISONE,tolland_ct
 1488,Offshore Wind,1275.0,Wind,2024-01-11,2031-09-01,,CT,,ISONE,
 1487,EE CT DG Group Study,5.0,Solar,2024-01-09,2024-12-31,New Haven,CT,,ISONE,newhaven_ct
-1486,Battery Storage,300.0,Storage,2024-01-02,2027-06-30,New Haven,CT,,ISONE,newhaven_ct
 1484,CMP Moshers/Prides Corner 115 kV SS - Greater Portland Area DG Study,4.0,Other,2023-12-29,2024-12-31,Cumberland,ME,CMP,ISONE,cumberland_me
 1483,CMP Elm St 115 kV SS - Greater Portland Area DG Study,5.0,Solar,2023-12-29,2024-12-31,Cumberland,ME,CMP,ISONE,cumberland_me
 1482,CMP Spring St 115 kV SS - Greater Portland Area DG Study,5.0,Solar,2023-12-29,2024-12-31,Cumberland,ME,CMP,ISONE,cumberland_me
@@ -210,7 +210,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1239,Solar plus Battery,129.0,Solar+Storage,2022-03-25,2026-04-21,Oxford,ME,,ISONE,oxford_me
 1238,Battery Storage,301.0,Storage,2022-03-22,2026-11-23,Norfolk,MA,,ISONE,norfolk_ma
 1237,Battery Storage CNR only,0.0,Storage,2022-03-21,2026-06-01,Washinton,RI,,ISONE,washinton_ri
-1226,Solar,5.0,Solar,2022-03-04,2025-05-15,Sullivan,NH,ISO-NE,ISONE,sullivan_nh
+1226,Grissom Solar,5.0,Solar,2022-03-04,2025-05-15,Sullivan,NH,ISO-NE,ISONE,sullivan_nh
 1225,Offshore Wind,1200.0,Wind,2022-02-03,2029-01-31,,MA,,ISONE,
 1222,Group @ Berkshire 18C,8.0,Solar+Storage,2022-01-14,2023-11-30,Hampden,MA,,ISONE,hampden_ma
 1221,Cumberland 22B - WMA ASO,5.0,Solar+Storage,2022-01-14,2023-11-30,Hampden,MA,,ISONE,hampden_ma
@@ -269,7 +269,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1139,Turner Meadow Solar,20.0,Solar,2021-06-04,2026-11-20,Androscoggin ,ME,ISO-NE,ISONE,androscoggin_me
 1138,Husky Solar,50.0,Solar,2021-06-03,2028-05-10,Windham,CT,ISO-NE,ISONE,windham_ct
 1137,Nasonville Substation – NG RI-Nasonville-21-Comp-1 Study,10.0,Solar,2021-05-25,2023-03-15,Providence,RI,,ISONE,providence_ri
-1136,Solar,20.0,Solar,2021-05-20,2026-05-15,Strafford,NH,ISO-NE,ISONE,strafford_nh
+1136,Nutes Solar,20.0,Solar,2021-05-20,2026-05-15,Strafford,NH,ISO-NE,ISONE,strafford_nh
 1134,Noresco Navy,11.0,Natural Gas,2021-05-06,2023-04-15,New London,CT,,ISONE,newlondon_ct
 1123,Naugatuck Avenue Battery Storage CNR Only (see QP1089),0.0,Storage,2021-04-21,2026-12-01,New Haven,CT,,ISONE,newhaven_ct
 1121,Offshore wind,1200.0,Wind,2021-04-16,2033-05-31,,MA,,ISONE,
@@ -309,7 +309,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1038,Solar,76.0,Solar,2020-08-07,2025-10-31,Merrimack,NH,ISO-NE,ISONE,merrimack_nh
 1033,Solar,6.0,Solar,2020-06-24,2024-09-01,Ellington,CT,NU,ISONE,ellington_ct
 1032,Eversource Group @ Bell Rock #661,12.0,Solar+Storage,2020-06-23,2023-11-30,Bristol,MA,,ISONE,bristol_ma
-1030,Gravel Pit Solar Increase,45.0,Solar,2020-06-02,2024-11-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
+1030,Gravel Pit Solar Increase,45.0,Solar,2020-06-02,2025-02-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
 1028,Western Maine Wind Project,59.0,Wind,2020-05-28,2025-01-29,Somerset,ME,ISO-NE,ISONE,somerset_me
 1021,Emery Meadow Solar,16.0,Solar,2020-04-27,2026-09-30,York,ME,ISO-NE,ISONE,york_me
 1017,Battery Storage,200.0,Storage,2020-04-24,2026-10-01,New Haven,CT,ISO-NE,ISONE,newhaven_ct
@@ -335,7 +335,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 991,Solar,2.0,Solar,2020-04-09,2023-11-30,Franklin,MA,NU,ISONE,franklin_ma
 990,Solar,5.0,Solar,2020-04-09,2023-11-30,Berkshire,MA,NU,ISONE,berkshire_ma
 989,Eversource Group Study @ Blandford,12.0,Solar,2020-04-09,2023-11-30,Hampden,MA,NU,ISONE,hampden_ma
-986,Solar,20.0,Solar,2020-04-07,2024-11-18,Penobscot,ME,ISO-NE,ISONE,penobscot_me
+986,Solar,20.0,Solar,2020-04-07,2027-09-30,Penobscot,ME,ISO-NE,ISONE,penobscot_me
 982,Wind,4.0,Wind,2020-03-30,2024-09-01,Litchfield,CT,,ISONE,litchfield_ct
 978,Eversource Group Study @ Wing Lane,5.0,Solar,2020-03-25,2023-11-30,Bristol,MA,NSTAR,ISONE,bristol_ma
 977,Eversource Group Study @ Wareham,55.0,Solar+Storage,2020-03-25,2023-11-30,Plymouth,MA,NSTAR,ISONE,plymouth_ma
@@ -360,13 +360,13 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 953,BD Solar Church Hill ,20.0,Solar,2020-02-19,2026-12-31,Androscoggin,ME,ISO-NE,ISONE,androscoggin_me
 949,Fuel Cell,10.0,Natural Gas,2020-01-23,2024-12-01,Fairfield,CT,UI,ISONE,fairfield_ct
 944,Bay State Wind 4 Offshore Wind,1200.0,Wind,2019-12-18,2033-11-04,,MA,ISO-NE,ISONE,
-940,Gravel Pit Solar increase,25.0,Solar,2019-12-04,2024-11-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
+940,Gravel Pit Solar increase,25.0,Solar,2019-12-04,2025-02-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
 935,West Baldwin Solar,17.0,Solar,2019-10-30,2029-09-30,Cumberland,ME,ISO-NE,ISONE,cumberland_me
 929,GDC Saco Solar ,20.0,Solar,2019-10-15,2025-04-30,York,ME,ISO-NE,ISONE,york_me
 923,Solar,20.0,Solar,2019-09-03,2025-01-15,Androscoggin,ME,CMP,ISONE,androscoggin_me
 910,Mousam River Solar,20.0,Solar,2019-08-15,2025-09-30,York,ME,ISO-NE,ISONE,york_me
 896,Saco Solar,20.0,Solar,2019-07-17,2026-07-01,York,ME,ISO-NE,ISONE,york_me
-892,Gravel Pit Solar,50.0,Solar,2019-06-05,2024-11-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
+892,Gravel Pit Solar,50.0,Solar,2019-06-05,2025-02-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
 883,Kendall Combined Cycle increase,16.0,Other,2019-04-24,2025-06-01,Middlesex,MA,ISO-NE,ISONE,middlesex_ma
 877,Energy Storage,170.0,Storage,2019-04-11,2027-07-26,Norfolk,MA,ISO-NE,ISONE,norfolk_ma
 874,Cross Town Battery Storage,175.0,Storage,2019-04-08,2025-08-29,Cumberland,ME,ISO-NE,ISONE,cumberland_me
