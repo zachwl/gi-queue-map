@@ -407,7 +407,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 780,"Combined Reciprocating, Solar and Battery modification",0.0,Other,2018-09-11,2022-05-31,Middlesex,MA,NGRID,ISONE,middlesex_ma
 774,Solar,8.0,Solar,2018-08-13,2021-07-15,Washington,RI,NGRID,ISONE,washington_ri
 766,Solar,5.0,Solar,2018-05-22,2024-11-24,Washington,RI,NGRID,ISONE,washington_ri
-760,Downeast Wind,126.0,Wind,2018-04-26,2025-01-31,Washington,ME,ISO-NE,ISONE,washington_me
+760,Downeast Wind,126.0,Wind,2018-04-26,2025-02-14,Washington,ME,ISO-NE,ISONE,washington_me
 758,Ocean State Power uprate,73.0,Other,2018-04-26,2025-11-30,Providence,RI,ISO-NE,ISONE,providence_ri
 726,Cranberry Point Energy Storage,150.0,Storage,2018-03-21,2025-05-30,Plymouth,MA,ISO-NE,ISONE,plymouth_ma
 710,Solar,20.0,Solar,2018-02-21,2025-01-07,Litchfield,CT,NU,ISONE,litchfield_ct

@@ -479,7 +479,6 @@ J3232,CAYUGA STATION,475.5,Natural Gas,2024-04-11,2028-08-31,Vermillion,IN,"DUKE
 J1194,Murphy 138 kV Substation,225.2,Wind,2019-04-24,2021-10-01,Midland County,MI,METC,MISO,midlandcounty_mi
 J1198,Newton 345kV Substation,51.8,Solar+Storage,2019-04-25,2021-06-15,Jasper,IL,AMEREN ILLINOIS,MISO,jasper_il
 J1241,West Mt Vernon - Xenia 345kV Line,200.0,Solar,2019-04-29,2022-09-01,Jefferson,IL,AMEREN ILLINOIS,MISO,jefferson_il
-J1367,Caneland 230kV Substation,95.0,Solar,2019-04-29,2021-07-01,St. Mary,LA,CLECO POWER LLC,MISO,stmary_la
 J1444,Duane Arnold 345kV Substation,200.0,Solar,2019-04-29,2015-08-01,Linn,IA,ITC MIDWEST,MISO,linn_ia
 J1488,McCredie - Montgomery 345 kV Line Tap,500.0,Other,2019-04-29,2024-03-31,Randolph,MO,Ameren Missouri,MISO,randolph_mo
 J1485,Astoria 345 kV Substation (J493/J510),250.0,Wind,2019-04-29,2022-10-30,Deuel,SD,OTTER TAIL POWER COMPANY,MISO,deuel_sd
@@ -923,6 +922,7 @@ J2316,Nordic 138kV Substation,77.5,Solar,2021-09-16,2023-09-15,Dickinson,MI,AMER
 J2317,Sterlington - Bastrop 115 kV,225.0,Solar,2021-12-21,2024-10-31,Ouachita,LA,CLECO POWER LLC,MISO,ouachita_la
 J2324,Shirland Ave Tap (Y-54) to Shaw 69kV,35.0,Solar+Storage,2022-09-08,2027-02-24,Winnebago,IL,AMERICAN TRANSMISSION COMPANY,MISO,winnebago_il
 J2334,Redhawk Substation 138kV,195.0,Solar,2022-09-14,2027-09-01,Montgomery,IL,AMEREN ILLINOIS,MISO,montgomery_il
+J3838,DELHI - TOMPKINS 138.0kV,225.0,Solar,2024-04-18,2028-11-01,Ingham,MI,METC,MISO,ingham_mi
 J3526,NORTH ROCHESTER,200.0,Storage,2024-04-15,2027-12-31,Goodhue,MN,NORTHERN STATES POWER COMPANY,MISO,goodhue_mn
 J3525,SUB 47,300.0,Storage,2024-04-17,2028-09-06,Rock Island,IL,MIDAMERICAN ENERGY CO.,MISO,rockisland_il
 J3532,ROSEAU COUNTY,500.0,Solar,2024-04-18,2028-09-30,Roseau,MN,NORTHERN STATES POWER COMPANY,MISO,roseau_mn
