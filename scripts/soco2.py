@@ -23,8 +23,10 @@ def getSOCOQueue():
         options = webdriver.ChromeOptions()
         options.add_argument("--headless")
         options.add_argument("--window-size=1920x1080")  # Open the browser in maximized mode
+        options.add_argument("--no-sandbox")  # Bypass OS security model
+        options.add_argument("--disable-dev-shm-usage")  # Overcome limited resource problems
         #options.binary_location = "/usr/bin/google-chrome-stable"
-        driver = webdriver.Chrome(service=Service("/usr/bin/chromium-driver"),options=options)
+        driver = webdriver.Chrome(service=Service("/usr/bin/chromedriver"),options=options)
         url = "https://app.powerbi.com/view?r=eyJrIjoiN2U3YjcxMDAtZTgzMy00N2RjLWFlZDctYmM0YzY2NGNmZTMzIiwidCI6ImMwYTAyZTJkLTExODYtNDEwYS04ODk1LTBhNGEyNTJlYmYxNyIsImMiOjN9"
         driver.get(url)
 

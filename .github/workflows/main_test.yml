@@ -21,8 +21,10 @@ jobs:
 
     - name: Install Chrome and Chromedriver
       run: |
-        sudo apt-get update
-        sudo apt-get install -y chromium-driver
+          sudo apt update
+          sudo apt install -y chromium-browser chromium-chromedriver
+          echo "CHROME_BIN=$(which chromium-browser)" >> $GITHUB_ENV
+          echo "CHROMEDRIVER_BIN=$(which chromedriver)" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
@@ -46,6 +48,4 @@ jobs:
         git diff --cached --exit-code || git commit -m "Update multiple files"
         git push
       env:
-        DISPLAY: :99
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        CHROMIUM_DRIVER: /usr/bin/chromium-driver
