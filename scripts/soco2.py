@@ -89,6 +89,8 @@ def getSOCOQueue():
         soco_active_projects['county'] = soco_active_projects['Gen Facility Location'].apply(lambda x: x.split(' County')[0] if ' County' in x else x)
         # Create column for transmission owner (everything is Southern Company)
         soco_active_projects['Transmission Owner'] = 'Southern Company'
+        # Change project size to integer
+        soco_active_projects['Total Net MW'] = pd.to_numeric(soco_active_projects['Total Net MW'], errors='coerce')
         # Because SoCo lists their fuel and facility types in one column,
         # we need to use a function that will extract just the fuel 
         # This function all fuels for each project as a string
