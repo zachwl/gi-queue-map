@@ -1,6 +1,6 @@
 import pandas as pd
 import geopandas as gpd
-import miso, pjm, isone, nyiso, soco, tva, duke
+import miso, pjm, isone, nyiso, soco2, tva, duke
 
 from utils import createJoinKey, sendEmail
 
@@ -13,7 +13,7 @@ def main():
     pjm_queue = pjm.getPJMQueue()
     isone_queue = isone.getISONEQueue()
     nyiso_queue = nyiso.getNYISOQueue()
-    soco_queue = soco.getSOCOQueue()
+    soco_queue = soco2.getSOCOQueue()
     tva_queue = tva.getTVAQueue()
     duke_queue = duke.getDukeQueue()
 
