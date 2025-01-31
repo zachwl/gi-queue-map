@@ -154,9 +154,9 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 1359,Fuel Cell,2.0,Other,2023-02-22,2024-12-31,Hartford,CT,,ISONE,hartford_ct
 1358,Battery Storage,100.0,Storage,2023-02-21,2026-07-31,Hartford,CT,,ISONE,hartford_ct
 1357,Solar Increase,5.0,Solar,2023-02-16,2026-06-15,Hartford,CT,,ISONE,hartford_ct
-1355,Battery Storage,136.0,Storage,2023-02-06,2024-10-01,New Haven,CT,,ISONE,newhaven_ct
-1353,Battery Storage,289.0,Storage,2023-02-06,2024-10-01,New London,CT,,ISONE,newlondon_ct
-1352,Battery Storage,263.0,Storage,2023-02-06,2024-10-01,New Haven,CT,,ISONE,newhaven_ct
+1355,Battery Storage,136.0,Storage,2023-02-06,2027-10-01,New Haven,CT,,ISONE,newhaven_ct
+1353,Battery Storage,289.0,Storage,2023-02-06,2027-10-01,New London,CT,,ISONE,newlondon_ct
+1352,Battery Storage,263.0,Storage,2023-02-06,2027-10-01,New Haven,CT,,ISONE,newhaven_ct
 1351,Battery Storage,156.0,Storage,2023-02-06,2027-10-01,Fairfield,CT,,ISONE,fairfield_ct
 1349,Scitico DG Cluster,5.0,Solar+Storage,2023-01-26,2023-12-31,Hartford,CT,,ISONE,hartford_ct
 1348,Battery Storage,5.0,Storage,2023-01-26,2025-07-27,Middlesex,CT,,ISONE,middlesex_ct
@@ -363,14 +363,14 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 940,Gravel Pit Solar increase,25.0,Solar,2019-12-04,2025-02-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
 935,West Baldwin Solar,17.0,Solar,2019-10-30,2029-09-30,Cumberland,ME,ISO-NE,ISONE,cumberland_me
 929,GDC Saco Solar ,20.0,Solar,2019-10-15,2025-04-30,York,ME,ISO-NE,ISONE,york_me
-923,Solar,20.0,Solar,2019-09-03,2025-01-15,Androscoggin,ME,CMP,ISONE,androscoggin_me
+923,Solar,20.0,Solar,2019-09-03,2025-02-12,Androscoggin,ME,CMP,ISONE,androscoggin_me
 910,Mousam River Solar,20.0,Solar,2019-08-15,2025-09-30,York,ME,ISO-NE,ISONE,york_me
 896,Saco Solar,20.0,Solar,2019-07-17,2026-07-01,York,ME,ISO-NE,ISONE,york_me
 892,Gravel Pit Solar,50.0,Solar,2019-06-05,2025-02-07,Hartford,CT,ISO-NE,ISONE,hartford_ct
 883,Kendall Combined Cycle increase,16.0,Other,2019-04-24,2025-06-01,Middlesex,MA,ISO-NE,ISONE,middlesex_ma
 877,Energy Storage,170.0,Storage,2019-04-11,2027-07-26,Norfolk,MA,ISO-NE,ISONE,norfolk_ma
 874,Cross Town Battery Storage,175.0,Storage,2019-04-08,2025-08-29,Cumberland,ME,ISO-NE,ISONE,cumberland_me
-870,Solar,6.0,Solar,2019-03-26,2025-01-13,Providence,RI,NGRID,ISONE,providence_ri
+870,Solar,6.0,Solar,2019-03-26,2025-02-10,Providence,RI,NGRID,ISONE,providence_ri
 869,Solar,6.0,Solar,2019-03-26,2025-02-13,Providence,RI,NGRID,ISONE,providence_ri
 865,West Hampden 139 substation - NG Western MA Area Cluster Study,13.0,Solar,2019-03-21,2023-03-10,Hampden,MA,NGRID,ISONE,hampden_ma
 864,W. Charlton substation - NG Western MA Area Cluster Study,17.0,Solar,2019-03-21,2022-10-10,Worcester,MA,NGRID,ISONE,worcester_ma
@@ -398,19 +398,19 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 808,Barre substation - NG Western MA Area Cluster Study,12.0,Solar,2018-12-14,2022-12-30,Worcester,MA,NGRID,ISONE,worcester_ma
 807,FPS Panton Solar,50.0,Solar,2018-12-13,2026-05-31,Addison,VT,ISO-NE,ISONE,addison_vt
 806,Offshore Wind,827.0,Wind,2018-12-12,2025-10-15,,MA,ISO-NE,ISONE,
-805,Solar,11.0,Solar,2018-12-10,2025-01-15,Middletown,RI,NGRID,ISONE,middletown_ri
+805,Solar,11.0,Solar,2018-12-10,2025-02-07,Middletown,RI,NGRID,ISONE,middletown_ri
 797,Solar,8.0,Solar,2018-11-05,2020-12-30,Worcester,MA,NGRID,ISONE,worcester_ma
-794,Solar (QF),10.0,Solar,2018-10-26,2025-02-01,North Kingstown,RI,NGRID,ISONE,northkingstown_ri
-793,Solar (QF),40.0,Solar,2018-10-26,2025-01-30,North Kingstown,RI,NGRID,ISONE,northkingstown_ri
+794,Solar (QF),10.0,Solar,2018-10-26,2025-04-01,North Kingstown,RI,NGRID,ISONE,northkingstown_ri
+793,Solar (QF),40.0,Solar,2018-10-26,2025-02-28,North Kingstown,RI,NGRID,ISONE,northkingstown_ri
 789,CHP,6.0,Natural Gas,2018-09-28,2021-06-30,Newport,RI,NGRID,ISONE,newport_ri
 781,Revoultion Offshore wind,704.0,Wind,2018-09-13,2025-09-07,,RI,ISO-NE,ISONE,
 780,"Combined Reciprocating, Solar and Battery modification",0.0,Other,2018-09-11,2022-05-31,Middlesex,MA,NGRID,ISONE,middlesex_ma
 774,Solar,8.0,Solar,2018-08-13,2021-07-15,Washington,RI,NGRID,ISONE,washington_ri
-766,Solar,5.0,Solar,2018-05-22,2024-11-24,Washington,RI,NGRID,ISONE,washington_ri
-760,Downeast Wind,126.0,Wind,2018-04-26,2025-01-31,Washington,ME,ISO-NE,ISONE,washington_me
+766,Solar,5.0,Solar,2018-05-22,2025-02-28,Washington,RI,NGRID,ISONE,washington_ri
+760,Downeast Wind,126.0,Wind,2018-04-26,2025-02-14,Washington,ME,ISO-NE,ISONE,washington_me
 758,Ocean State Power uprate,73.0,Other,2018-04-26,2025-11-30,Providence,RI,ISO-NE,ISONE,providence_ri
 726,Cranberry Point Energy Storage,150.0,Storage,2018-03-21,2025-05-30,Plymouth,MA,ISO-NE,ISONE,plymouth_ma
-710,Solar,20.0,Solar,2018-02-21,2025-01-07,Litchfield,CT,NU,ISONE,litchfield_ct
+710,Solar,20.0,Solar,2018-02-21,2025-02-06,Litchfield,CT,NU,ISONE,litchfield_ct
 700,Park City Offshore Wind,791.0,Wind,2017-12-15,2029-12-31,,MA,ISO-NE,ISONE,
 680,Fair Haven Solar,20.0,Solar,2017-08-03,2026-01-01,Rutland,VT,ISO-NE,ISONE,rutland_vt
 674,Shaftsbury Solar,20.0,Solar,2017-07-28,2026-01-01,Bennington,VT,ISO-NE,ISONE,bennington_vt
