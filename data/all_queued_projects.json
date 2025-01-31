@@ -2008,7 +2008,7 @@
     "capacity":289.0,
     "fuel":"Storage",
     "submitted_date":"2023-02-06",
-    "service_date":"2024-10-01",
+    "service_date":"2027-10-01",
     "county":"New London",
     "state":"CT",
     "transmission_owner":null,
@@ -2022,7 +2022,7 @@
     "capacity":263.0,
     "fuel":"Storage",
     "submitted_date":"2023-02-06",
-    "service_date":"2024-10-01",
+    "service_date":"2027-10-01",
     "county":"New Haven",
     "state":"CT",
     "transmission_owner":null,
@@ -2694,7 +2694,7 @@
     "capacity":136.0,
     "fuel":"Storage",
     "submitted_date":"2023-02-06",
-    "service_date":"2024-10-01",
+    "service_date":"2027-10-01",
     "county":"New Haven",
     "state":"CT",
     "transmission_owner":null,
@@ -3324,7 +3324,7 @@
     "capacity":40.0,
     "fuel":"Solar",
     "submitted_date":"2018-10-26",
-    "service_date":"2025-01-30",
+    "service_date":"2025-02-28",
     "county":"North Kingstown",
     "state":"RI",
     "transmission_owner":"NGRID",
@@ -3884,7 +3884,7 @@
     "capacity":20.0,
     "fuel":"Solar",
     "submitted_date":"2019-09-03",
-    "service_date":"2025-01-15",
+    "service_date":"2025-02-12",
     "county":"Androscoggin",
     "state":"ME",
     "transmission_owner":"CMP",
@@ -3940,7 +3940,7 @@
     "capacity":20.0,
     "fuel":"Solar",
     "submitted_date":"2018-02-21",
-    "service_date":"2025-01-07",
+    "service_date":"2025-02-06",
     "county":"Litchfield",
     "state":"CT",
     "transmission_owner":"NU",
@@ -4598,7 +4598,7 @@
     "capacity":11.0,
     "fuel":"Solar",
     "submitted_date":"2018-12-10",
-    "service_date":"2025-01-15",
+    "service_date":"2025-02-07",
     "county":"Middletown",
     "state":"RI",
     "transmission_owner":"NGRID",
@@ -4822,7 +4822,7 @@
     "capacity":10.0,
     "fuel":"Solar",
     "submitted_date":"2018-10-26",
-    "service_date":"2025-02-01",
+    "service_date":"2025-04-01",
     "county":"North Kingstown",
     "state":"RI",
     "transmission_owner":"NGRID",
@@ -5284,7 +5284,7 @@
     "capacity":6.0,
     "fuel":"Solar",
     "submitted_date":"2019-03-26",
-    "service_date":"2025-01-13",
+    "service_date":"2025-02-10",
     "county":"Providence",
     "state":"RI",
     "transmission_owner":"NGRID",
@@ -6096,7 +6096,7 @@
     "capacity":5.0,
     "fuel":"Solar",
     "submitted_date":"2018-05-22",
-    "service_date":"2024-11-24",
+    "service_date":"2025-02-28",
     "county":"Washington",
     "state":"RI",
     "transmission_owner":"NGRID",
@@ -7280,7 +7280,7 @@
     "join_key":"livingston_mi"
   },
   {
-    "index":3264,
+    "index":3265,
     "id":"R1053",
     "name":"Elm Road 345kV",
     "capacity":1138.0,
@@ -7294,7 +7294,7 @@
     "join_key":"milwaukee_"
   },
   {
-    "index":3248,
+    "index":3249,
     "id":"R1044",
     "name":"Cayuga Steam Station Switchyards 230kV and 345kV",
     "capacity":1040.0,
@@ -7350,7 +7350,7 @@
     "join_key":"sullivan_in"
   },
   {
-    "index":3242,
+    "index":3243,
     "id":"R1047",
     "name":"Meramec Substation 138kV",
     "capacity":824.0,
@@ -7406,7 +7406,7 @@
     "join_key":"wabash_il"
   },
   {
-    "index":3247,
+    "index":3248,
     "id":"R1040",
     "name":"Campbell Substation 345kV",
     "capacity":749.0,
@@ -7434,7 +7434,7 @@
     "join_key":"jefferson_tx"
   },
   {
-    "index":3171,
+    "index":3172,
     "id":"J3796",
     "name":"NELSON 230 SWYD",
     "capacity":735.0,
@@ -7476,7 +7476,7 @@
     "join_key":"hotspring_ar"
   },
   {
-    "index":3093,
+    "index":3094,
     "id":"J3538",
     "name":"Baxter 115\/34kV",
     "capacity":730.0,
@@ -7616,7 +7616,7 @@
     "join_key":"sullivan_in"
   },
   {
-    "index":3236,
+    "index":3237,
     "id":"R1052",
     "name":"\"18CAMPBELLW\u201d, \u201c18CAMPBELLB",
     "capacity":615.0,
@@ -7658,7 +7658,7 @@
     "join_key":"richland_la"
   },
   {
-    "index":3117,
+    "index":3118,
     "id":"J3583",
     "name":"KEO EHV",
     "capacity":600.0,
@@ -7700,7 +7700,7 @@
     "join_key":"redwood_mn"
   },
   {
-    "index":3092,
+    "index":3093,
     "id":"J3513",
     "name":"RICHARD - WELLS 500.0kV",
     "capacity":550.0,
@@ -7714,7 +7714,7 @@
     "join_key":"acadia_la"
   },
   {
-    "index":3272,
+    "index":3273,
     "id":"S1054",
     "name":"Lakefield Junction 345kV",
     "capacity":550.0,
@@ -8190,7 +8190,7 @@
     "join_key":"calhoun_ar"
   },
   {
-    "index":3147,
+    "index":3148,
     "id":"J3426",
     "name":"MACON LAKE SS",
     "capacity":500.0,
@@ -8246,7 +8246,7 @@
     "join_key":"vermillion_in"
   },
   {
-    "index":3079,
+    "index":3080,
     "id":"J3273",
     "name":"BAXTER WILSON SES SWYD - PERRYVILLE 500 SWYD 500.0kV",
     "capacity":473.8,
@@ -8890,7 +8890,7 @@
     "join_key":"calhoun_ar"
   },
   {
-    "index":3096,
+    "index":3097,
     "id":"J3540",
     "name":"RITCHIE SWYD - TARLETON 230.0kV",
     "capacity":400.0,
@@ -8904,7 +8904,7 @@
     "join_key":"monroe_ar"
   },
   {
-    "index":3130,
+    "index":3131,
     "id":"J3363",
     "name":"BAXTER WILSON SES SWYD - PERRYVILLE 500 SWYD 500.0kV",
     "capacity":400.0,
@@ -9114,7 +9114,7 @@
     "join_key":"steele_nd"
   },
   {
-    "index":3231,
+    "index":3232,
     "id":"S1057",
     "name":"Neoga South",
     "capacity":360.0,
@@ -9254,7 +9254,7 @@
     "join_key":"washington_ia"
   },
   {
-    "index":3078,
+    "index":3079,
     "id":"J3255",
     "name":"INDIANOLA 230\/115 SUB - MCADAMS EHV 230.0kV",
     "capacity":350.0,
@@ -9380,7 +9380,7 @@
     "join_key":"pine_mn"
   },
   {
-    "index":3124,
+    "index":3125,
     "id":"J3322",
     "name":"NELSON 500 SWYD - RICHARD 500.0kV",
     "capacity":325.0,
@@ -9394,7 +9394,7 @@
     "join_key":"jeffersondavis_la"
   },
   {
-    "index":3250,
+    "index":3251,
     "id":"R1055",
     "name":"E.D. Edwards 138kV",
     "capacity":322.0,
@@ -9464,7 +9464,7 @@
     "join_key":"calhoun_mi"
   },
   {
-    "index":3228,
+    "index":3229,
     "id":"R1049",
     "name":"Edgewater 345kV",
     "capacity":303.5,
@@ -9478,7 +9478,7 @@
     "join_key":"sheboygan_"
   },
   {
-    "index":3182,
+    "index":3183,
     "id":"J3774",
     "name":"INDIANOLA 230\/115 SUB - TILLATOBA 230.0kV",
     "capacity":303.0,
@@ -10682,7 +10682,21 @@
     "join_key":"vermillion_in"
   },
   {
-    "index":3082,
+    "index":3072,
+    "id":"J3840",
+    "name":"Wells",
+    "capacity":300.0,
+    "fuel":"Storage",
+    "submitted_date":"2024-12-31",
+    "service_date":"2030-06-30",
+    "county":"St. Landry",
+    "state":"LA",
+    "transmission_owner":"CLECO POWER LLC",
+    "iso_utility":"MISO",
+    "join_key":"stlandry_la"
+  },
+  {
+    "index":3083,
     "id":"J3279",
     "name":"Ellendale 345 - Twin Brooks 345.0kV",
     "capacity":300.0,
@@ -10696,7 +10710,7 @@
     "join_key":"day_sd"
   },
   {
-    "index":3083,
+    "index":3084,
     "id":"J3280",
     "name":"Ellendale 345",
     "capacity":300.0,
@@ -10710,7 +10724,7 @@
     "join_key":"dickey_nd"
   },
   {
-    "index":3098,
+    "index":3099,
     "id":"J3556",
     "name":"7COFFEEN  - 7PANA     345.0kV",
     "capacity":300.0,
@@ -10724,7 +10738,7 @@
     "join_key":"montgomery_il"
   },
   {
-    "index":3100,
+    "index":3101,
     "id":"J3558",
     "name":"Rising",
     "capacity":300.0,
@@ -10738,7 +10752,7 @@
     "join_key":"champaign_il"
   },
   {
-    "index":3105,
+    "index":3106,
     "id":"J3569",
     "name":"TRUMANN - HARRISBURG SS 161.0kV",
     "capacity":300.0,
@@ -10752,7 +10766,7 @@
     "join_key":"poinsett_ar"
   },
   {
-    "index":3106,
+    "index":3107,
     "id":"J3570",
     "name":"AECC WYNNE EAST - PARKIN 161.0kV",
     "capacity":300.0,
@@ -10766,7 +10780,7 @@
     "join_key":"cross_ar"
   },
   {
-    "index":3110,
+    "index":3111,
     "id":"J3575",
     "name":"GILMORE - WILSON 161.0kV",
     "capacity":300.0,
@@ -10780,7 +10794,7 @@
     "join_key":"mississippi_ar"
   },
   {
-    "index":3111,
+    "index":3112,
     "id":"J3576",
     "name":"BOGALUSA 500 SS - FRANKLIN EHV 500.0kV",
     "capacity":300.0,
@@ -10794,7 +10808,7 @@
     "join_key":"walthall_ms"
   },
   {
-    "index":3131,
+    "index":3132,
     "id":"J3362",
     "name":"BLACKFOOT - MADRID 345.0kV",
     "capacity":300.0,
@@ -10808,7 +10822,7 @@
     "join_key":"oakland_mi"
   },
   {
-    "index":3136,
+    "index":3137,
     "id":"J3384",
     "name":"Ownership Change (OTP MORRIS) - JOHNSON JUNCTION 115.0kV",
     "capacity":300.0,
@@ -10822,7 +10836,7 @@
     "join_key":"stevens_mn"
   },
   {
-    "index":3137,
+    "index":3138,
     "id":"J3383",
     "name":"Nucor  -  Whitestown 345.0kV",
     "capacity":300.0,
@@ -10836,7 +10850,7 @@
     "join_key":"boone_in"
   },
   {
-    "index":3148,
+    "index":3149,
     "id":"J3431",
     "name":"INDIANOLA 230\/115 SUB - MCADAMS EHV 230.0kV",
     "capacity":300.0,
@@ -10850,7 +10864,7 @@
     "join_key":"holmes_ms"
   },
   {
-    "index":3152,
+    "index":3153,
     "id":"J3808",
     "name":"IRVINGTON - WEBSTER 345.0kV",
     "capacity":300.0,
@@ -10864,7 +10878,7 @@
     "join_key":"webster_ia"
   },
   {
-    "index":3153,
+    "index":3154,
     "id":"J3810",
     "name":"Edwardsport IGCC - Amo 345.0kV",
     "capacity":300.0,
@@ -10878,7 +10892,7 @@
     "join_key":"knox_in"
   },
   {
-    "index":3159,
+    "index":3160,
     "id":"J3823",
     "name":"Crandall - Fieldon 345.0kV",
     "capacity":300.0,
@@ -10892,7 +10906,7 @@
     "join_key":"watonwan_mn"
   },
   {
-    "index":3188,
+    "index":3189,
     "id":"J3693",
     "name":"BURR OAK - LEESBURG 345.0kV",
     "capacity":300.0,
@@ -10906,7 +10920,7 @@
     "join_key":"marshall_in"
   },
   {
-    "index":3189,
+    "index":3190,
     "id":"J3694",
     "name":"Sugar Creek - Cayuga CT  345.0kV",
     "capacity":300.0,
@@ -10920,7 +10934,7 @@
     "join_key":"vermillion_in"
   },
   {
-    "index":3191,
+    "index":3192,
     "id":"J3699",
     "name":"SUB 39 - OAK GROVE 345.0kV",
     "capacity":300.0,
@@ -10934,7 +10948,7 @@
     "join_key":"henry_il"
   },
   {
-    "index":3192,
+    "index":3193,
     "id":"J3700",
     "name":"7BUNSONVILLE - 7SIDNEY   345.0kV",
     "capacity":300.0,
@@ -10948,7 +10962,7 @@
     "join_key":"champaign_il"
   },
   {
-    "index":3218,
+    "index":3219,
     "id":"J3758",
     "name":"Other_",
     "capacity":300.0,
@@ -10976,7 +10990,7 @@
     "join_key":"clay_ia"
   },
   {
-    "index":3080,
+    "index":3081,
     "id":"J3282",
     "name":"KEYSTONE - LUDINGTON 345.0kV",
     "capacity":297.0,
@@ -11130,7 +11144,7 @@
     "join_key":"beauregard_la"
   },
   {
-    "index":3102,
+    "index":3103,
     "id":"J3564",
     "name":"Other_",
     "capacity":275.0,
@@ -11186,7 +11200,7 @@
     "join_key":"iroquois_il"
   },
   {
-    "index":3179,
+    "index":3180,
     "id":"J3773",
     "name":"MONTICELLO EAST - REED SS 115.0kV",
     "capacity":265.0,
@@ -11214,7 +11228,7 @@
     "join_key":"adair_ia"
   },
   {
-    "index":3122,
+    "index":3123,
     "id":"J3313",
     "name":"MOROCCO  - ALLEN JUNCTION 345.0kV",
     "capacity":263.0,
@@ -12320,7 +12334,7 @@
     "join_key":"walker_tx"
   },
   {
-    "index":3074,
+    "index":3075,
     "id":"J3235",
     "name":"BENTON COUNTY",
     "capacity":250.0,
@@ -12334,7 +12348,7 @@
     "join_key":"benton_mn"
   },
   {
-    "index":3107,
+    "index":3108,
     "id":"J3571",
     "name":"MARKED TREE - TWIST 161.0kV",
     "capacity":250.0,
@@ -12348,7 +12362,7 @@
     "join_key":"poinsett_ar"
   },
   {
-    "index":3108,
+    "index":3109,
     "id":"J3568",
     "name":"SCHLATER",
     "capacity":250.0,
@@ -12362,7 +12376,7 @@
     "join_key":"leflore_ms"
   },
   {
-    "index":3114,
+    "index":3115,
     "id":"J3580",
     "name":"AECC Dell 161kV - Nucor-Yamato 161kV Switching Station 161.0kV",
     "capacity":250.0,
@@ -12376,7 +12390,7 @@
     "join_key":"mississippi_ar"
   },
   {
-    "index":3120,
+    "index":3121,
     "id":"J3593",
     "name":"Wabash River  -  Staunton 230.0kV",
     "capacity":250.0,
@@ -12390,7 +12404,7 @@
     "join_key":"clay_in"
   },
   {
-    "index":3126,
+    "index":3127,
     "id":"J3346",
     "name":"Lyon County - Brookings County 345.0kV",
     "capacity":250.0,
@@ -12404,7 +12418,7 @@
     "join_key":"lyon_mn"
   },
   {
-    "index":3178,
+    "index":3179,
     "id":"J3769",
     "name":"MURPHY - NELSON ROAD 345.0kV",
     "capacity":250.0,
@@ -12460,7 +12474,7 @@
     "join_key":"montgomery_mo"
   },
   {
-    "index":3165,
+    "index":3166,
     "id":"J3787",
     "name":"Jamestown 345 kV Substation",
     "capacity":247.0,
@@ -12614,7 +12628,7 @@
     "join_key":"columbia_ar"
   },
   {
-    "index":3233,
+    "index":3234,
     "id":"R1045",
     "name":"Wheaton 161kV",
     "capacity":237.0,
@@ -13188,7 +13202,7 @@
     "join_key":"aitkin_mn"
   },
   {
-    "index":3089,
+    "index":3090,
     "id":"J3495",
     "name":"Merom Primary - Worthington Primary 345.0kV",
     "capacity":220.0,
@@ -13202,7 +13216,7 @@
     "join_key":"greene_in"
   },
   {
-    "index":3267,
+    "index":3268,
     "id":"R1041",
     "name":"TCHPP Position JC 120kV",
     "capacity":220.0,
@@ -13300,7 +13314,7 @@
     "join_key":"alcona_mi"
   },
   {
-    "index":3118,
+    "index":3119,
     "id":"J3584",
     "name":"BRINKLEY EAST - AECC AUBREY 230.0kV",
     "capacity":215.0,
@@ -17668,7 +17682,7 @@
     "join_key":"lagrange_in"
   },
   {
-    "index":3075,
+    "index":3076,
     "id":"J3236",
     "name":"Chisago County 115kV Substation",
     "capacity":200.0,
@@ -17682,7 +17696,7 @@
     "join_key":"chisago_mn"
   },
   {
-    "index":3076,
+    "index":3077,
     "id":"J3241",
     "name":"ARLINGTON GOAB",
     "capacity":200.0,
@@ -17696,7 +17710,7 @@
     "join_key":"lincoln_ms"
   },
   {
-    "index":3086,
+    "index":3087,
     "id":"J3467",
     "name":"Bloomington Brokaw",
     "capacity":200.0,
@@ -17710,7 +17724,7 @@
     "join_key":"mclean_il"
   },
   {
-    "index":3099,
+    "index":3100,
     "id":"J3557",
     "name":"Heartland Crossing Tap - Eagle Valley 138.0kV",
     "capacity":200.0,
@@ -17724,7 +17738,7 @@
     "join_key":"morgan_in"
   },
   {
-    "index":3101,
+    "index":3102,
     "id":"J3563",
     "name":"7W_FRFT_E - 7MTVERNW 345.0kV",
     "capacity":200.0,
@@ -17738,7 +17752,7 @@
     "join_key":"franklin_il"
   },
   {
-    "index":3109,
+    "index":3110,
     "id":"J3567",
     "name":"SHERIDAN EHV - EL DORADO EHV 500.0kV",
     "capacity":200.0,
@@ -17752,7 +17766,7 @@
     "join_key":"calhoun_ar"
   },
   {
-    "index":3115,
+    "index":3116,
     "id":"J3581",
     "name":"Eola - Marksville 138.0kV",
     "capacity":200.0,
@@ -17766,7 +17780,7 @@
     "join_key":"avoyelles_la"
   },
   {
-    "index":3121,
+    "index":3122,
     "id":"J3314",
     "name":"Postville",
     "capacity":200.0,
@@ -17780,7 +17794,7 @@
     "join_key":"clayton_ia"
   },
   {
-    "index":3123,
+    "index":3124,
     "id":"J3321",
     "name":"Other_",
     "capacity":200.0,
@@ -17794,7 +17808,7 @@
     "join_key":"wayne_il"
   },
   {
-    "index":3125,
+    "index":3126,
     "id":"J3323",
     "name":"Other_",
     "capacity":200.0,
@@ -17808,7 +17822,7 @@
     "join_key":"knox_il"
   },
   {
-    "index":3129,
+    "index":3130,
     "id":"J3357",
     "name":"LEESBURG",
     "capacity":200.0,
@@ -17822,7 +17836,7 @@
     "join_key":"kosciusko_in"
   },
   {
-    "index":3133,
+    "index":3134,
     "id":"J3371",
     "name":"Other_",
     "capacity":200.0,
@@ -17836,7 +17850,7 @@
     "join_key":"vermilion_il"
   },
   {
-    "index":3138,
+    "index":3139,
     "id":"J3403",
     "name":"Other_",
     "capacity":200.0,
@@ -17850,7 +17864,7 @@
     "join_key":"macon_mo"
   },
   {
-    "index":3140,
+    "index":3141,
     "id":"J3424",
     "name":"AB Brown 345 - Gibson (Duke Terminal) 345.0kV",
     "capacity":200.0,
@@ -17864,7 +17878,7 @@
     "join_key":"posey_in"
   },
   {
-    "index":3141,
+    "index":3142,
     "id":"J3436",
     "name":"Other_",
     "capacity":200.0,
@@ -17878,7 +17892,7 @@
     "join_key":"daviess_mo"
   },
   {
-    "index":3142,
+    "index":3143,
     "id":"J3440",
     "name":"Other_",
     "capacity":200.0,
@@ -17892,7 +17906,7 @@
     "join_key":"daviess_mo"
   },
   {
-    "index":3146,
+    "index":3147,
     "id":"J3434",
     "name":"Willmar",
     "capacity":200.0,
@@ -17906,7 +17920,7 @@
     "join_key":"kandiyohi_mn"
   },
   {
-    "index":3149,
+    "index":3150,
     "id":"J3803",
     "name":"LEMOYNE - MAJESTIC 345.0kV",
     "capacity":200.0,
@@ -17920,7 +17934,7 @@
     "join_key":"monroe_mi"
   },
   {
-    "index":3155,
+    "index":3156,
     "id":"J3811",
     "name":"4KINMUNDY S - 4TANNER 138.0kV",
     "capacity":200.0,
@@ -17934,7 +17948,7 @@
     "join_key":"clay_il"
   },
   {
-    "index":3164,
+    "index":3165,
     "id":"J3780",
     "name":"Hazleton",
     "capacity":200.0,
@@ -17948,7 +17962,7 @@
     "join_key":"buchanan_ia"
   },
   {
-    "index":3166,
+    "index":3167,
     "id":"J3786",
     "name":"Coventry 230kV",
     "capacity":200.0,
@@ -17962,7 +17976,7 @@
     "join_key":"washtenaw_mi"
   },
   {
-    "index":3167,
+    "index":3168,
     "id":"J3784",
     "name":"Saukville (Cedarsauk)",
     "capacity":200.0,
@@ -17976,7 +17990,7 @@
     "join_key":"ozaukee_wi"
   },
   {
-    "index":3168,
+    "index":3169,
     "id":"J3783",
     "name":"AECC WYNNE EAST - PARKIN 161.0kV",
     "capacity":200.0,
@@ -17990,7 +18004,7 @@
     "join_key":"cross_ar"
   },
   {
-    "index":3170,
+    "index":3171,
     "id":"J3785",
     "name":"Pleasant Prairie",
     "capacity":200.0,
@@ -18004,7 +18018,7 @@
     "join_key":"kenosha_mi"
   },
   {
-    "index":3175,
+    "index":3176,
     "id":"J3726",
     "name":"Skillman",
     "capacity":200.0,
@@ -18018,7 +18032,7 @@
     "join_key":"hancock_ky"
   },
   {
-    "index":3177,
+    "index":3178,
     "id":"J3771",
     "name":"Fisher - Many 138.0kV",
     "capacity":200.0,
@@ -18032,7 +18046,7 @@
     "join_key":"sabine_la"
   },
   {
-    "index":3194,
+    "index":3195,
     "id":"J3704",
     "name":"Cedar Mountain - Lyon County 345.0kV",
     "capacity":200.0,
@@ -18046,7 +18060,7 @@
     "join_key":"redwood_mn"
   },
   {
-    "index":3195,
+    "index":3196,
     "id":"J3705",
     "name":"Cedar Mountain - Lyon County 345.0kV",
     "capacity":200.0,
@@ -18060,7 +18074,7 @@
     "join_key":"redwood_mn"
   },
   {
-    "index":3213,
+    "index":3214,
     "id":"J3749",
     "name":"LYON COUNTY",
     "capacity":200.0,
@@ -18074,7 +18088,7 @@
     "join_key":"lyon_mn"
   },
   {
-    "index":3223,
+    "index":3224,
     "id":"J3703",
     "name":"Blackberry 230\/115kV",
     "capacity":200.0,
@@ -18158,7 +18172,7 @@
     "join_key":"allegan_mi"
   },
   {
-    "index":3172,
+    "index":3173,
     "id":"J3515",
     "name":"343505 Interstate",
     "capacity":199.9,
@@ -18340,7 +18354,7 @@
     "join_key":"holmes_ms"
   },
   {
-    "index":3103,
+    "index":3104,
     "id":"J3566",
     "name":"Bloomington Brokaw",
     "capacity":198.0,
@@ -18396,7 +18410,7 @@
     "join_key":"dakota_mn"
   },
   {
-    "index":3220,
+    "index":3221,
     "id":"J3801",
     "name":"OAK GROVE - SANDBURG (AMRN) 345.0kV",
     "capacity":195.64,
@@ -18410,7 +18424,7 @@
     "join_key":"mercer_il"
   },
   {
-    "index":3215,
+    "index":3216,
     "id":"J3753",
     "name":"Other_",
     "capacity":195.55,
@@ -18578,7 +18592,7 @@
     "join_key":"christian_il"
   },
   {
-    "index":3174,
+    "index":3175,
     "id":"J3517",
     "name":"Ordill",
     "capacity":190.0,
@@ -19026,7 +19040,7 @@
     "join_key":"woodruff_ar"
   },
   {
-    "index":3169,
+    "index":3170,
     "id":"J3782",
     "name":"18MURPHY",
     "capacity":180.0,
@@ -19040,7 +19054,7 @@
     "join_key":"saginaw_mi"
   },
   {
-    "index":3224,
+    "index":3225,
     "id":"J3702",
     "name":"ADAMS",
     "capacity":180.0,
@@ -19054,7 +19068,7 @@
     "join_key":"mitchell_ia"
   },
   {
-    "index":3269,
+    "index":3270,
     "id":"R1037",
     "name":"ITCM Lansing 161kV",
     "capacity":180.0,
@@ -19110,7 +19124,7 @@
     "join_key":"tunica_ms"
   },
   {
-    "index":3226,
+    "index":3227,
     "id":"J3743",
     "name":"ARROWHEAD",
     "capacity":175.5,
@@ -19474,7 +19488,7 @@
     "join_key":"vermilion_il"
   },
   {
-    "index":3088,
+    "index":3089,
     "id":"J3494",
     "name":"TH Pfizer Jct. - Worthington (HED)",
     "capacity":175.0,
@@ -19488,7 +19502,7 @@
     "join_key":"greene_in"
   },
   {
-    "index":3160,
+    "index":3161,
     "id":"J3821",
     "name":"RIVTRIN",
     "capacity":175.0,
@@ -19502,7 +19516,7 @@
     "join_key":"walker_tx"
   },
   {
-    "index":3187,
+    "index":3188,
     "id":"J3239",
     "name":"Pana 138kV",
     "capacity":175.0,
@@ -19516,7 +19530,7 @@
     "join_key":"christian_il"
   },
   {
-    "index":3209,
+    "index":3210,
     "id":"J3817",
     "name":"Other_",
     "capacity":175.0,
@@ -19586,7 +19600,7 @@
     "join_key":"arkansas_ar"
   },
   {
-    "index":3135,
+    "index":3136,
     "id":"J3382",
     "name":"4WEEDMAN  - 4MAHOMET 1 138.0kV",
     "capacity":171.0,
@@ -19768,7 +19782,7 @@
     "join_key":"gladwin_mi"
   },
   {
-    "index":3084,
+    "index":3085,
     "id":"J3281",
     "name":"Presque Isle - Perch Lake 138.0kV",
     "capacity":170.0,
@@ -19852,7 +19866,7 @@
     "join_key":"lyon_mn"
   },
   {
-    "index":3252,
+    "index":3253,
     "id":"S1050",
     "name":"Lake Charles Bulk 38kV Tap",
     "capacity":165.0,
@@ -20230,7 +20244,7 @@
     "join_key":"stevens_mn"
   },
   {
-    "index":3181,
+    "index":3182,
     "id":"J3775",
     "name":"DUMAS - REED SS 115.0kV",
     "capacity":160.0,
@@ -20244,7 +20258,7 @@
     "join_key":"desha_ar"
   },
   {
-    "index":3156,
+    "index":3157,
     "id":"J3812",
     "name":"AECC AUBREY - RITCHIE SWYD 230.0kV",
     "capacity":158.59,
@@ -20300,7 +20314,7 @@
     "join_key":"muscatine_ia"
   },
   {
-    "index":3143,
+    "index":3144,
     "id":"J3442",
     "name":"5STODDARD - 5MORLEY (AECI) 161.0kV",
     "capacity":156.0,
@@ -20370,7 +20384,7 @@
     "join_key":"cleveland_ar"
   },
   {
-    "index":3186,
+    "index":3187,
     "id":"J3238",
     "name":"Cocodrie - Ville Platte 230.0kV",
     "capacity":155.0,
@@ -20384,7 +20398,7 @@
     "join_key":"evangeline_la"
   },
   {
-    "index":3158,
+    "index":3159,
     "id":"J3815",
     "name":"Waterford 3 SWYD",
     "capacity":153.1,
@@ -20426,7 +20440,7 @@
     "join_key":"redwood_mn"
   },
   {
-    "index":3134,
+    "index":3135,
     "id":"J3381",
     "name":"FORREST CITY SOUTH - HUGHES 161.0kV",
     "capacity":150.92,
@@ -22862,7 +22876,7 @@
     "join_key":"newton_in"
   },
   {
-    "index":3077,
+    "index":3078,
     "id":"J3253",
     "name":"Bailey",
     "capacity":150.0,
@@ -22876,7 +22890,7 @@
     "join_key":"woodruff_ar"
   },
   {
-    "index":3090,
+    "index":3091,
     "id":"J3512",
     "name":"MONITOR",
     "capacity":150.0,
@@ -22890,7 +22904,7 @@
     "join_key":"bay_mi"
   },
   {
-    "index":3097,
+    "index":3098,
     "id":"J3541",
     "name":"CLEVELAND\/SOUTH",
     "capacity":150.0,
@@ -22904,7 +22918,7 @@
     "join_key":"bolivar_ms"
   },
   {
-    "index":3119,
+    "index":3120,
     "id":"J3585",
     "name":"HARTBURG - AEP LAYFIELD 500.0kV",
     "capacity":150.0,
@@ -22918,7 +22932,7 @@
     "join_key":"sabine_la"
   },
   {
-    "index":3132,
+    "index":3133,
     "id":"J3370",
     "name":"Other_",
     "capacity":150.0,
@@ -22932,7 +22946,7 @@
     "join_key":"kittson_mn"
   },
   {
-    "index":3139,
+    "index":3140,
     "id":"J3430",
     "name":"4LAWRNCVL - 4JASPER 138.0kV",
     "capacity":150.0,
@@ -22946,7 +22960,7 @@
     "join_key":"lawrence_il"
   },
   {
-    "index":3144,
+    "index":3145,
     "id":"J3432",
     "name":"4LAWRNCVL - 4JASPER 138.0kV",
     "capacity":150.0,
@@ -22960,7 +22974,7 @@
     "join_key":"lawrence_il"
   },
   {
-    "index":3163,
+    "index":3164,
     "id":"J3781",
     "name":"HEBERT (SLEMCO) - HENNING 138.0kV",
     "capacity":150.0,
@@ -22974,7 +22988,7 @@
     "join_key":"jeffersondavis_la"
   },
   {
-    "index":3190,
+    "index":3191,
     "id":"J3695",
     "name":"7CASEY - 7SNYDER  345.0kV",
     "capacity":150.0,
@@ -22988,7 +23002,7 @@
     "join_key":"clark_il"
   },
   {
-    "index":3193,
+    "index":3194,
     "id":"J3706",
     "name":"GILMORE - WILSON 161.0kV",
     "capacity":150.0,
@@ -23002,7 +23016,7 @@
     "join_key":"mississippi_ar"
   },
   {
-    "index":3211,
+    "index":3212,
     "id":"J3734",
     "name":"STRATFORD",
     "capacity":150.0,
@@ -23016,7 +23030,7 @@
     "join_key":"oakland_mi"
   },
   {
-    "index":3219,
+    "index":3220,
     "id":"J3745",
     "name":"Sunman Weisburg",
     "capacity":150.0,
@@ -23030,7 +23044,7 @@
     "join_key":"dearborn_in"
   },
   {
-    "index":3227,
+    "index":3228,
     "id":"S1066",
     "name":"",
     "capacity":150.0,
@@ -23044,7 +23058,7 @@
     "join_key":"lenawee_michigan"
   },
   {
-    "index":3241,
+    "index":3242,
     "id":"S1073",
     "name":"Hopkins to Reid EVH 161kV",
     "capacity":150.0,
@@ -23058,7 +23072,7 @@
     "join_key":"webster_"
   },
   {
-    "index":3246,
+    "index":3247,
     "id":"R1046",
     "name":"Madison Substation 138kV",
     "capacity":150.0,
@@ -23072,7 +23086,7 @@
     "join_key":"jefferson_"
   },
   {
-    "index":3253,
+    "index":3254,
     "id":"S1052",
     "name":"Neoga South 138kV",
     "capacity":150.0,
@@ -23086,7 +23100,7 @@
     "join_key":"cumberland_"
   },
   {
-    "index":3275,
+    "index":3276,
     "id":"S1067",
     "name":"Majestic- Lemoyne 345 kV",
     "capacity":150.0,
@@ -23100,7 +23114,7 @@
     "join_key":"washtenaw_"
   },
   {
-    "index":3277,
+    "index":3278,
     "id":"S1062",
     "name":"New Byers 138kV",
     "capacity":150.0,
@@ -23170,7 +23184,7 @@
     "join_key":"laporte_in"
   },
   {
-    "index":3245,
+    "index":3246,
     "id":"S1058",
     "name":"Stonehill Substation 138kV",
     "capacity":149.0,
@@ -23254,7 +23268,7 @@
     "join_key":"mower_mn"
   },
   {
-    "index":3216,
+    "index":3217,
     "id":"J3754",
     "name":"Other_",
     "capacity":146.66,
@@ -23268,7 +23282,7 @@
     "join_key":"iroquois_il"
   },
   {
-    "index":3217,
+    "index":3218,
     "id":"J3755",
     "name":"Other_",
     "capacity":146.66,
@@ -23758,7 +23772,7 @@
     "join_key":"fayette_il"
   },
   {
-    "index":3072,
+    "index":3073,
     "id":"J3233",
     "name":"Canby 115 kV Substation",
     "capacity":140.0,
@@ -23772,7 +23786,7 @@
     "join_key":"yellowmedicine_mn"
   },
   {
-    "index":3127,
+    "index":3128,
     "id":"J3347",
     "name":"Greenfield Hastings Park - Greensboro 138.0kV",
     "capacity":140.0,
@@ -23786,7 +23800,7 @@
     "join_key":"hancock_in"
   },
   {
-    "index":3162,
+    "index":3163,
     "id":"J3822",
     "name":"DEVIN - LIVONIA 138.0kV",
     "capacity":139.58,
@@ -23828,7 +23842,7 @@
     "join_key":"allamakee_ia"
   },
   {
-    "index":3257,
+    "index":3258,
     "id":"R1050",
     "name":"Blue Lake 115kV",
     "capacity":135.5,
@@ -23982,7 +23996,7 @@
     "join_key":"ford_"
   },
   {
-    "index":3081,
+    "index":3082,
     "id":"J3283",
     "name":"KEYSTONE - WEXFORD 138.0kV",
     "capacity":135.0,
@@ -23996,7 +24010,7 @@
     "join_key":"grandtraverse_mi"
   },
   {
-    "index":3113,
+    "index":3114,
     "id":"J3579",
     "name":"MARIANNA WEST SS - MARIANNA 115.0kV",
     "capacity":135.0,
@@ -24010,7 +24024,7 @@
     "join_key":"lee_ar"
   },
   {
-    "index":3154,
+    "index":3155,
     "id":"J3814",
     "name":"FORREST CITY N SS - WYNNE SOUTH 161.0kV",
     "capacity":135.0,
@@ -24318,7 +24332,7 @@
     "join_key":"pike_in"
   },
   {
-    "index":3073,
+    "index":3074,
     "id":"J3234",
     "name":"ST BONIFACIUS",
     "capacity":130.0,
@@ -24360,7 +24374,7 @@
     "join_key":"rockisland_il"
   },
   {
-    "index":3161,
+    "index":3162,
     "id":"J3820",
     "name":"LRTP Line",
     "capacity":127.0,
@@ -25116,7 +25130,7 @@
     "join_key":"lee_ar"
   },
   {
-    "index":3112,
+    "index":3113,
     "id":"J3577",
     "name":"MAGEE",
     "capacity":120.0,
@@ -25130,7 +25144,7 @@
     "join_key":"simpson_ms"
   },
   {
-    "index":3262,
+    "index":3263,
     "id":"S1047",
     "name":"Big Stone South 230kV",
     "capacity":120.0,
@@ -25144,7 +25158,7 @@
     "join_key":"codington_"
   },
   {
-    "index":3265,
+    "index":3266,
     "id":"S1046",
     "name":"Big Stone South 230kV",
     "capacity":120.0,
@@ -25186,7 +25200,7 @@
     "join_key":"eastfeliciana_la"
   },
   {
-    "index":3094,
+    "index":3095,
     "id":"J3539",
     "name":"ALPENA - SPRUCE ROAD 138.0kV",
     "capacity":116.9,
@@ -25340,7 +25354,7 @@
     "join_key":"washington_in"
   },
   {
-    "index":3145,
+    "index":3146,
     "id":"J3433",
     "name":"BARRON  - WASHCO  161.0kV",
     "capacity":115.0,
@@ -25536,7 +25550,7 @@
     "join_key":"hendricks_in"
   },
   {
-    "index":3128,
+    "index":3129,
     "id":"J3348",
     "name":"PLYMOUTH - KOSCIUSKO & LEESBURG & KOSCIUSKO CO REMC - NORTHWEST 138.0kV",
     "capacity":110.0,
@@ -25690,7 +25704,7 @@
     "join_key":"fulton_il"
   },
   {
-    "index":3258,
+    "index":3259,
     "id":"S1059",
     "name":"Dixon 120kV - Bus # 265182",
     "capacity":100.3,
@@ -28924,7 +28938,7 @@
     "join_key":"jasper_il"
   },
   {
-    "index":3085,
+    "index":3086,
     "id":"J3466",
     "name":"Sunset Point - Ellinwood 138.0kV",
     "capacity":100.0,
@@ -28938,7 +28952,7 @@
     "join_key":"winnebago_wi"
   },
   {
-    "index":3091,
+    "index":3092,
     "id":"J3514",
     "name":"Pine River 69 kV",
     "capacity":100.0,
@@ -28952,7 +28966,7 @@
     "join_key":"chippewa_mi"
   },
   {
-    "index":3104,
+    "index":3105,
     "id":"J3565",
     "name":"Rising",
     "capacity":100.0,
@@ -28966,7 +28980,7 @@
     "join_key":"champaign_il"
   },
   {
-    "index":3150,
+    "index":3151,
     "id":"J3806",
     "name":"STEINER (CE) - SHAW SS (CE) 115.0kV",
     "capacity":100.0,
@@ -28980,7 +28994,7 @@
     "join_key":"sunflower_ms"
   },
   {
-    "index":3151,
+    "index":3152,
     "id":"J3807",
     "name":"Hampton - Prairie Island 345.0kV",
     "capacity":100.0,
@@ -28994,7 +29008,7 @@
     "join_key":"goodhue_mn"
   },
   {
-    "index":3157,
+    "index":3158,
     "id":"J3813",
     "name":"Edwardsport IGCC - Amo 345.0kV",
     "capacity":100.0,
@@ -29008,7 +29022,7 @@
     "join_key":"putnam_in"
   },
   {
-    "index":3180,
+    "index":3181,
     "id":"J3772",
     "name":"BATESVILLE [MS] - MARKS 115.0kV",
     "capacity":100.0,
@@ -29022,7 +29036,7 @@
     "join_key":"panola_ms"
   },
   {
-    "index":3207,
+    "index":3208,
     "id":"J3804",
     "name":"Edwardsport IGCC - Amo 345.0kV",
     "capacity":100.0,
@@ -29036,7 +29050,7 @@
     "join_key":"putnam_in"
   },
   {
-    "index":3214,
+    "index":3215,
     "id":"J3757",
     "name":"Salem 161kv",
     "capacity":100.0,
@@ -29050,7 +29064,7 @@
     "join_key":"dubuque_ia"
   },
   {
-    "index":3221,
+    "index":3222,
     "id":"J3683",
     "name":"4BALLARD - 4MEREDOSA 138.0kV",
     "capacity":100.0,
@@ -29064,7 +29078,7 @@
     "join_key":"scott_il"
   },
   {
-    "index":3222,
+    "index":3223,
     "id":"J3684",
     "name":"4JACK_IND N - 4YATES  138.0kV",
     "capacity":100.0,
@@ -29078,7 +29092,7 @@
     "join_key":"morgan_il"
   },
   {
-    "index":3230,
+    "index":3231,
     "id":"R1038",
     "name":"Mayhew Lake 115kV",
     "capacity":100.0,
@@ -29092,7 +29106,7 @@
     "join_key":"benton_"
   },
   {
-    "index":3238,
+    "index":3239,
     "id":"S1053",
     "name":"Chisago County Substation",
     "capacity":100.0,
@@ -29106,7 +29120,7 @@
     "join_key":"chisago_"
   },
   {
-    "index":3239,
+    "index":3240,
     "id":"S1063",
     "name":"Verona - Foundry 138kV",
     "capacity":100.0,
@@ -29316,7 +29330,7 @@
     "join_key":"shawano_wi"
   },
   {
-    "index":3197,
+    "index":3198,
     "id":"J3714",
     "name":"Homewood 69 - Lake 69.0kV",
     "capacity":95.0,
@@ -29610,7 +29624,7 @@
     "join_key":"edwards_il"
   },
   {
-    "index":3185,
+    "index":3186,
     "id":"J3237",
     "name":"National Tac Plant 115kV (Customer-owned)",
     "capacity":86.0,
@@ -29624,7 +29638,7 @@
     "join_key":"itasca_mn"
   },
   {
-    "index":3261,
+    "index":3262,
     "id":"S1065",
     "name":"Majestic 345kV to Milan 345kV",
     "capacity":85.05,
@@ -29722,7 +29736,7 @@
     "join_key":"ripley_in"
   },
   {
-    "index":3173,
+    "index":3174,
     "id":"J3516",
     "name":"Makanda North",
     "capacity":83.4,
@@ -30044,7 +30058,7 @@
     "join_key":"lagrange_in"
   },
   {
-    "index":3095,
+    "index":3096,
     "id":"J3542",
     "name":"BROOKHAVEN - BROOKHAVEN\/SOUTH 115.0kV",
     "capacity":80.0,
@@ -30058,7 +30072,7 @@
     "join_key":"lincoln_ms"
   },
   {
-    "index":3271,
+    "index":3272,
     "id":"S1051",
     "name":"Worth County Substation 161kV",
     "capacity":80.0,
@@ -30072,7 +30086,7 @@
     "join_key":"worth_"
   },
   {
-    "index":3276,
+    "index":3277,
     "id":"S1049",
     "name":"Shaw to Indianola 115kV Line Tap",
     "capacity":80.0,
@@ -30646,7 +30660,7 @@
     "join_key":"vermilion_la"
   },
   {
-    "index":3259,
+    "index":3260,
     "id":"R1042",
     "name":"Duane Arnold 161kV",
     "capacity":64.0,
@@ -30968,7 +30982,7 @@
     "join_key":"_"
   },
   {
-    "index":3235,
+    "index":3236,
     "id":"R1051",
     "name":"Blue Lake 115kV",
     "capacity":55.0,
@@ -32004,7 +32018,7 @@
     "join_key":"houston_mn"
   },
   {
-    "index":3196,
+    "index":3197,
     "id":"J3710",
     "name":"Jerseyville Northwest",
     "capacity":50.0,
@@ -32074,7 +32088,7 @@
     "join_key":"webster_la"
   },
   {
-    "index":3249,
+    "index":3250,
     "id":"R1039",
     "name":"Sterlington 115kV",
     "capacity":49.0,
@@ -32172,7 +32186,7 @@
     "join_key":"jackson_wi"
   },
   {
-    "index":3176,
+    "index":3177,
     "id":"J3770",
     "name":"The Baldwin 345kV substation found in the drop down. But please note the POI is same as J1202. The p",
     "capacity":45.8,
@@ -32508,7 +32522,7 @@
     "join_key":"clinton_in"
   },
   {
-    "index":3210,
+    "index":3211,
     "id":"J3818",
     "name":"4PANA 1 - 4SHELBYVL E 138.0kV",
     "capacity":40.0,
@@ -32522,7 +32536,7 @@
     "join_key":"shelby_il"
   },
   {
-    "index":3225,
+    "index":3226,
     "id":"J3740",
     "name":"Other_",
     "capacity":40.0,
@@ -32536,7 +32550,7 @@
     "join_key":"putnam_in"
   },
   {
-    "index":3273,
+    "index":3274,
     "id":"S1048",
     "name":"Fogarty Substation 138kV",
     "capacity":40.0,
@@ -32592,7 +32606,7 @@
     "join_key":"newton_in"
   },
   {
-    "index":3212,
+    "index":3213,
     "id":"J3767",
     "name":"ECKERTY - BUECHLER 69.0kV",
     "capacity":38.0,
@@ -32648,7 +32662,7 @@
     "join_key":"miami_in"
   },
   {
-    "index":3208,
+    "index":3209,
     "id":"J3819",
     "name":"CATLETT - TINNIN ROAD 230.0kV",
     "capacity":36.1,
@@ -32830,7 +32844,7 @@
     "join_key":"rock_"
   },
   {
-    "index":3244,
+    "index":3245,
     "id":"R1043",
     "name":"ITCM Burlington 161kV",
     "capacity":31.0,
@@ -32956,20 +32970,6 @@
     "join_key":"midland_mi"
   },
   {
-    "index":1631,
-    "id":"J1602",
-    "name":"Rilla 115kV substation (Same as J1239)",
-    "capacity":25.0,
-    "fuel":"Storage",
-    "submitted_date":"2021-11-02",
-    "service_date":"2023-04-01",
-    "county":"Ouachita",
-    "state":"LA",
-    "transmission_owner":"ENTERGY LOUISIANA, LLC",
-    "iso_utility":"MISO",
-    "join_key":"ouachita_la"
-  },
-  {
     "index":1751,
     "id":"J1982",
     "name":"Other_",
@@ -33082,7 +33082,7 @@
     "join_key":"dickinson_mi"
   },
   {
-    "index":3266,
+    "index":3267,
     "id":"S1064",
     "name":"EDGE SS9 41.6 kV",
     "capacity":21.0,
@@ -33922,7 +33922,7 @@
     "join_key":"sherburne_mn"
   },
   {
-    "index":3087,
+    "index":3088,
     "id":"J3465",
     "name":"CAMBRIDGE",
     "capacity":0.0,
@@ -33936,7 +33936,7 @@
     "join_key":"isanti_mn"
   },
   {
-    "index":3229,
+    "index":3230,
     "id":"S1072",
     "name":"Sherburne 345kV",
     "capacity":0.0,
@@ -33950,7 +33950,7 @@
     "join_key":"sherburne_"
   },
   {
-    "index":3232,
+    "index":3233,
     "id":"R1056",
     "name":"E.D. Edwards 138kV",
     "capacity":0.0,
@@ -33964,7 +33964,7 @@
     "join_key":"tazewell_"
   },
   {
-    "index":3234,
+    "index":3235,
     "id":"S1069",
     "name":"Eureka to Vestaburg 138kV",
     "capacity":0.0,
@@ -33978,7 +33978,7 @@
     "join_key":"montcalm_"
   },
   {
-    "index":3237,
+    "index":3238,
     "id":"R1057",
     "name":"Rush Island Plant \u2013 345KV Switchyard (Existing)",
     "capacity":0.0,
@@ -33992,7 +33992,7 @@
     "join_key":"jefferson_"
   },
   {
-    "index":3240,
+    "index":3241,
     "id":"S1075",
     "name":"Hinshaw 345 kV",
     "capacity":0.0,
@@ -34006,7 +34006,7 @@
     "join_key":"jasperandstarke_"
   },
   {
-    "index":3243,
+    "index":3244,
     "id":"S1060",
     "name":"Gross 138kV - Bus #256155",
     "capacity":0.0,
@@ -34020,7 +34020,7 @@
     "join_key":"shiawasse_"
   },
   {
-    "index":3251,
+    "index":3252,
     "id":"R1054",
     "name":"E.D. Edwards 69kV",
     "capacity":0.0,
@@ -34034,7 +34034,7 @@
     "join_key":"tazewell_"
   },
   {
-    "index":3254,
+    "index":3255,
     "id":"R1058",
     "name":"Rush Island Plant \u2013 345kV Switchyard (Existing) Bus Number in Power Flow",
     "capacity":0.0,
@@ -34048,7 +34048,7 @@
     "join_key":"jefferson_"
   },
   {
-    "index":3255,
+    "index":3256,
     "id":"R1048",
     "name":"Dow Meter Point",
     "capacity":0.0,
@@ -34062,7 +34062,7 @@
     "join_key":"iberville_"
   },
   {
-    "index":3256,
+    "index":3257,
     "id":"S1055",
     "name":"Wilton (endpoint 1) to Bagley (endpoint 2) 115kV",
     "capacity":0.0,
@@ -34076,7 +34076,7 @@
     "join_key":"beltrami_"
   },
   {
-    "index":3263,
+    "index":3264,
     "id":"S1056",
     "name":"Columbia 345kV",
     "capacity":0.0,
@@ -34090,7 +34090,7 @@
     "join_key":"columbia_"
   },
   {
-    "index":3268,
+    "index":3269,
     "id":"S1045",
     "name":"Napoleon SW 230 kV (661091)",
     "capacity":0.0,
@@ -34104,7 +34104,7 @@
     "join_key":"emmons_"
   },
   {
-    "index":3270,
+    "index":3271,
     "id":"S1061",
     "name":"Redstone 138 kV - Bus #256543",
     "capacity":0.0,
@@ -71484,34 +71484,6 @@
     "join_key":"floyd_ga"
   },
   {
-    "index":113,
-    "id":621.0,
-    "name":"New Switchyard near Hartsville switchyard",
-    "capacity":2275.0,
-    "fuel":"Natural Gas",
-    "submitted_date":"06\/12\/2024",
-    "service_date":"06\/01\/2031",
-    "county":"Trousdale",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"trousdale_tn"
-  },
-  {
-    "index":117,
-    "id":626.0,
-    "name":"New Switchyard near Hartsville switchyard",
-    "capacity":2275.0,
-    "fuel":"Natural Gas",
-    "submitted_date":"06\/12\/2024",
-    "service_date":"06\/01\/2031",
-    "county":"Trousdale",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"trousdale_tn"
-  },
-  {
     "index":46,
     "id":489.0,
     "name":"Kingston Fossil Plant",
@@ -71540,21 +71512,7 @@
     "join_key":"stewart_tn"
   },
   {
-    "index":111,
-    "id":619.0,
-    "name":"New Switchyard near CUF Switchyard",
-    "capacity":1513.0,
-    "fuel":"Natural Gas",
-    "submitted_date":"06\/12\/2024",
-    "service_date":"06\/01\/2031",
-    "county":"Trousdale",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"trousdale_tn"
-  },
-  {
-    "index":112,
+    "index":82,
     "id":620.0,
     "name":"New Central Region Gas Plant",
     "capacity":1513.0,
@@ -71568,24 +71526,10 @@
     "join_key":"trousdale_tn"
   },
   {
-    "index":119,
+    "index":86,
     "id":628.0,
     "name":"PARADISE - MONTGOMERY 500 KV",
     "capacity":1513.0,
-    "fuel":"Natural Gas",
-    "submitted_date":"06\/12\/2024",
-    "service_date":"06\/01\/2030",
-    "county":"Todd",
-    "state":"KY",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"todd_ky"
-  },
-  {
-    "index":120,
-    "id":629.0,
-    "name":"PARADISE - MONTGOMERY 500 KV",
-    "capacity":1145.0,
     "fuel":"Natural Gas",
     "submitted_date":"06\/12\/2024",
     "service_date":"06\/01\/2030",
@@ -71610,21 +71554,7 @@
     "join_key":"shelby_tn"
   },
   {
-    "index":77,
-    "id":565.0,
-    "name":"Hartsville, TN 161-kV Station",
-    "capacity":1015.0,
-    "fuel":"Natural Gas",
-    "submitted_date":"06\/16\/2023",
-    "service_date":"09\/01\/2028",
-    "county":"Trousdale",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"trousdale_tn"
-  },
-  {
-    "index":78,
+    "index":67,
     "id":567.0,
     "name":"DAVIDSON - MONTGOMERY 500 KV TL",
     "capacity":880.0,
@@ -71638,7 +71568,7 @@
     "join_key":"cheatham_tn"
   },
   {
-    "index":114,
+    "index":83,
     "id":622.0,
     "name":"New Swqitchyard near Hartsville Switchyard",
     "capacity":800.0,
@@ -71652,7 +71582,7 @@
     "join_key":"trousdale_tn"
   },
   {
-    "index":92,
+    "index":77,
     "id":618.0,
     "name":"Cumberland CC 500kV SS",
     "capacity":757.0,
@@ -71664,20 +71594,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"stewart_tn"
-  },
-  {
-    "index":115,
-    "id":623.0,
-    "name":"New Switchyard near Hartsville switchyard",
-    "capacity":757.0,
-    "fuel":"Natural Gas",
-    "submitted_date":"06\/12\/2024",
-    "service_date":"06\/01\/2031",
-    "county":"Trousdale",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"trousdale_tn"
   },
   {
     "index":25,
@@ -71708,7 +71624,7 @@
     "join_key":"muhlenberg_ky"
   },
   {
-    "index":66,
+    "index":65,
     "id":569.0,
     "name":"Lowndes 161kV Substation",
     "capacity":515.0,
@@ -71722,7 +71638,7 @@
     "join_key":"lowndes_ms"
   },
   {
-    "index":83,
+    "index":72,
     "id":592.0,
     "name":"Shelby 500kV SS",
     "capacity":500.0,
@@ -71736,7 +71652,7 @@
     "join_key":"mississippi_ar"
   },
   {
-    "index":84,
+    "index":73,
     "id":593.0,
     "name":"Shelby, TN 500 KV SS",
     "capacity":500.0,
@@ -71748,34 +71664,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"mississippi_ar"
-  },
-  {
-    "index":85,
-    "id":594.0,
-    "name":"Shelby, TN 500 KV SS",
-    "capacity":500.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"12\/01\/2023",
-    "service_date":"03\/15\/2027",
-    "county":"Mississippi",
-    "state":"AR",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"mississippi_ar"
-  },
-  {
-    "index":138,
-    "id":651.0,
-    "name":"Weyerhaeuser 161 kv substation",
-    "capacity":500.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/23\/2024",
-    "service_date":"03\/31\/2028",
-    "county":"Lowndes",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"lowndes_ms"
   },
   {
     "index":23,
@@ -71792,49 +71680,7 @@
     "join_key":"humphreys_tn"
   },
   {
-    "index":134,
-    "id":647.0,
-    "name":"BROWNS FERRY NP - W POINT 500 KV TL",
-    "capacity":440.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"09\/18\/2024",
-    "service_date":"01\/28\/2028",
-    "county":"Monroe",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"monroe_ms"
-  },
-  {
-    "index":68,
-    "id":520.0,
-    "name":"North Sardis, MS 161-kV Metering Station",
-    "capacity":400.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"09\/02\/2022",
-    "service_date":"09\/01\/2030",
-    "county":"Panola",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"panola_ms"
-  },
-  {
-    "index":87,
-    "id":608.0,
-    "name":"Freeport 500 kV TL",
-    "capacity":400.0,
-    "fuel":"Storage",
-    "submitted_date":"01\/25\/2024",
-    "service_date":"02\/28\/2027",
-    "county":"DeSoto",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"desoto_ms"
-  },
-  {
-    "index":71,
+    "index":66,
     "id":536.0,
     "name":"Lost City, KY 161-kV Switching Station",
     "capacity":350.0,
@@ -71848,63 +71694,7 @@
     "join_key":"muhlenberg_ky"
   },
   {
-    "index":122,
-    "id":631.0,
-    "name":"Alamo - Bells 161 kV TL",
-    "capacity":250.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"06\/26\/2024",
-    "service_date":"03\/30\/2027",
-    "county":"Haywood",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"haywood_tn"
-  },
-  {
-    "index":95,
-    "id":572.0,
-    "name":"Sand Hill, MS 161-kV Switching Station",
-    "capacity":240.0,
-    "fuel":"Solar",
-    "submitted_date":"06\/27\/2023",
-    "service_date":"09\/01\/2026",
-    "county":"Rankin",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"rankin_ms"
-  },
-  {
-    "index":102,
-    "id":601.0,
-    "name":"Okolona - W Point - Clay 161kV TL",
-    "capacity":240.0,
-    "fuel":"Solar",
-    "submitted_date":"12\/13\/2023",
-    "service_date":"01\/00\/1900",
-    "county":"Monroe",
-    "state":"AL",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"monroe_al"
-  },
-  {
-    "index":79,
-    "id":577.0,
-    "name":"TVA\u2019s Clay \u2013 Clayton Village 161 kV",
-    "capacity":230.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"07\/24\/2023",
-    "service_date":"08\/01\/2029",
-    "county":"Oktibbeha",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"oktibbeha_ms"
-  },
-  {
-    "index":98,
+    "index":70,
     "id":587.0,
     "name":"Phipps Bend 500 kV TL",
     "capacity":225.0,
@@ -71918,7 +71708,7 @@
     "join_key":"hawkins_tn"
   },
   {
-    "index":104,
+    "index":79,
     "id":604.0,
     "name":"Weyerhaeuser SW - S Macon 161kV TL",
     "capacity":224.0,
@@ -71932,7 +71722,7 @@
     "join_key":"lowndes_ms"
   },
   {
-    "index":125,
+    "index":88,
     "id":636.0,
     "name":"Johnsonville Fossil Plant Station",
     "capacity":224.0,
@@ -71946,7 +71736,7 @@
     "join_key":"humphreys_tn"
   },
   {
-    "index":80,
+    "index":68,
     "id":585.0,
     "name":"TVA's Okolona - Calhoun City 161 kV TL",
     "capacity":220.0,
@@ -72086,37 +71876,23 @@
     "join_key":"dekalb_al"
   },
   {
-    "index":63,
-    "id":542.0,
-    "name":"McGregors Chapel - Oxford 161 kV TL",
+    "index":74,
+    "id":600.0,
+    "name":"West Point, MS 500-kV Substation (161-kV)",
     "capacity":200.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"04\/11\/2023",
-    "service_date":"09\/22\/2028",
-    "county":"Pontotoc",
+    "fuel":"Storage",
+    "submitted_date":"12\/10\/2023",
+    "service_date":"08\/01\/2026",
+    "county":"Clay",
     "state":"MS",
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
-    "join_key":"pontotoc_ms"
+    "join_key":"clay_ms"
   },
   {
-    "index":72,
-    "id":537.0,
-    "name":"Weakley - Dyersburg No 1 161-kV TL",
-    "capacity":200.0,
-    "fuel":"Wind",
-    "submitted_date":"03\/27\/2023",
-    "service_date":"09\/01\/2024",
-    "county":"Gibson",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"gibson_tn"
-  },
-  {
-    "index":105,
+    "index":80,
     "id":606.0,
-    "name":"TVA's S tatel ine-Wes t Poin t 16 1 kV TL",
+    "name":"TVA's Stateline-West Point 161 kV TL",
     "capacity":200.0,
     "fuel":"Solar",
     "submitted_date":"01\/22\/2024",
@@ -72128,7 +71904,7 @@
     "join_key":"monroe_ms"
   },
   {
-    "index":148,
+    "index":105,
     "id":661.0,
     "name":"TVA's Allen \u2013 Freeport 161kV TL",
     "capacity":200.0,
@@ -72142,49 +71918,7 @@
     "join_key":"shelby_tn"
   },
   {
-    "index":151,
-    "id":665.0,
-    "name":"TVA's Allen 161kV Substation",
-    "capacity":200.0,
-    "fuel":"Storage",
-    "submitted_date":"10\/03\/2024",
-    "service_date":"07\/01\/2028",
-    "county":"Shelby",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"shelby_tn"
-  },
-  {
-    "index":156,
-    "id":670.0,
-    "name":"TVA's Widows Creek 161-kV Substation",
-    "capacity":200.0,
-    "fuel":"Storage",
-    "submitted_date":"10\/28\/2024",
-    "service_date":"06\/30\/2028",
-    "county":"Jackson",
-    "state":"AL",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"jackson_al"
-  },
-  {
-    "index":73,
-    "id":549.0,
-    "name":"Colbert FP - Pickwick HP 161 kV TL",
-    "capacity":198.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"05\/01\/2023",
-    "service_date":"11\/01\/2030",
-    "county":"Hardin",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"hardin_tn"
-  },
-  {
-    "index":82,
+    "index":71,
     "id":588.0,
     "name":"L5396, Str 8 - Allen CCP",
     "capacity":198.0,
@@ -72196,34 +71930,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"shelby_tn"
-  },
-  {
-    "index":93,
-    "id":563.0,
-    "name":"Colbert FP - Tupelo No 1 161 kV TL",
-    "capacity":198.0,
-    "fuel":"Solar",
-    "submitted_date":"06\/15\/2023",
-    "service_date":"01\/00\/1900",
-    "county":"Franklin",
-    "state":"AL",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"franklin_al"
-  },
-  {
-    "index":96,
-    "id":582.0,
-    "name":"Colbert FP - Lawrenceburg 161 kV",
-    "capacity":195.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/19\/2023",
-    "service_date":"07\/30\/2026",
-    "county":"Lawrence",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"lawrence_tn"
   },
   {
     "index":24,
@@ -72238,48 +71944,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"lawrence_al"
-  },
-  {
-    "index":94,
-    "id":571.0,
-    "name":"Clinton, KY 161-kV Switching Station",
-    "capacity":175.0,
-    "fuel":"Solar",
-    "submitted_date":"06\/22\/2023",
-    "service_date":"01\/10\/2025",
-    "county":"Hickman",
-    "state":"KY",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"hickman_ky"
-  },
-  {
-    "index":106,
-    "id":607.0,
-    "name":"PUMP STA, FIVE POINTS, S COLUMBIA) 161\rKV TL",
-    "capacity":175.0,
-    "fuel":"Solar",
-    "submitted_date":"01\/24\/2024",
-    "service_date":"02\/28\/2027",
-    "county":"Lawrence",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"lawrence_tn"
-  },
-  {
-    "index":139,
-    "id":652.0,
-    "name":"North Vardaman Metering Station 361022",
-    "capacity":175.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/24\/2024",
-    "service_date":"03\/01\/2028",
-    "county":"Calhoun",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"calhoun_ms"
   },
   {
     "index":17,
@@ -72308,34 +71972,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"colbert_al"
-  },
-  {
-    "index":97,
-    "id":584.0,
-    "name":"TVA's Canadaville - Hickory Valley 161 kV TL",
-    "capacity":165.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/19\/2023",
-    "service_date":"08\/01\/2009",
-    "county":"Fayette",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"fayette_tn"
-  },
-  {
-    "index":128,
-    "id":640.0,
-    "name":"TVA\u2019s Lagoon Creek-Brownsville 161kV TL",
-    "capacity":165.0,
-    "fuel":"Solar",
-    "submitted_date":"08\/28\/2024",
-    "service_date":"08\/01\/2029",
-    "county":"Haywood",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"haywood_tn"
   },
   {
     "index":0,
@@ -72450,35 +72086,7 @@
     "join_key":"chickasaw_ms"
   },
   {
-    "index":76,
-    "id":553.0,
-    "name":"Okolona - West Point 161-kV TL",
-    "capacity":150.0,
-    "fuel":"Solar",
-    "submitted_date":"05\/15\/2023",
-    "service_date":"06\/01\/2026",
-    "county":"Monroe",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"monroe_ms"
-  },
-  {
-    "index":110,
-    "id":615.0,
-    "name":"161 kV Bus at Weakley Substation",
-    "capacity":150.0,
-    "fuel":"Storage",
-    "submitted_date":"05\/29\/2024",
-    "service_date":"01\/15\/2029",
-    "county":"Weakley",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"weakley_tn"
-  },
-  {
-    "index":131,
+    "index":94,
     "id":644.0,
     "name":"TVA's N. Union  City - Woodland Mills 161 kV\rTL",
     "capacity":150.0,
@@ -72492,7 +72100,7 @@
     "join_key":"obion_tn"
   },
   {
-    "index":153,
+    "index":107,
     "id":667.0,
     "name":"Wheeler-Trinty 161kV TL",
     "capacity":150.0,
@@ -72506,7 +72114,7 @@
     "join_key":"lawrence_al"
   },
   {
-    "index":155,
+    "index":108,
     "id":669.0,
     "name":"Smith Mountain SW STA - Watts Bar HP 161-\rkV TL",
     "capacity":150.0,
@@ -72548,34 +72156,6 @@
     "join_key":"chickasaw_ms"
   },
   {
-    "index":67,
-    "id":513.0,
-    "name":"Wheeler HP - Maury 161kV TL",
-    "capacity":145.0,
-    "fuel":"Storage",
-    "submitted_date":"08\/24\/2022",
-    "service_date":"03\/26\/2027",
-    "county":"Maury",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"maury_tn"
-  },
-  {
-    "index":75,
-    "id":552.0,
-    "name":"Corinth, MS 161-kV Switching Station",
-    "capacity":144.0,
-    "fuel":"Storage",
-    "submitted_date":"05\/08\/2023",
-    "service_date":"04\/30\/2027",
-    "county":"Alcorn",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"alcorn_ms"
-  },
-  {
     "index":51,
     "id":510.0,
     "name":"Huntingdon - Milan 161-kV TL",
@@ -72590,7 +72170,7 @@
     "join_key":"carroll_tn"
   },
   {
-    "index":158,
+    "index":110,
     "id":672.0,
     "name":"TVA's Sebastopol-Leake 161kV  TL",
     "capacity":140.0,
@@ -72660,7 +72240,7 @@
     "join_key":"henderson_tn"
   },
   {
-    "index":65,
+    "index":64,
     "id":558.0,
     "name":"Hopson, KY 161-kV Substation",
     "capacity":125.0,
@@ -72672,48 +72252,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"caldwell_ky"
-  },
-  {
-    "index":152,
-    "id":666.0,
-    "name":"Volunteer 161kV substation",
-    "capacity":120.0,
-    "fuel":"Storage",
-    "submitted_date":"10\/03\/2024",
-    "service_date":"06\/30\/2028",
-    "county":"knox",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"knox_tn"
-  },
-  {
-    "index":136,
-    "id":649.0,
-    "name":"TVA's Paradise CC 161-kV Substation",
-    "capacity":119.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/23\/2024",
-    "service_date":"10\/01\/2033",
-    "county":"Muhlenberg",
-    "state":"KY",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"muhlenberg_ky"
-  },
-  {
-    "index":70,
-    "id":534.0,
-    "name":"Paradise FP - E Bowling Green SW STA 161kV\rTL",
-    "capacity":115.0,
-    "fuel":"Solar",
-    "submitted_date":"03\/22\/2023",
-    "service_date":"04\/30\/2026",
-    "county":"Butler",
-    "state":"KY",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"butler_ky"
   },
   {
     "index":43,
@@ -72730,32 +72268,18 @@
     "join_key":"cumberland_tn"
   },
   {
-    "index":69,
-    "id":523.0,
-    "name":"Tiptonville - Ridgely 161-kV TL",
+    "index":106,
+    "id":662.0,
+    "name":"161 Bus at Limestone substation",
     "capacity":110.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"10\/25\/2022",
-    "service_date":"03\/01\/2026",
-    "county":"Lake",
+    "fuel":"Solar",
+    "submitted_date":"10\/01\/2024",
+    "service_date":"04\/01\/2027",
+    "county":"Madison",
     "state":"AL",
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
-    "join_key":"lake_al"
-  },
-  {
-    "index":74,
-    "id":551.0,
-    "name":"Weakley - Dyersburg No 1 161-kV TL",
-    "capacity":110.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"05\/05\/2023",
-    "service_date":"08\/29\/2024",
-    "county":"Gibson",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"gibson_tn"
+    "join_key":"madison_al"
   },
   {
     "index":7,
@@ -72814,7 +72338,7 @@
     "join_key":"clay_ms"
   },
   {
-    "index":64,
+    "index":63,
     "id":547.0,
     "name":"Kingston Steam Plant 161kV Switchayrd",
     "capacity":100.0,
@@ -72828,7 +72352,7 @@
     "join_key":"roane_tn"
   },
   {
-    "index":90,
+    "index":76,
     "id":611.0,
     "name":"Mt. Pleasant 161kV substation",
     "capacity":100.0,
@@ -72842,7 +72366,7 @@
     "join_key":"maury_tn"
   },
   {
-    "index":127,
+    "index":90,
     "id":639.0,
     "name":"Widow\u2019s Creek FP \u2013 Bellefonte NP 161kv TL",
     "capacity":100.0,
@@ -72856,7 +72380,7 @@
     "join_key":"jackson_al"
   },
   {
-    "index":130,
+    "index":93,
     "id":643.0,
     "name":"TVA Allen - Freeport 161 kV Line",
     "capacity":100.0,
@@ -72870,35 +72394,7 @@
     "join_key":"helbycount_tn"
   },
   {
-    "index":140,
-    "id":653.0,
-    "name":"Lake County Switching Station 161kV",
-    "capacity":100.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/26\/2024",
-    "service_date":"09\/01\/2025",
-    "county":"Lake",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"lake_tn"
-  },
-  {
-    "index":150,
-    "id":664.0,
-    "name":"161kV side of Okolona Substation",
-    "capacity":100.0,
-    "fuel":"Solar",
-    "submitted_date":"10\/03\/2024",
-    "service_date":"06\/14\/2027",
-    "county":"Chickasaw",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"chickasaw_ms"
-  },
-  {
-    "index":147,
+    "index":104,
     "id":660.0,
     "name":"Widow's Creek 161 kV Switchyard",
     "capacity":99.0,
@@ -72912,7 +72408,7 @@
     "join_key":"jackson_al"
   },
   {
-    "index":88,
+    "index":75,
     "id":609.0,
     "name":"Shawnee 161kV Buss",
     "capacity":96.0,
@@ -72924,6 +72420,20 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"mccracken_ky"
+  },
+  {
+    "index":92,
+    "id":642.0,
+    "name":"TVA's Paradise CC 161-kV Substation",
+    "capacity":96.0,
+    "fuel":"Solar",
+    "submitted_date":"09\/05\/2024",
+    "service_date":"01\/00\/1900",
+    "county":"Muhlenberg",
+    "state":"KY",
+    "transmission_owner":"TVA",
+    "iso_utility":"TVA",
+    "join_key":"muhlenberg_ky"
   },
   {
     "index":58,
@@ -72940,20 +72450,6 @@
     "join_key":"pinola_ms"
   },
   {
-    "index":154,
-    "id":668.0,
-    "name":"Charleston - Athens 161-kV TL",
-    "capacity":90.0,
-    "fuel":"Solar",
-    "submitted_date":"10\/04\/2024",
-    "service_date":"07\/01\/2031",
-    "county":"McMinn",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"mcminn_tn"
-  },
-  {
     "index":32,
     "id":426.0,
     "name":"Johnsonville Fossil Plant - 161kV Yard",
@@ -72966,20 +72462,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"humphreys_tn"
-  },
-  {
-    "index":86,
-    "id":605.0,
-    "name":"TVA's West Adamsville - Selmer 161kV TL",
-    "capacity":81.0,
-    "fuel":"Storage",
-    "submitted_date":"01\/05\/2024",
-    "service_date":"05\/10\/2027",
-    "county":"McNairy",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"mcnairy_tn"
   },
   {
     "index":4,
@@ -72996,35 +72478,7 @@
     "join_key":"lake_tn"
   },
   {
-    "index":103,
-    "id":603.0,
-    "name":"TVA's West Adamsville - selmer 161 kV TL\r(Tap)",
-    "capacity":80.0,
-    "fuel":"Solar",
-    "submitted_date":"12\/18\/2023",
-    "service_date":"05\/10\/2027",
-    "county":"McNairy",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"mcnairy_tn"
-  },
-  {
-    "index":149,
-    "id":663.0,
-    "name":"TVA Paris-Mayfield 161 kV TL",
-    "capacity":75.0,
-    "fuel":"Solar",
-    "submitted_date":"10\/03\/2024",
-    "service_date":"06\/14\/2027",
-    "county":"Henry",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"henry_tn"
-  },
-  {
-    "index":157,
+    "index":109,
     "id":671.0,
     "name":"TVA's Clay-Okolona 161 kV TL",
     "capacity":75.0,
@@ -73052,7 +72506,7 @@
     "join_key":"shelby_tn"
   },
   {
-    "index":137,
+    "index":97,
     "id":650.0,
     "name":"Paradise CC 161-kV Substation",
     "capacity":72.0,
@@ -73108,35 +72562,7 @@
     "join_key":"simpson_ky"
   },
   {
-    "index":108,
-    "id":613.0,
-    "name":"Weakley \u2013 Dyersburg #1 161kV TL",
-    "capacity":69.0,
-    "fuel":"Solar",
-    "submitted_date":"05\/06\/2024",
-    "service_date":"10\/12\/2028",
-    "county":"Gibson",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"gibson_tn"
-  },
-  {
-    "index":121,
-    "id":630.0,
-    "name":"TVA's Clayton Village - Midway161kV TL",
-    "capacity":69.0,
-    "fuel":"Solar",
-    "submitted_date":"06\/26\/2024",
-    "service_date":"07\/01\/2029",
-    "county":"Lowndes",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"lowndes_ms"
-  },
-  {
-    "index":123,
+    "index":87,
     "id":632.0,
     "name":"U  Cement Tap - Holman MS 161 kV TL",
     "capacity":69.0,
@@ -73150,7 +72576,7 @@
     "join_key":"oktibbeha_ms"
   },
   {
-    "index":132,
+    "index":95,
     "id":645.0,
     "name":"Structure 701-Stanton 161kV TL",
     "capacity":69.0,
@@ -73220,21 +72646,7 @@
     "join_key":"lawrence_al"
   },
   {
-    "index":91,
-    "id":616.0,
-    "name":"Johnsonville FP-Lawrenceburg 161kV TL",
-    "capacity":66.0,
-    "fuel":"Solar",
-    "submitted_date":"06\/07\/2024",
-    "service_date":"11\/30\/2027",
-    "county":"Lawrence",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"lawrence_tn"
-  },
-  {
-    "index":109,
+    "index":81,
     "id":614.0,
     "name":"Wheeler-Mt. Pleasant 161 kV TL",
     "capacity":66.0,
@@ -73248,7 +72660,7 @@
     "join_key":"lawrence_tn"
   },
   {
-    "index":129,
+    "index":91,
     "id":641.0,
     "name":"TAP STR 97-LAFARGE HOLCIM (UNITED\rCEMENT) 161kV TL",
     "capacity":66.0,
@@ -73260,34 +72672,6 @@
     "transmission_owner":"TVA",
     "iso_utility":"TVA",
     "join_key":"oktibbeha_ms"
-  },
-  {
-    "index":133,
-    "id":646.0,
-    "name":"Selmer Substation 161 kV TL",
-    "capacity":66.0,
-    "fuel":"Solar",
-    "submitted_date":"09\/17\/2024",
-    "service_date":"11\/20\/2027",
-    "county":"McNairy",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"mcnairy_tn"
-  },
-  {
-    "index":124,
-    "id":634.0,
-    "name":"Langford-Leake 161 kV TL",
-    "capacity":61.0,
-    "fuel":"Solar",
-    "submitted_date":"07\/02\/2024",
-    "service_date":"12\/13\/2027",
-    "county":"Leake County",
-    "state":"MS",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"leakecounty_ms"
   },
   {
     "index":8,
@@ -73304,49 +72688,7 @@
     "join_key":"monroe_ms"
   },
   {
-    "index":89,
-    "id":610.0,
-    "name":"Hickory Valley-Counce 161kV TL",
-    "capacity":60.0,
-    "fuel":"Solar",
-    "submitted_date":"03\/11\/2024",
-    "service_date":"11\/30\/2027",
-    "county":"McNairy",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"mcnairy_tn"
-  },
-  {
-    "index":100,
-    "id":595.0,
-    "name":"FULTONDALE (INCL TRAFFORD,\rBLOUNTSVILLE) 115 KV",
-    "capacity":60.0,
-    "fuel":"Solar+Storage",
-    "submitted_date":"12\/01\/2023",
-    "service_date":"02\/14\/2028",
-    "county":"Blount",
-    "state":"AL",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"blount_al"
-  },
-  {
     "index":101,
-    "id":596.0,
-    "name":"TVA Rockwood - Peavine SW STA 161-kV TL",
-    "capacity":60.0,
-    "fuel":"Solar",
-    "submitted_date":"12\/02\/2023",
-    "service_date":"04\/30\/2027",
-    "county":"Morgan",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"morgan_tn"
-  },
-  {
-    "index":144,
     "id":657.0,
     "name":"Paradise CC Plant",
     "capacity":60.0,
@@ -73360,7 +72702,7 @@
     "join_key":"muhlenberg_ky"
   },
   {
-    "index":143,
+    "index":100,
     "id":656.0,
     "name":"Magnolia CC Plant",
     "capacity":54.0,
@@ -73444,7 +72786,7 @@
     "join_key":"lyon_ky"
   },
   {
-    "index":135,
+    "index":96,
     "id":648.0,
     "name":"Cherokee HP Bus 360466",
     "capacity":32.0,
@@ -73500,21 +72842,7 @@
     "join_key":"marion_tn"
   },
   {
-    "index":107,
-    "id":612.0,
-    "name":"Cordova - Diffee 161-kV TL",
-    "capacity":27.0,
-    "fuel":"Solar",
-    "submitted_date":"04\/18\/2024",
-    "service_date":"10\/12\/2028",
-    "county":"Fayette",
-    "state":"TN",
-    "transmission_owner":"TVA",
-    "iso_utility":"TVA",
-    "join_key":"fayette_tn"
-  },
-  {
-    "index":118,
+    "index":85,
     "id":627.0,
     "name":"Existing",
     "capacity":25.0,
@@ -73528,7 +72856,7 @@
     "join_key":"hamilton_tn"
   },
   {
-    "index":126,
+    "index":89,
     "id":637.0,
     "name":"SQN 500kV Switchyard",
     "capacity":24.0,
@@ -73556,7 +72884,7 @@
     "join_key":"shelby_tn"
   },
   {
-    "index":141,
+    "index":98,
     "id":654.0,
     "name":"Chickamauga HP Bus 360712",
     "capacity":23.0,
@@ -73570,7 +72898,7 @@
     "join_key":"hamilton_tn"
   },
   {
-    "index":142,
+    "index":99,
     "id":655.0,
     "name":"Chickamauga HP Bus 360713",
     "capacity":23.0,
@@ -73584,7 +72912,7 @@
     "join_key":"hamilton_tn"
   },
   {
-    "index":81,
+    "index":69,
     "id":586.0,
     "name":"Waynesboro City - Clifton City 69 kV TL",
     "capacity":20.0,
@@ -73640,7 +72968,7 @@
     "join_key":"hamilton_tn"
   },
   {
-    "index":146,
+    "index":103,
     "id":659.0,
     "name":"Ft.  Loudon Hydro Bus 034444",
     "capacity":8.0,
@@ -73654,9 +72982,9 @@
     "join_key":"loudon_tn"
   },
   {
-    "index":99,
+    "index":78,
     "id":590.0,
-    "name":"Nickajack  Dam",
+    "name":"Nickajack Dam",
     "capacity":7.0,
     "fuel":"Other",
     "submitted_date":"11\/03\/2023",
@@ -73668,7 +72996,7 @@
     "join_key":"0_al"
   },
   {
-    "index":145,
+    "index":102,
     "id":658.0,
     "name":"Ft. Loudon Hydro Bus 364422",
     "capacity":7.0,
@@ -73696,7 +73024,7 @@
     "join_key":"hamilton_tn"
   },
   {
-    "index":116,
+    "index":84,
     "id":625.0,
     "name":"Browns Ferry Nuclear Plant 500-kV\rSwitchyard",
     "capacity":6.0,
