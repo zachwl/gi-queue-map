@@ -98,14 +98,14 @@ def getISONEQueue():
         isone_backup_df = pd.read_csv(f'data/individual_queues/isone_active_projects.csv')
         # Extract wind projects
         isone_wind_projects = isone_backup_df[isone_backup_df['fuel'] == 'Wind']
-        print(len(isone_wind_projects))
+        #print(len(isone_wind_projects))
         index = isone_wind_projects['id']
         counties = isone_wind_projects['county']
         data = {'id': index, 'county': counties}
 
         df_for_update = pd.DataFrame(data = data)
         df_for_update.set_index('id', inplace = True, drop = True)
-        df_for_update.to_csv('C:/Users/zleig/Downloads/df_for_update.csv', index = True)
+        #df_for_update.to_csv('C:/Users/zleig/Downloads/df_for_update.csv', index = True)
         isone_active_projects.set_index('id', inplace = True, drop = False)
 
         isone_active_projects.update(df_for_update)
