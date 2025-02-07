@@ -411,7 +411,7 @@ id,name,capacity,fuel,submitted_date,service_date,county,state,transmission_owne
 758,Ocean State Power uprate,73,Other,4/26/2018,11/30/2025,Providence,RI,ISO-NE,ISONE,providence_ri
 726,Cranberry Point Energy Storage,150,Storage,3/21/2018,5/30/2025,Plymouth,MA,ISO-NE,ISONE,plymouth_ma
 710,Solar,20,Solar,2/21/2018,2/6/2025,Litchfield,CT,NU,ISONE,litchfield_ct
-700,Park City Offshore Wind,791,Wind,12/15/2017,12/31/2029,Barnstable,MA,ISO-NE,ISONE,barnstable_ma
+700,Park City Offshore Wind,791,Wind,12/15/2017,12/31/2029,,MA,ISO-NE,ISONE,barnstable_ma
 680,Fair Haven Solar,20,Solar,8/3/2017,1/1/2026,Rutland,VT,ISO-NE,ISONE,rutland_vt
 674,Shaftsbury Solar,20,Solar,7/28/2017,1/1/2026,Bennington,VT,ISO-NE,ISONE,bennington_vt
 624,Vineyard Offshore Wind,800,Wind,11/8/2016,5/26/2025,Barnstable,MA,ISO-NE,ISONE,barnstable_ma
