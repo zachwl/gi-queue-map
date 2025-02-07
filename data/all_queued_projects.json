@@ -1645,11 +1645,11 @@
     "fuel":"Wind",
     "submitted_date":"2017-12-15",
     "service_date":"2029-12-31",
-    "county":null,
+    "county":"Barnstable",
     "state":"MA",
     "transmission_owner":"ISO-NE",
     "iso_utility":"ISONE",
-    "join_key":null
+    "join_key":"barnstable_ma"
   },
   {
     "index":1460,
