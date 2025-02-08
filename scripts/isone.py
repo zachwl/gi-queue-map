@@ -92,9 +92,30 @@ def getISONEQueue():
 
         # Create new column to highlight which RTO/utility this data came from
         isone_active_projects['iso_utility'] = 'ISONE'
+
+
+        # Once CSV is fully created, bring over the locations of the offshore wind projects
+        isone_backup_df = pd.read_csv(f'data/individual_queues/isone_active_projects.csv')
+        # Extract wind projects
+        isone_wind_projects = isone_backup_df[isone_backup_df['fuel'] == 'Wind']
+        #print(len(isone_wind_projects))
+        index = isone_wind_projects['id']
+        counties = isone_wind_projects['county']
+        data = {'id': index, 'county': counties}
+
+        df_for_update = pd.DataFrame(data = data)
+        df_for_update.set_index('id', inplace = True, drop = True)
+        #df_for_update.to_csv('C:/Users/zleig/Downloads/df_for_update.csv', index = True)
+        isone_active_projects.set_index('id', inplace = True, drop = False)
+
+        isone_active_projects.update(df_for_update)
+
         # Create a common key from county name and state abbr
         # This will allow the data to be joined to spatial layer later
         isone_active_projects = createJoinKey(isone_active_projects)
+        missing_county_test = isone_active_projects[(isone_active_projects['county'].isna()) & (isone_active_projects['fuel'] == 'Wind')]
+        if len(missing_county_test) > 0:
+            sendEmail('Attention needed for ISONE', 'There are wind projects with missing counties')
         # Export to CSV
         # This will act as a "backup" in case the next run fails
         isone_active_projects.to_csv(f'data/individual_queues/isone_active_projects.csv', index = False)
@@ -109,4 +130,4 @@ def getISONEQueue():
         isone_backup = pd.read_csv('data/individual_queues/isone_active_projects.csv')
         return isone_backup
 
-#getISONEQueue().to_csv('C:/Users/zleig/Downloads/tempisone.csv', index = False)
+#getISONEQueue().to_csv('C:/Users/zleig/Downloads/tempisone3.csv', index = False)
