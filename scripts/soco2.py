@@ -103,11 +103,11 @@ def getSOCOQueue():
         #### Standardize Columns ####
 
         # These are the 9 columns that I want to keep from the SoCo data
-        soco_relevant_fields = ['Request', 
+        soco_relevant_fields = ['Request\n ', 
                                 'Proposed POI', 
                                 'Total Net MW', 
                                 'temp_fuel', 
-                                'Queue Date\n ', 
+                                'Queue Date', 
                                 'In-Service Requested', 
                                 'county', 
                                 'state', 
@@ -155,5 +155,3 @@ def getSOCOQueue():
         sendEmail('Error raised in soco.py', error)
         soco_backup = pd.read_csv('data/individual_queues/soco_active_projects.csv')
         return soco_backup
-
-#getSOCOQueue().to_csv(f"C:/Users/zleig/Downloads/tempsoco.csv", index = False)
